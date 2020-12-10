@@ -65,7 +65,7 @@ model = make_pipeline(
 )
 #print(np.stack([df['Latitude']], axis=1))
 model.fit(np.stack([df['Latitude']], axis=1), df['Longitude'])
-x = np.linspace(df['Latitude'].max(), df['Latitude'].min(),100, dtype=np.longfloat)
+x = np.linspace(df['Latitude'].max(), df['Latitude'].min(),10, dtype=np.longfloat)
 y = model.predict(np.stack([x], axis=1))
 #plt.scatter(x, model.predict(np.stack([x], axis=1)))
 #plt.show()
