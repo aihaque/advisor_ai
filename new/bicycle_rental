@@ -1,0 +1,203 @@
+amenity,lat,lon,name,tags,timestamp
+bicycle_rental,49.2943135,-123.14871389999999,Stanley Park - Second Beach South,"{'ref': '0104', 'capacity': '18', 'network': 'Mobi'}",2017-06-03T23:34:25.000-07:00
+bicycle_rental,49.2808952,-123.130541,Thurlow & Pendrell,"{'ref': '0126', 'capacity': '16', 'network': 'Mobi'}",2018-08-11T21:51:34.000-07:00
+bicycle_rental,49.2629314,-123.14334869999999,Pine & 10th,"{'ref': '0205', 'capacity': '20', 'network': 'Mobi'}",2017-04-29T03:52:47.000-07:00
+bicycle_rental,49.258866,-123.14351540000001,Pine & 14th,"{'ref': '0203', 'capacity': '16', 'network': 'Mobi'}",2017-04-29T03:52:47.000-07:00
+bicycle_rental,49.2667647,-123.14114939999999,Arbutus & Fir,"{'ref': '0153', 'capacity': '16', 'network': 'Mobi'}",2017-08-04T17:26:12.000-07:00
+bicycle_rental,49.259254299999995,-123.12008600000001,Heather & 14th,"{'ref': '0106', 'capacity': '16', 'network': 'Mobi'}",2017-01-08T22:59:39.000-08:00
+bicycle_rental,49.2653522,-123.1457925,Burrard & 7th,"{'ref': '0140', 'capacity': '16', 'network': 'Mobi'}",2017-12-22T03:54:12.000-08:00
+bicycle_rental,49.2762933,-123.1065399,Carrall & Seawall,"{'ref': '0218', 'capacity': '18', 'network': 'Mobi'}",2017-07-03T19:02:43.000-07:00
+bicycle_rental,49.2832278,-123.1370254,Broughton & Burnaby,"{'operator:type': 'private', 'ref': '0087', 'fee': 'yes', 'payment:subscription': 'yes', 'operator': 'Shaw', 'capacity': '16', 'network': 'Mobi'}",2020-04-24T18:40:08.000-07:00
+bicycle_rental,49.2682841,-123.1025436,3rd & Quebec,"{'ref': '0119', 'capacity': '14', 'network': 'Mobi'}",2017-04-29T03:52:46.000-07:00
+bicycle_rental,49.2676184,-123.1277051,South False Creek Seawall,"{'ref': '0143', 'capacity': '14', 'network': 'Mobi'}",2018-03-17T03:24:55.000-07:00
+bicycle_rental,49.281437200000006,-123.13985459999999,Sunset Beach West,"{'ref': '0084', 'capacity': '16', 'network': 'Mobi'}",2017-04-29T03:52:48.000-07:00
+bicycle_rental,49.2650434,-123.12376909999999,7th & Laurel,"{'ref': '0191', 'capacity': '14', 'network': 'Mobi'}",2019-06-14T04:27:30.000-07:00
+bicycle_rental,49.263669,-123.1524524,Arbutus Greenway & Broadway,"{'ref': '0208', 'capacity': '20', 'network': 'Mobi'}",2017-04-29T03:52:47.000-07:00
+bicycle_rental,49.265176700000005,-123.1310129,7th & Alder,"{'ref': '0192', 'capacity': '16', 'network': 'Mobi'}",2019-06-14T04:27:30.000-07:00
+bicycle_rental,49.2589114,-123.10956759999999,Columbia & 14th,"{'ref': '0180', 'capacity': '14', 'network': 'Mobi'}",2019-06-14T04:27:29.000-07:00
+bicycle_rental,49.2707276,-123.1461997,1st & Chestnut,"{'ref': '0108', 'capacity': '16', 'network': 'Mobi'}",2018-05-20T04:23:18.000-07:00
+bicycle_rental,49.2877533,-123.12390479999999,Melville & Bute,"{'ref': '0190', 'capacity': '14', 'network': 'Mobi'}",2018-05-15T01:27:33.000-07:00
+bicycle_rental,49.2565028,-123.0754794,15th & Knight,"{'ref': '0283', 'capacity': '14', 'network': 'Mobi'}",2018-07-28T05:07:16.000-07:00
+bicycle_rental,49.2587815,-123.0927683,13th & St. George,"{'ref': '0258', 'capacity': '16', 'network': 'Mobi'}",2018-07-28T05:07:16.000-07:00
+bicycle_rental,49.27525429999999,-123.1325611,Beach & Hornby,"{'ref': '0045', 'capacity': '18', 'network': 'Mobi'}",2019-12-20T22:31:49.000-08:00
+bicycle_rental,49.278519700000004,-123.1000524,Georgia & Main,"{'ref': '0199', 'capacity': '20', 'network': 'Mobi'}",2018-07-18T03:49:58.000-07:00
+bicycle_rental,49.262081200000004,-123.10184650000001,10th & Main,"{'ref': '0074', 'capacity': '18', 'network': 'Mobi'}",2018-07-28T05:07:16.000-07:00
+bicycle_rental,49.295339299999995,-123.1504703,Stanley Park - Second Beach North,"{'ref': '0102', 'capacity': '16', 'network': 'Mobi'}",2017-07-26T23:00:30.000-07:00
+bicycle_rental,49.2546874,-123.1013355,18th & Main,"{'ref': '0255', 'capacity': '16', 'network': 'Mobi'}",2018-08-03T04:47:48.000-07:00
+bicycle_rental,49.2992547,-123.13032859999998,Stanley Park - Vancouver Aquarium,"{'ref': '0101', 'capacity': '16', 'network': 'Mobi'}",2017-06-03T23:34:25.000-07:00
+bicycle_rental,49.2635448,-123.1480813,Cypress & Broadway,"{'ref': '0068', 'capacity': '16', 'network': 'Mobi'}",2016-11-03T18:50:30.000-07:00
+bicycle_rental,49.273118700000005,-123.0731844,Charles & Woodland,"{'ref': '0253', 'capacity': '14', 'network': 'Mobi'}",2018-08-03T04:47:47.000-07:00
+bicycle_rental,49.2666761,-123.0734696,Woodland & 4th,"{'ref': '0250', 'capacity': '14', 'network': 'Mobi'}",2018-08-03T04:47:47.000-07:00
+bicycle_rental,49.2644331,-123.0851365,St Catherines & 7th,"{'ref': '0266', 'capacity': '20', 'network': 'Mobi'}",2018-08-03T04:47:47.000-07:00
+bicycle_rental,49.2635225,-123.09562530000001,8th & Prince Edward,"{'ref': '0262', 'capacity': '18', 'network': 'Mobi'}",2018-08-03T04:47:48.000-07:00
+bicycle_rental,49.267390500000005,-123.0907632,Carolina & Great Northern Way,"{'ref': '0287', 'capacity': '16', 'network': 'Mobi'}",2018-08-03T04:47:48.000-07:00
+bicycle_rental,49.2736718,-123.10225420000002,Science World,"{'ref': '0193', 'capacity': '16', 'network': 'Mobi'}",2018-08-29T02:59:25.000-07:00
+bicycle_rental,49.258781,-123.12710990000002,14th & Oak,"{'ref': '0202', 'capacity': '14', 'network': 'Mobi'}",2018-08-03T04:47:49.000-07:00
+bicycle_rental,49.2876362,-123.1272215,Alberni & Jervis,"{'ref': '0207', 'capacity': '14', 'network': 'Mobi'}",2018-08-03T04:47:49.000-07:00
+bicycle_rental,49.2781965,-123.1369457,Aquatic Centre,"{'ref': '0083', 'capacity': '36', 'network': 'Mobi'}",2016-11-03T22:14:52.000-07:00
+bicycle_rental,49.266315999999996,-123.1161009,Olympic Village Station,"{'alt_name': '2nd & Cambie', 'ref': '0006', 'capacity': '26', 'network': 'Mobi'}",2019-04-27T02:49:46.000-07:00
+bicycle_rental,49.2904179,-123.12585159999998,Coal Harbour Community Centre,"{'ref': '0035', 'capacity': '28', 'network': 'Mobi'}",2017-04-04T01:44:17.000-07:00
+bicycle_rental,49.2986558,-123.1212092,Stanley Park - Totem Poles,"{'ref': '0105', 'capacity': '22', 'network': 'Mobi'}",2017-06-03T23:34:24.000-07:00
+bicycle_rental,49.2589484,-123.15261299999999,Arbutus Greenway & 14th,"{'ref': '0152', 'capacity': '20', 'network': 'Mobi'}",2020-06-23T19:50:12.000-07:00
+bicycle_rental,49.2584988,-123.1048152,14th & Ontario,"{'ref': '0132', 'capacity': '16', 'network': 'Mobi'}",2017-04-06T04:12:46.000-07:00
+bicycle_rental,49.2683741,-123.15743390000002,Vine & 4th,"{'ref': '0159', 'capacity': '18', 'network': 'Mobi'}",2016-11-06T22:59:03.000-08:00
+bicycle_rental,49.2827328,-123.1220614,Robson & Hornby,"{'ref': '0019', 'capacity': '30', 'network': 'Mobi'}",2016-11-09T21:00:27.000-08:00
+bicycle_rental,49.267121,-123.10937790000001,Columbia & 4th,"{'ref': '0165', 'capacity': '18', 'network': 'Mobi'}",2016-11-10T06:29:44.000-08:00
+bicycle_rental,49.267233000000004,-123.15318629999999,5th & Arbutus,"{'ref': '0110', 'capacity': '16', 'network': 'Mobi'}",2016-11-10T06:29:44.000-08:00
+bicycle_rental,49.2860549,-123.1241903,Georgia & Thurlow,"{'ref': '0123', 'capacity': '12', 'network': 'Mobi'}",2017-06-15T02:52:31.000-07:00
+bicycle_rental,49.2831979,-123.1204825,Vancouver Art Gallery - North Plaza,"{'ref': '0099', 'capacity': '28', 'network': 'Mobi'}",2017-11-20T19:58:10.000-08:00
+bicycle_rental,49.2709252,-123.1259935,David Lam Park - West,"{'ref': '0136', 'capacity': '18', 'network': 'Mobi'}",2017-11-21T10:18:54.000-08:00
+bicycle_rental,49.29791029999999,-123.13072350000002,Stanley Park - Information Booth,"{'ref': '0209', 'capacity': '20', 'network': 'Mobi'}",2017-06-03T23:34:24.000-07:00
+bicycle_rental,49.286095,-123.11322369999999,Cordova & Granville,"{'ref': '0021', 'capacity': '22', 'network': 'Mobi'}",2018-07-24T03:48:36.000-07:00
+bicycle_rental,49.2588295,-123.1313655,14th & Alder,"{'ref': '0211', 'capacity': '14', 'network': 'Mobi'}",2017-06-02T21:59:07.000-07:00
+bicycle_rental,49.28011970000001,-123.0741648,McLean & Pender,"{'ref': '0225', 'capacity': '16', 'network': 'Mobi'}",2018-08-29T02:59:25.000-07:00
+bicycle_rental,49.2755641,-123.102753,Creekside Park North,"{'ref': '0148', 'capacity': '18', 'network': 'Mobi'}",2018-07-06T04:29:34.000-07:00
+bicycle_rental,49.2666307,-123.06586180000001,Victoria & 4th,"{'ref': '0273', 'capacity': '16', 'network': 'Mobi'}",2018-08-08T04:14:31.000-07:00
+bicycle_rental,49.28017929999999,-123.0660122,Pender & Victoria,"{'ref': '0272', 'capacity': '16', 'network': 'Mobi'}",2018-08-08T04:14:32.000-07:00
+bicycle_rental,49.2803186,-123.07006559999999,Pender & Commercial,"{'ref': '0224', 'capacity': '16', 'network': 'Mobi'}",2018-08-08T04:14:32.000-07:00
+bicycle_rental,49.2580237,-123.0833488,Windsor & 14th,"{'ref': '0281', 'capacity': '14', 'network': 'Mobi'}",2019-06-26T03:53:15.000-07:00
+bicycle_rental,49.257952100000004,-123.0895274,14th & Fraser,"{'ref': '0282', 'capacity': '16', 'network': 'Mobi'}",2019-06-26T03:53:14.000-07:00
+bicycle_rental,49.2776095,-123.095793,Union & Dunlevy,"{'ref': '0212', 'capacity': '14', 'network': 'Mobi'}",2019-08-18T02:32:34.000-07:00
+bicycle_rental,49.2772762,-123.0873497,Hawks & Union,"{'ref': '0219', 'capacity': '16', 'network': 'Mobi'}",2019-09-25T01:25:43.000-07:00
+bicycle_rental,49.2792153,-123.0874912,Keefer & Hawks,"{'ref': '0228', 'capacity': '16', 'network': 'Mobi'}",2019-09-25T01:25:44.000-07:00
+bicycle_rental,49.2703309,-123.1027341,Quebec & 1st,"{'ref': '0177', 'capacity': '20', 'network': 'Mobi'}",2019-06-12T23:53:50.000-07:00
+bicycle_rental,49.267588200000006,-123.0946697,Thornton & 1st,"{'ref': '0238', 'capacity': '26', 'network': 'Mobi'}",2018-07-25T15:48:27.000-07:00
+bicycle_rental,49.2611458,-123.0974366,11th & Kingsway,"{'ref': '0179', 'capacity': '16', 'network': 'Mobi'}",2019-04-27T00:56:11.000-07:00
+bicycle_rental,49.283992299999994,-123.0911062,Alexander & Railway,"{'ref': '0230', 'capacity': '20', 'network': 'Mobi'}",2018-05-17T19:17:12.000-07:00
+bicycle_rental,49.2858157,-123.1378824,Cardero & Pendrell,"{'ref': '0040', 'capacity': '14', 'network': 'Mobi'}",2019-04-27T00:56:12.000-07:00
+bicycle_rental,49.2777049,-123.09172530000001,Princess & Union,"{'ref': '0215', 'capacity': '12', 'network': 'Mobi'}",2019-12-29T00:26:14.000-08:00
+bicycle_rental,49.2642309,-123.07386229999999,7th & Woodland,"{'ref': '0249', 'capacity': '12', 'network': 'Mobi'}",2018-09-07T04:25:58.000-07:00
+bicycle_rental,49.2619701,-123.0973416,10th & Kingsway,"{'ref': '0186', 'capacity': '20', 'network': 'Mobi'}",2019-11-20T04:13:50.000-08:00
+bicycle_rental,49.1946439,-123.13098390000002,,"{'fee': 'yes', 'capacity': '10', 'network': 'U-bicycle'}",2020-06-06T07:26:11.000-07:00
+bicycle_rental,49.2848699,-123.128767,Bute & Barclay,"{'ref': '0300', 'capacity': '14', 'network': 'Mobi'}",2020-02-27T06:25:36.000-08:00
+bicycle_rental,49.28027120000001,-123.09708970000001,Pender & Gore,"{'ref': '0213', 'capacity': '14', 'network': 'Mobi'}",2018-08-03T04:47:46.000-07:00
+bicycle_rental,49.275855299999996,-123.07190179999999,Britannia Parking Lot,"{'ref': '0232', 'capacity': '14', 'network': 'Mobi'}",2018-06-22T04:50:55.000-07:00
+bicycle_rental,49.283327299999996,-123.1252595,Smithe & Burrard,"{'ref': '0217', 'capacity': '14', 'network': 'Mobi'}",2020-06-15T02:33:53.000-07:00
+bicycle_rental,49.2639535,-123.1126594,8th & Yukon,"{'ref': '0170', 'capacity': '14', 'network': 'Mobi'}",2020-02-27T06:25:37.000-08:00
+bicycle_rental,49.2611644,-123.0659828,Victoria & 10th,"{'ref': '0274', 'capacity': '12', 'network': 'Mobi'}",2018-08-08T04:14:31.000-07:00
+bicycle_rental,49.284057700000005,-123.095047,Alexander & Dunlevy,"{'ref': '0161', 'capacity': '14', 'network': 'Mobi'}",2018-05-17T19:17:12.000-07:00
+bicycle_rental,49.27376629999999,-123.09270819999999,Thornton & National,"{'ref': '0233', 'capacity': '14', 'network': 'Mobi'}",2018-08-29T02:59:25.000-07:00
+bicycle_rental,49.2625027,-123.1144027,10th & Cambie,"{'ref': '0001', 'operator': 'Vancouver Bike Share', 'capacity': '52', 'network': 'Mobi'}",2016-08-11T22:32:59.000-07:00
+bicycle_rental,49.270734600000004,-123.07361920000001,Woodland & Graveley,"{'ref': '0252', 'capacity': '12', 'network': 'Mobi'}",2018-08-29T02:59:26.000-07:00
+bicycle_rental,49.3026103,-123.1556398,Stanley Park - Third Beach Parking Lot,"{'ref': '0103', 'capacity': '28', 'network': 'Mobi'}",2019-07-31T02:19:16.000-07:00
+bicycle_rental,49.2567901,-123.06569840000002,15th & Victoria,"{'ref': '0278', 'capacity': '18', 'network': 'Mobi'}",2018-08-29T04:39:07.000-07:00
+bicycle_rental,49.265215500000004,-123.0906761,6th & Carolina,"{'ref': '0298', 'capacity': '16', 'network': 'Mobi'}",2018-08-29T04:39:09.000-07:00
+bicycle_rental,49.258139299999996,-123.09634299999999,Prince Edward & 14th,"{'ref': '0257', 'capacity': '14', 'network': 'Mobi'}",2018-08-29T04:39:08.000-07:00
+bicycle_rental,49.265234899999996,-123.09545590000002,6th & Prince Edward,"{'ref': '0297', 'capacity': '16', 'network': 'Mobi'}",2018-08-29T04:39:08.000-07:00
+bicycle_rental,49.2839768,-123.0652119,Triumph & Victoria,"{'ref': '0280', 'capacity': '16', 'network': 'Mobi'}",2018-08-16T06:15:26.000-07:00
+bicycle_rental,49.2832115,-123.0703905,Commercial & Pandora,"{'ref': '0285', 'capacity': '16', 'network': 'Mobi'}",2018-08-16T06:15:27.000-07:00
+bicycle_rental,49.2718305,-123.1043129,Ontario & Seawall,"{'ref': '0011', 'operator': 'Vancouver Bike Share', 'capacity': '20', 'network': 'Mobi'}",2016-08-12T22:18:39.000-07:00
+bicycle_rental,49.270861,-123.1150229,Spyglass & Seawall,"{'ref': '0009', 'operator': 'Vancouver Bike Share', 'capacity': '18', 'network': 'Mobi'}",2016-08-12T22:18:39.000-07:00
+bicycle_rental,49.275649,-123.1170024,Beatty & Nelson,"{'ref': '0027', 'operator': 'Vancouver Bike Share', 'capacity': '20', 'network': 'Mobi'}",2016-08-11T23:01:23.000-07:00
+bicycle_rental,49.2810403,-123.10441110000001,Carrall & Hastings,"{'ref': '0098', 'capacity': '18', 'network': 'Mobi'}",2018-05-16T03:15:06.000-07:00
+bicycle_rental,49.2775071,-123.0812952,Glen & Union,"{'ref': '0221', 'capacity': '14', 'network': 'Mobi'}",2018-05-23T04:28:41.000-07:00
+bicycle_rental,49.2793656,-123.09094109999998,Keefer & Princess,"{'ref': '0229', 'capacity': '14', 'network': 'Mobi'}",2018-05-23T04:28:41.000-07:00
+bicycle_rental,49.2743143,-123.09846259999999,Station & National,"{'ref': '0234', 'capacity': '14', 'network': 'Mobi'}",2018-05-23T04:28:42.000-07:00
+bicycle_rental,49.2636196,-123.099236,8th & Scotia,"{'ref': '0206', 'capacity': '12', 'network': 'Mobi'}",2017-06-02T21:59:07.000-07:00
+bicycle_rental,49.2655497,-123.1002412,6th & Main,"{'ref': '0198', 'capacity': '16', 'network': 'Mobi'}",2020-06-23T20:34:21.000-07:00
+bicycle_rental,49.2733557,-123.1545317,Kits Beach,"{'ref': '0154', 'capacity': '36', 'network': 'Mobi'}",2017-01-15T02:47:48.000-08:00
+bicycle_rental,49.260876700000004,-123.24858449999999,Dropbike Haven,{},2018-08-23T00:25:33.000-07:00
+bicycle_rental,49.2634568,-123.0888362,8th & Fraser,"{'ref': '0261', 'capacity': '16', 'network': 'Mobi'}",2018-05-30T03:53:10.000-07:00
+bicycle_rental,49.277394799999996,-123.07041650000001,Commercial & Adanac,"{'ref': '0223', 'capacity': '16', 'network': 'Mobi'}",2018-05-16T03:14:44.000-07:00
+bicycle_rental,49.2776591,-123.07355790000001,Adanac & McLean,"{'ref': '0222', 'capacity': '16', 'network': 'Mobi'}",2018-05-16T03:14:44.000-07:00
+bicycle_rental,49.2806434,-123.084749,Campbell & Hastings,"{'ref': '0227', 'capacity': '14', 'network': 'Mobi'}",2018-08-03T04:47:46.000-07:00
+bicycle_rental,49.2567266,-123.0965455,Prince Edward & 16th,"{'ref': '0256', 'capacity': '14', 'network': 'Mobi'}",2018-08-29T04:39:08.000-07:00
+bicycle_rental,49.2632295,-123.07047720000001,8th & Commercial,"{'ref': '0242', 'capacity': '38', 'network': 'Mobi'}",2018-04-21T02:26:23.000-07:00
+bicycle_rental,49.2736427,-123.12706029999998,Pacific & Richards,"{'ref': '0044', 'capacity': '14', 'network': 'Mobi'}",2018-09-01T01:47:07.000-07:00
+bicycle_rental,49.2774968,-123.1142367,Beatty & Robson,"{'ref': '0026', 'capacity': '20', 'network': 'Mobi'}",2016-08-12T05:24:36.000-07:00
+bicycle_rental,49.27821420000001,-123.1186318,Homer & Smithe,"{'ref': '0058', 'capacity': '18', 'network': 'Mobi'}",2016-08-12T05:24:38.000-07:00
+bicycle_rental,49.2761354,-123.11455090000001,Expo & Smithe,"{'ref': '0064', 'capacity': '16', 'network': 'Mobi'}",2016-10-06T00:47:43.000-07:00
+bicycle_rental,49.276151299999995,-123.12389540000001,Richards & Davie,"{'ref': '0082', 'capacity': '14', 'network': 'Mobi'}",2016-08-12T05:24:39.000-07:00
+bicycle_rental,49.276502799999996,-123.11890090000001,Nelson & Mainland,"{'ref': '0078', 'capacity': '30', 'network': 'Mobi'}",2017-07-26T23:00:30.000-07:00
+bicycle_rental,49.2796325,-123.11500759999998,Hamilton & Robson,"{'ref': '0125', 'capacity': '18', 'network': 'Mobi'}",2016-09-27T04:32:52.000-07:00
+bicycle_rental,49.2841519,-123.09995890000002,Alexander & Main,"{'ref': '0150', 'capacity': '20', 'network': 'Mobi'}",2016-10-07T21:50:37.000-07:00
+bicycle_rental,49.2622734,-123.12616000000001,Oak & 10th,"{'ref': '0112', 'capacity': '30', 'network': 'Mobi'}",2016-10-14T04:05:43.000-07:00
+bicycle_rental,49.25676,-123.12002509999999,Heather & 16th,"{'ref': '0130', 'capacity': '20', 'network': 'Mobi'}",2016-10-14T04:05:44.000-07:00
+bicycle_rental,49.2617669,-123.1314892,Alder & 11th,"{'ref': '0166', 'capacity': '14', 'network': 'Mobi'}",2016-10-14T04:05:44.000-07:00
+bicycle_rental,49.2652855,-123.13819840000002,7th & Granville,"{'ref': '0069', 'capacity': '24', 'network': 'Mobi'}",2016-09-18T03:32:14.000-07:00
+bicycle_rental,49.2852898,-123.1343648,Comox & Broughton,"{'ref': '0048', 'capacity': '12', 'network': 'Mobi'}",2016-11-10T00:28:49.000-08:00
+bicycle_rental,49.256832,-123.1052746,Ontario & 16th,"{'ref': '0133', 'capacity': '14', 'network': 'Mobi'}",2016-09-18T03:32:14.000-07:00
+bicycle_rental,49.2702121,-123.1051586,1st & Ontario,"{'ref': '0174', 'capacity': '32', 'network': 'Mobi'}",2016-10-01T18:17:58.000-07:00
+bicycle_rental,49.258400099999996,-123.10081059999999,14th & Main,"{'ref': '0134', 'capacity': '16', 'network': 'Mobi'}",2019-09-09T20:46:47.000-07:00
+bicycle_rental,49.270209200000004,-123.1091321,1st & Columbia,"{'ref': '0173', 'capacity': '16', 'network': 'Mobi'}",2018-07-25T15:54:06.000-07:00
+bicycle_rental,49.2857921,-123.1209655,Burrard Station,"{'ref': '0002', 'capacity': '46', 'network': 'Mobi'}",2016-08-13T02:26:09.000-07:00
+bicycle_rental,49.2780649,-123.13050659999999,Burrard & Drake,"{'ref': '0089', 'capacity': '24', 'network': 'Mobi'}",2017-12-22T03:57:10.000-08:00
+bicycle_rental,49.280612899999994,-123.12478059999998,Horny & Nelson,"{'ref': '0037', 'capacity': '18', 'network': 'Mobi'}",2017-03-29T04:26:39.000-07:00
+bicycle_rental,49.28029779999999,-123.1352757,Harwood & Bute,"{'ref': '0088', 'capacity': '20', 'network': 'Mobi'}",2016-08-11T22:47:16.000-07:00
+bicycle_rental,49.280291600000005,-123.11769380000001,Richards & Robson,"{'ref': '0129', 'capacity': '26', 'network': 'Mobi'}",2017-02-17T22:33:10.000-08:00
+bicycle_rental,49.2799185,-123.12744690000001,Helmcken & Burrard,"{'ref': '0039', 'fee': 'yes', 'capacity': '15', 'network': 'Mobi'}",2019-08-19T00:30:16.000-07:00
+bicycle_rental,49.269544200000006,-123.1378336,Anderson & 2nd,"{'ref': '0066', 'capacity': '28', 'network': 'Mobi'}",2016-08-11T22:47:15.000-07:00
+bicycle_rental,49.2606046,-123.1134246,12th & Yukon,"{'ref': '0007', 'capacity': '16', 'network': 'Mobi'}",2016-11-09T18:22:19.000-08:00
+bicycle_rental,49.2738549,-123.114558,Marinaside & Cooperage,"{'ref': '0057', 'capacity': '26', 'network': 'Mobi'}",2016-11-09T18:22:19.000-08:00
+bicycle_rental,49.2833805,-123.13104009999998,Bute & Comox,"{'ref': '0050', 'capacity': '22', 'network': 'Mobi'}",2016-08-11T22:47:16.000-07:00
+bicycle_rental,49.268618599999996,-123.07005090000001,2nd & Commercial,"{'ref': '0240', 'capacity': '22', 'network': 'Mobi'}",2018-04-21T02:26:22.000-07:00
+bicycle_rental,49.2757002,-123.14245,Vanier Park,"{'ref': '0077', 'capacity': '28', 'network': 'Mobi'}",2016-08-24T22:32:32.000-07:00
+bicycle_rental,49.2777729,-123.1208527,Nelson & Richards,"{'ref': '0079', 'capacity': '30', 'network': 'Mobi'}",2016-08-19T18:55:24.000-07:00
+bicycle_rental,49.2667096,-123.1048197,Ontario & 5th,"{'ref': '0073', 'capacity': '18', 'network': 'Mobi'}",2016-08-20T04:15:34.000-07:00
+bicycle_rental,49.2871914,-123.11292579999999,Canada Place,"{'ref': '0014', 'capacity': '22', 'network': 'Mobi'}",2016-08-11T22:47:16.000-07:00
+bicycle_rental,49.2796591,-123.1162932,Homer & Robson,"{'ref': '0025', 'capacity': '20', 'network': 'Mobi'}",2016-08-11T23:07:27.000-07:00
+bicycle_rental,49.2780481,-123.1057008,Expo & Carrall,"{'ref': '0054', 'capacity': '16', 'network': 'Mobi'}",2016-08-13T02:21:36.000-07:00
+bicycle_rental,49.2797995,-123.1079267,Keefer & Abbott,"{'ref': '0053', 'capacity': '28', 'network': 'Mobi'}",2016-08-13T02:21:37.000-07:00
+bicycle_rental,49.265610200000005,-123.15253419999999,7th & Arbutus,"{'ref': '0109', 'capacity': '16', 'network': 'Mobi'}",2016-08-14T04:32:35.000-07:00
+bicycle_rental,49.2650786,-123.11942820000002,Heather & 7th,"{'ref': '0081', 'capacity': '18', 'network': 'Mobi'}",2016-08-14T04:32:37.000-07:00
+bicycle_rental,49.2682673,-123.14786720000001,Cypress & 4th,"{'ref': '0076', 'capacity': '18', 'network': 'Mobi'}",2016-08-14T04:32:34.000-07:00
+bicycle_rental,49.2642151,-123.11781950000001,8th & Ash,"{'ref': '0008', 'capacity': '16', 'network': 'Mobi'}",2016-08-14T04:32:37.000-07:00
+bicycle_rental,49.268926,-123.11809790000001,Stamp's Landing,"{'ref': '0010', 'capacity': '12', 'network': 'Mobi'}",2019-04-27T02:44:14.000-07:00
+bicycle_rental,49.2587688,-123.1152956,14th & Cambie,"{'ref': '0072', 'capacity': '14', 'network': 'Mobi'}",2016-08-14T04:32:36.000-07:00
+bicycle_rental,49.2575397,-123.1484736,Cypress & 16th,"{'ref': '0115', 'capacity': '20', 'network': 'Mobi'}",2016-08-14T04:32:36.000-07:00
+bicycle_rental,49.26314489999999,-123.1241301,Laurel & Broadway,"{'ref': '0080', 'capacity': '14', 'network': 'Mobi'}",2016-08-14T04:32:36.000-07:00
+bicycle_rental,49.2896124,-123.13214579999999,Cardero & Robson,"{'ref': '0041', 'capacity': '14', 'network': 'Mobi'}",2016-08-14T22:57:16.000-07:00
+bicycle_rental,49.2911956,-123.1352164,Robson & Denman,"{'ref': '0033', 'capacity': '28', 'network': 'Mobi'}",2016-08-14T22:57:17.000-07:00
+bicycle_rental,49.28814439999999,-123.13201979999998,Nicola & Robson,"{'ref': '0096', 'capacity': '18', 'network': 'Mobi'}",2016-08-14T22:57:17.000-07:00
+bicycle_rental,49.2860026,-123.116602,Hornby & Pender,"{'ref': '0024', 'operator': 'Vancouver Bike Share', 'capacity': '22', 'network': 'Mobi'}",2016-11-17T21:12:41.000-08:00
+bicycle_rental,49.2826816,-123.107005,Abbott & Cordova,"{'ref': '0030', 'capacity': '14', 'network': 'Mobi'}",2016-08-11T22:47:15.000-07:00
+bicycle_rental,49.279710200000004,-123.1100831,Dunsmuir & Beatty,"{'ref': '0005', 'capacity': '26', 'network': 'Mobi'}",2016-08-11T22:47:16.000-07:00
+bicycle_rental,49.2823937,-123.1185854,Granville & Georgia,"{'ref': '0015', 'capacity': '20', 'network': 'Mobi'}",2016-08-12T17:32:04.000-07:00
+bicycle_rental,49.2896995,-123.14400819999999,Chilco & Beach,"{'ref': '0047', 'capacity': '14', 'network': 'Mobi'}",2016-08-11T22:47:16.000-07:00
+bicycle_rental,49.2649024,-123.0812237,Glen & 6th,"{'ref': '0237', 'capacity': '20', 'network': 'Mobi'}",2018-04-16T00:53:15.000-07:00
+bicycle_rental,49.2649223,-123.07945190000001,Keith & 6th,"{'ref': '0236', 'capacity': '28', 'network': 'Mobi'}",2018-04-16T00:53:15.000-07:00
+bicycle_rental,49.2613191,-123.0852922,St Catherines & 10th,"{'ref': '0265', 'capacity': '12', 'network': 'Mobi'}",2018-04-16T00:53:16.000-07:00
+bicycle_rental,49.2621314,-123.0814885,Glen & Broadway,"{'ref': '0246', 'capacity': '18', 'network': 'Mobi'}",2018-04-16T00:53:15.000-07:00
+bicycle_rental,49.2623071,-123.09306709999998,St. George & Broadway,"{'ref': '0248', 'capacity': '14', 'network': 'Mobi'}",2018-04-16T00:53:17.000-07:00
+bicycle_rental,49.2620334,-123.1047242,10th & Ontario,"{'ref': '0176', 'capacity': '20', 'network': 'Mobi'}",2017-02-15T02:33:27.000-08:00
+bicycle_rental,49.2700185,-123.10012590000001,1st & Main,"{'ref': '0197', 'capacity': '20', 'network': 'Mobi'}",2020-05-07T03:39:01.000-07:00
+bicycle_rental,49.2717489,-123.1554804,York & Yew,"{'ref': '0204', 'capacity': '20', 'network': 'Mobi'}",2017-02-24T07:38:46.000-08:00
+bicycle_rental,49.276087700000005,-123.15132609999999,Arbutus & McNicoll,"{'ref': '0155', 'capacity': '30', 'network': 'Mobi'}",2016-10-28T04:07:08.000-07:00
+bicycle_rental,49.2759635,-123.14600729999998,Chestnut & McNicoll,"{'ref': '0147', 'capacity': '16', 'network': 'Mobi'}",2016-10-28T04:07:08.000-07:00
+bicycle_rental,49.2815126,-123.12015359999998,Robson & Granville,"{'ref': '0063', 'capacity': '32', 'network': 'Mobi'}",2016-10-28T23:44:33.000-07:00
+bicycle_rental,49.2823936,-123.1020273,Cordova & Columbia,"{'ref': '0167', 'capacity': '14', 'network': 'Mobi'}",2016-10-28T23:44:33.000-07:00
+bicycle_rental,49.267877399999996,-123.1458085,Burrard & 4th,"{'ref': '0139', 'capacity': '16', 'network': 'Mobi'}",2017-12-22T03:54:12.000-08:00
+bicycle_rental,49.288668799999996,-123.11821289999999,Shaw Tower,"{'ref': '0201', 'capacity': '22', 'network': 'Mobi'}",2016-12-14T23:36:09.000-08:00
+bicycle_rental,49.282042499999996,-123.13304509999999,Bute & Davie,"{'ref': '0187', 'capacity': '20', 'network': 'Mobi'}",2016-12-30T22:06:17.000-08:00
+bicycle_rental,49.2772339,-123.12963719999999,Drake & Hornby,"{'ref': '0196', 'capacity': '22', 'network': 'Mobi'}",2017-10-04T21:06:00.000-07:00
+bicycle_rental,49.271380799999996,-123.0693525,Grant & Commercial,"{'ref': '0239', 'capacity': '14', 'network': 'Mobi'}",2018-04-21T02:26:22.000-07:00
+bicycle_rental,49.264101200000006,-123.07070159999998,Grandview Bike Lane & Commercial,"{'ref': '0254', 'capacity': '42', 'network': 'Mobi'}",2018-04-21T02:26:23.000-07:00
+bicycle_rental,49.266962,-123.0700463,4th & Commercial,"{'ref': '0241', 'capacity': '14', 'network': 'Mobi'}",2018-04-21T02:26:22.000-07:00
+bicycle_rental,49.261412,-123.07015929999999,10th & Commercial,"{'ref': '0244', 'capacity': '26', 'network': 'Mobi'}",2018-04-21T02:26:24.000-07:00
+bicycle_rental,49.287469200000004,-123.14207809999999,Davie & Beach,"{'ref': '0028', 'capacity': '30', 'network': 'Mobi'}",2016-08-11T22:47:16.000-07:00
+bicycle_rental,49.274881,-123.0692936,Napier & Commercial,"{'ref': '0231', 'capacity': '14', 'network': 'Mobi'}",2018-04-21T02:26:21.000-07:00
+bicycle_rental,49.2614705,-123.0894872,10th & Fraser,"{'ref': '0260', 'capacity': '14', 'network': 'Mobi'}",2018-04-16T00:53:16.000-07:00
+bicycle_rental,49.2730625,-123.06986299999998,Charles & Commercial,"{'ref': '0235', 'capacity': '22', 'network': 'Mobi'}",2018-04-21T02:26:21.000-07:00
+bicycle_rental,49.2890985,-123.121827,Cordova & Bute,"{'ref': '0034', 'capacity': '14', 'network': 'Mobi'}",2018-08-25T07:28:03.000-07:00
+bicycle_rental,49.2576909,-123.1532696,Arbutus & 16th,"{'ref': '0113', 'capacity': '40', 'network': 'Mobi'}",2020-06-23T19:50:12.000-07:00
+bicycle_rental,49.277114000000005,-123.1225231,Richards & Helmcken,"{'ref': '0138', 'capacity': '18', 'network': 'Mobi'}",2016-10-02T20:16:19.000-07:00
+bicycle_rental,49.285868900000004,-123.1272595,Bute & Robson,"{'ref': '0036', 'capacity': '26', 'network': 'Mobi'}",2016-08-11T22:47:16.000-07:00
+bicycle_rental,49.28851829999999,-123.13933270000001,Comox & Denman,"{'ref': '0032', 'capacity': '18', 'network': 'Mobi'}",2016-08-11T22:47:16.000-07:00
+bicycle_rental,49.2880281,-123.14218020000001,Morton & Denman,"{'ref': '0031', 'capacity': '26', 'network': 'Mobi'}",2016-08-11T22:47:17.000-07:00
+bicycle_rental,49.2871315,-123.11861709999998,Pender & Burrard,"{'ref': '0016', 'capacity': '26', 'network': 'Mobi'}",2016-10-08T03:33:24.000-07:00
+bicycle_rental,49.2735405,-123.1298518,Beach & Seymour,"{'ref': '0137', 'capacity': '18', 'network': 'Mobi'}",2016-09-03T23:19:35.000-07:00
+bicycle_rental,49.2932024,-123.13860770000001,Chilco & Robson,"{'ref': '0093', 'capacity': '22', 'network': 'Mobi'}",2017-06-25T03:21:19.000-07:00
+bicycle_rental,49.2846283,-123.1086152,Cambie & Water,"{'ref': '0052', 'capacity': '32', 'network': 'Mobi'}",2016-10-06T00:50:01.000-07:00
+bicycle_rental,49.2918468,-123.1407852,Chilco & Barclay,"{'ref': '0092', 'capacity': '18', 'network': 'Mobi'}",2016-09-17T00:06:15.000-07:00
+bicycle_rental,49.2591588,-123.14825520000001,Cypress & 14th,"{'ref': '0114', 'capacity': '20', 'network': 'Mobi'}",2016-10-01T18:17:58.000-07:00
+bicycle_rental,49.2612322,-123.0737544,Woodland & 10th,"{'ref': '0245', 'capacity': '14', 'network': 'Mobi'}",2018-04-19T23:33:57.000-07:00
+bicycle_rental,49.2638169,-123.1052878,8th & Ontario,"{'ref': '0107', 'capacity': '14', 'network': 'Mobi'}",2016-10-06T00:46:47.000-07:00
+bicycle_rental,49.2735215,-123.11783659999999,Marinaside & Davie,"{'ref': '0017', 'capacity': '22', 'network': 'Mobi'}",2016-09-25T03:46:17.000-07:00
+bicycle_rental,49.2744594,-123.1217156,Yaletown-Roundhouse Station,"{'ref': '0004', 'fee': 'no', 'capacity': '16', 'network': 'Mobi'}",2019-11-24T03:36:40.000-08:00
+bicycle_rental,49.258968700000004,-123.13934950000001,14th & Granville,"{'ref': '0071', 'capacity': '14', 'network': 'Mobi'}",2016-10-02T20:16:19.000-07:00
+bicycle_rental,49.285273,-123.14178729999999,Bidwell & Beach,"{'ref': '0060', 'capacity': '26', 'network': 'Mobi'}",2016-09-17T00:05:15.000-07:00
+bicycle_rental,49.272753200000004,-123.14772040000001,Cypress & Cornwall,"{'ref': '0065', 'capacity': '22', 'network': 'Mobi'}",2019-07-01T06:23:50.000-07:00
+bicycle_rental,49.2622196,-123.10931609999999,10th & Columbia,"{'ref': '0172', 'capacity': '14', 'network': 'Mobi'}",2016-12-03T22:03:10.000-08:00
+bicycle_rental,49.2625924,-123.13888,10th & Granville,"{'ref': '0070', 'capacity': '24', 'network': 'Mobi'}",2016-12-03T22:03:09.000-08:00
+bicycle_rental,49.2793015,-123.1017685,Keefer & Columbia,"{'ref': '0055', 'capacity': '14', 'network': 'Mobi'}",2016-12-03T03:35:47.000-08:00
+bicycle_rental,49.2666646,-123.1124352,5th & Yukon,"{'ref': '0171', 'capacity': '14', 'network': 'Mobi'}",2016-10-13T22:59:58.000-07:00

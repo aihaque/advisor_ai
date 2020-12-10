@@ -1,0 +1,20 @@
+amenity,lat,lon,name,tags,timestamp
+bicycle_repair_station,49.2501234,-123.0028291,,"{'service:bicycle:tools': 'yes', 'opening_hours': '24/7', 'note': 'SW3', 'brand': 'Dero', 'service:bicycle:pump': 'yes'}",2018-09-19T16:12:04.000-07:00
+bicycle_repair_station,49.2859027,-122.793594,,"{'service:bicycle:tools': 'yes', 'opening_hours': '24/7', 'note': 'City Centre Aquatic Complex', 'brand': 'Dero', 'service:bicycle:pump': 'yes'}",2019-07-22T16:13:30.000-07:00
+bicycle_repair_station,49.0654263,-122.6694159,Bike lanes on 200 / 35 to 16,{},2020-05-07T23:24:58.000-07:00
+bicycle_repair_station,49.2693753,-123.10249329999999,,{},2020-04-17T02:16:26.000-07:00
+bicycle_repair_station,49.2810042,-123.05152240000001,Mactalla Cycles,{},2015-04-25T21:07:40.000-07:00
+bicycle_repair_station,49.268662799999994,-123.0967187,,{},2018-07-25T16:05:54.000-07:00
+bicycle_repair_station,49.203472600000005,-122.9118422,,{'level': '-1'},2015-02-09T04:25:16.000-08:00
+bicycle_repair_station,49.265016499999994,-123.1143392,,{},2018-06-15T19:24:34.000-07:00
+bicycle_repair_station,49.1330914,-122.87283149999999,,"{'service:bicycle:tools': 'yes', 'opening_hours': '24/7', 'note': 'Kwantlen Polytechnic University', 'brand': 'Dero', 'service:bicycle:pump': 'yes'}",2019-02-01T17:01:58.000-08:00
+bicycle_repair_station,49.3056365,-123.0302241,,"{'opening_hours': '24/7', 'note': 'Lynn Creek Apartments', 'service:bicycle:repair': 'yes', 'brand': 'Dero', 'service:bicycle:pump': 'yes'}",2017-04-25T14:43:59.000-07:00
+bicycle_repair_station,49.276804299999995,-122.84225359999998,,"{'opening_hours': '24/7', 'note': ""Cap's West Wood Cycle"", 'service:bicycle:repair': 'yes', 'brand': 'Dero', 'service:bicycle:pump': 'yes'}",2017-05-31T18:33:06.000-07:00
+bicycle_repair_station,49.251305200000004,-123.00347820000002,,"{'service:bicycle:tools': 'yes', 'opening_hours': '24/7', 'note': 'SW1', 'brand': 'Dero', 'service:bicycle:pump': 'yes'}",2018-09-19T16:10:54.000-07:00
+bicycle_repair_station,49.2558667,-123.1124832,,{'service:bicycle:pump': 'yes'},2018-01-12T03:26:22.000-08:00
+bicycle_repair_station,49.3592698,-123.03528370000001,,"{'note': 'this seems like the best tag, even though this seems to be more of a bike wash station.'}",2018-05-28T20:35:23.000-07:00
+bicycle_repair_station,49.310219599999996,-123.0813453,,"{'service:bicycle:tools': 'yes', 'note': 'Lonsdale Quay', 'service:bicycle:pump': 'yes', 'opening_hours': '24/7', 'service:bicycle:diy': 'yes', 'brand': 'Dero'}",2019-04-30T13:41:08.000-07:00
+bicycle_repair_station,49.2489139,-123.00083149999999,,"{'service:bicycle:tools': 'yes', 'opening_hours': '24/7', 'note': 'SE16', 'brand': 'Dero', 'service:bicycle:pump': 'yes'}",2018-09-19T16:12:44.000-07:00
+bicycle_repair_station,49.266668100000004,-123.1156379,,{},2016-11-03T22:22:36.000-07:00
+bicycle_repair_station,49.2794015,-122.84978829999999,,"{'website': 'http://www.waymarking.com/waymarks/WMYNH2_Rocky_Point_Park_Bicycle_Repair_Stand_Port_Moody_BC_Canada', 'service:bicycle:pump': 'yes', 'fee': 'no', 'opening_hours': '24/7', 'brand': 'Dero', 'operator': 'City of Port Moody'}",2019-08-23T23:57:09.000-07:00
+bicycle_repair_station,49.25372470000001,-123.00128149999999,,"{'service:bicycle:tools': 'yes', 'opening_hours': '24/7', 'note': 'NE1', 'brand': 'Dero', 'service:bicycle:pump': 'yes'}",2018-09-19T16:09:47.000-07:00

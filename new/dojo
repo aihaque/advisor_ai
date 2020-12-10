@@ -1,0 +1,14 @@
+amenity,lat,lon,name,tags,timestamp
+dojo,49.0525686,-122.3117696,Excel Martial Arts,{'addr:unit': '4'},2018-07-23T10:08:29.000-07:00
+dojo,49.264319799999996,-123.01103799999999,K Martial Arts Centre,"{'addr:street': 'Dawson Street', 'addr:city': 'Burnaby'}",2019-11-25T23:54:46.000-08:00
+dojo,49.049755700000006,-122.2907591,Re.pose,"{'shop': 'massage', 'old_name': 'West Coast Health Collective', 'level': '1', 'description': 'Counselling, Massage, Yoga', 'sport': 'yoga', 'addr:unit': 'A'}",2019-03-16T01:57:47.000-07:00
+dojo,49.268519399999995,-123.17025290000001,Purple Dragon Martial Arts,{},2019-03-23T23:43:49.000-07:00
+dojo,49.0909034,-123.08330320000002,Gracie Barra Jiu-Jitsu,{},2019-09-05T06:38:44.000-07:00
+dojo,49.1340636,-122.3045249,Victory Martial Arts,"{'addr:housenumber': '33211', 'website': 'https://m.facebook.com/VictoryMAMission', 'phone': '+1-604-820-7429', 'opening_hours': 'Mo-Th 12:00-21:00; Su 12:00-18:00; Fr-Sa off', 'addr:street': 'North Railway Avenue', 'addr:postcode': 'V2V 1E4'}",2019-09-02T22:08:26.000-07:00
+dojo,49.040177299999996,-122.2792725,Sun Hang Do Martial Arts,"{'website': 'http://sunhangdo.com', 'phone': '+1-604-852-4222', 'opening_hours': 'Mo-Fr 15:00-20:00; Sa 9:10-12:00', 'opening_hours:covid19': 'off', 'leisure': 'sports_centre', 'addr:unit': '6'}",2020-05-02T03:13:12.000-07:00
+dojo,49.1852717,-122.798376,Jong Kim Martial Arts,"{'website': 'http://jongkimmartialarts.ca', 'leisure': 'sports_centre', 'sport': 'taekwondo'}",2019-03-07T14:56:23.000-08:00
+dojo,49.1123482,-122.6542489,Safeguard,{},2019-12-19T08:09:45.000-08:00
+dojo,49.2832126,-122.8260086,9ROUND Kickbox Fitness,{},2019-08-22T18:19:33.000-07:00
+dojo,49.057546,-122.27389860000001,I Love Martial Arts Mu Yae Sarang,"{'website': 'http://abbotsfordmartialarts.com', 'phone': '+1-604-776-0100', 'sport': 'karate', 'addr:unit': '330'}",2018-06-20T15:11:24.000-07:00
+dojo,49.2237917,-122.94183570000001,Aikido Yoshinkai Burnaby,"{'note': 'Instruction in Yoshinkan Aikido by Shihan Robert Mustard (8th Dan)', 'addr:housenumber': '7671', 'website': 'http://aikidoburnaby.com/', 'phone': '+1-604-786-2334', 'opening_hours': 'Mo-Th 19:30-21:00 ""adults""; Sa 10:30-12:00 ""adults""; Tu,We 16:30-17:30 ""kids""', 'addr:street': 'Edmonds Street', 'addr:postcode': 'V3N 1B6', 'sport': 'aikido', 'addr:city': 'Burnaby'}",2019-09-02T22:08:26.000-07:00
+dojo,49.0468605,-122.3483787,Mamba Martial Arts Academy,"{'website': 'http://www.mambamma.com', 'phone': '+1-604-746-2622', 'sport': 'multi', 'addr:unit': '105'}",2018-06-20T15:12:01.000-07:00

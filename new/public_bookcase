@@ -1,0 +1,81 @@
+amenity,lat,lon,name,tags,timestamp
+public_bookcase,49.26698579999999,-123.0734408,Book and toy exchange,{},2020-06-03T02:03:11.000-07:00
+public_bookcase,49.2641141,-123.07564479999999,Little Free Library #6034,{},2020-06-03T02:22:48.000-07:00
+public_bookcase,49.2576441,-123.0689615,Book exchange box,{},2020-06-03T02:22:18.000-07:00
+public_bookcase,49.2341134,-123.1294627,Little Free Library #82540,{},2020-06-05T02:25:58.000-07:00
+public_bookcase,49.2555434,-123.0678513,Findlay Street book exchange,{},2020-06-03T02:26:37.000-07:00
+public_bookcase,49.245048700000005,-123.07008640000001,Welwyn book exchange,{},2020-06-03T02:40:11.000-07:00
+public_bookcase,49.260554600000006,-123.1765381,,{},2020-06-05T03:39:53.000-07:00
+public_bookcase,49.2513851,-123.06811840000002,Book exchange,{},2020-06-03T02:40:34.000-07:00
+public_bookcase,49.2792085,-123.0791098,,{},2020-06-02T23:49:29.000-07:00
+public_bookcase,49.229043100000005,-123.15557109999999,Book exchange box,{},2020-06-05T02:42:00.000-07:00
+public_bookcase,49.2604826,-123.1718634,,{},2020-06-05T03:43:05.000-07:00
+public_bookcase,49.252927299999996,-123.1755979,Little Free Library #33839,{},2020-06-05T03:32:17.000-07:00
+public_bookcase,49.250178000000005,-123.1757774,Little Free Library #86493,{},2020-06-05T03:29:49.000-07:00
+public_bookcase,49.2329273,-123.1787923,Book exchange box,{'description': 'in a neglected state and not rain-proof circa June 2020.'},2020-06-05T03:06:53.000-07:00
+public_bookcase,49.2302178,-123.1588091,Little Free Library #10606,{'description': 'a bit moldy circa May 2020'},2020-06-05T02:49:38.000-07:00
+public_bookcase,49.2360291,-123.1786182,,{},2020-06-05T03:11:25.000-07:00
+public_bookcase,49.22943970000001,-123.14365990000002,Little Free Library #27003,{},2020-06-05T02:36:01.000-07:00
+public_bookcase,49.2650791,-123.0622841,Book exchange box,{},2020-06-03T03:31:20.000-07:00
+public_bookcase,49.2420287,-123.0641159,Little Free Library #81867,{},2020-06-03T02:46:43.000-07:00
+public_bookcase,49.1679043,-122.58866110000001,,"{'opening_hours': '24/7', 'public_bookcase:type': 'wooden_cabinet', 'opening_hours:covid19': 'open'}",2020-05-06T03:11:17.000-07:00
+public_bookcase,49.279145299999996,-123.0372656,,{},2020-06-12T01:21:50.000-07:00
+public_bookcase,49.2791589,-123.03937409999999,,{},2020-06-12T01:19:12.000-07:00
+public_bookcase,49.245341499999995,-123.09979720000001,Little Free Library #5665,{},2020-06-05T01:57:19.000-07:00
+public_bookcase,49.091813,-123.05052749999999,,{},2020-05-06T03:28:04.000-07:00
+public_bookcase,49.0874547,-123.0785595,,{},2020-05-06T03:28:04.000-07:00
+public_bookcase,49.140846999999994,-122.5475514,,{},2020-05-05T23:36:08.000-07:00
+public_bookcase,49.0497166,-122.8686938,TARDIS,"{'description': 'TARDIS', 'brand': 'Little Free Library'}",2019-02-13T05:20:40.000-08:00
+public_bookcase,49.0658162,-122.824825,,{},2019-01-22T17:18:24.000-08:00
+public_bookcase,49.273053600000004,-123.0617782,,{},2020-06-26T00:13:47.000-07:00
+public_bookcase,49.2728995,-123.057124,,{},2020-06-26T00:15:29.000-07:00
+public_bookcase,49.221270200000006,-123.08301340000001,,{'description': 'two small fridge book exchanges'},2020-06-15T02:30:31.000-07:00
+public_bookcase,49.240216100000005,-123.0698025,,{},2020-06-15T02:15:08.000-07:00
+public_bookcase,49.2396393,-123.0879824,Little Free Library #23317,{},2020-06-15T02:05:46.000-07:00
+public_bookcase,49.2384217,-123.0714449,Free art exchange,{},2020-06-15T02:12:45.000-07:00
+public_bookcase,49.236630100000006,-123.0684108,,{},2020-06-15T02:19:26.000-07:00
+public_bookcase,49.2457693,-123.09419740000001,,{},2020-06-15T01:44:19.000-07:00
+public_bookcase,49.283671999999996,-123.01383729999999,,{'description': 'doorless'},2020-06-12T01:53:33.000-07:00
+public_bookcase,49.283892,-123.02177749999998,,{},2020-06-12T01:34:43.000-07:00
+public_bookcase,49.2804084,-123.03938829999998,,{},2020-06-12T01:14:22.000-07:00
+public_bookcase,49.246457299999996,-123.1076136,Little Free Library #96166,{},2020-06-05T02:09:15.000-07:00
+public_bookcase,49.1069632,-122.727604,,{},2019-02-10T00:23:52.000-08:00
+public_bookcase,49.247142499999995,-123.10263540000001,Book exchange box,{},2020-06-05T02:05:02.000-07:00
+public_bookcase,49.2135437,-122.9155705,Little Free Library,{},2018-06-03T02:07:35.000-07:00
+public_bookcase,49.2633618,-123.070821,Ladybug Community Little Library,{},2019-04-20T05:48:11.000-07:00
+public_bookcase,49.25474929999999,-123.0710983,Little Free Library,"{'brand:wikidata': 'Q6650101', 'ref': '18455', 'brand': 'Little Free Library', 'brand:wikipedia': 'en:Little Free Library', 'operator': 'Simon Tanglao'}",2019-03-04T20:50:16.000-08:00
+public_bookcase,49.0280626,-123.0572999,,{},2019-02-10T21:48:43.000-08:00
+public_bookcase,49.1957296,-122.92724869999999,,{},2019-03-28T17:29:01.000-07:00
+public_bookcase,49.192381299999994,-122.92555390000001,,{},2019-03-28T17:29:01.000-07:00
+public_bookcase,49.1526135,-122.90134740000002,,{'public_bookcase:type': 'wooden_cabinet'},2019-09-14T00:30:50.000-07:00
+public_bookcase,49.130052500000005,-122.6965544,,{},2019-11-11T21:22:45.000-08:00
+public_bookcase,49.2747401,-123.06770709999999,,{'lit': 'no'},2020-01-12T21:39:18.000-08:00
+public_bookcase,49.1293277,-122.72347549999999,,{},2019-03-01T22:46:10.000-08:00
+public_bookcase,49.20707410000001,-123.1342324,chART Public Art Marpole,"{'description': 'This little free library was designed by chART in collaboration with Marpole Place Neighborhood House and Marpole Family Place and was created for their location at Hudson and 70th. Recent flood damage, however, has caused the organizations to temporarily', 'ref': '13509', 'brand': 'Little Free Library', 'operator': 'Marpole Place Neighborhood House and Marpole Family Place'}",2019-03-04T21:00:42.000-08:00
+public_bookcase,49.273774100000004,-123.0521883,Community Book Exchange,{},2019-11-18T20:21:27.000-08:00
+public_bookcase,49.228401399999996,-122.89334280000001,Sapperton Plaza - Free Little Library #20900,{'source': 'http://www.waymarking.com/waymarks/WMP1B3_Sapperton_Plaza_Free_Little_Library_20900_New_Westminster_BC'},2018-06-18T04:01:12.000-07:00
+public_bookcase,49.0172419,-122.7921078,Semiahmoo Rotary Book Exchange,"{'operator': 'Rotary International', 'source': 'http://www.waymarking.com/waymarks/WMTJND_The_Semiahmoo_Rotary_Book_Exchange_White_Rock_BC'}",2019-07-10T20:27:51.000-07:00
+public_bookcase,49.28916629999999,-122.78635200000001,Town Centre Park Little Free Library - #34713,"{'operator': 'Rotary International Club', 'source': 'http://www.waymarking.com/waymarks/WMTKNX_Town_Centre_Park_Little_Free_Library_34713_Coquitlam_BC'}",2019-04-08T00:55:22.000-07:00
+public_bookcase,49.0443423,-122.3052828,,{},2016-07-23T05:31:15.000-07:00
+public_bookcase,49.0387968,-122.2400733,Little Free Library,{'operator': 'Rotary Abbotsford-Sumas'},2016-08-24T07:24:32.000-07:00
+public_bookcase,49.267497799999994,-123.1644463,,{'description': 'temporarily removed as of June 2020'},2020-06-06T03:58:22.000-07:00
+public_bookcase,49.0175823,-122.77937060000001,Mieke's Library,{},2019-01-20T19:09:35.000-08:00
+public_bookcase,49.065929100000005,-122.82476750000001,,"{'brand': 'Little Free Library', 'ref': '83274'}",2019-05-01T21:26:15.000-07:00
+public_bookcase,49.029542,-122.8142594,,{},2019-01-18T21:45:44.000-08:00
+public_bookcase,49.2113959,-122.9146882,,{},2020-06-28T02:38:32.000-07:00
+public_bookcase,49.260591,-123.17839270000002,,{},2020-06-06T03:27:49.000-07:00
+public_bookcase,49.2069059,-122.79702990000001,,{},2019-12-28T20:32:18.000-08:00
+public_bookcase,49.25924570000001,-123.15717820000002,Little Free Library #25331,{},2020-06-06T03:13:23.000-07:00
+public_bookcase,49.257906,-123.1290743,,{},2020-06-06T03:03:48.000-07:00
+public_bookcase,49.2571359,-123.1235457,Little Free Library #96576,{},2020-06-06T02:59:52.000-07:00
+public_bookcase,49.2561999,-123.12162109999998,,{},2020-06-06T02:53:56.000-07:00
+public_bookcase,49.2540229,-123.1222506,,{},2020-06-06T02:49:24.000-07:00
+public_bookcase,49.2135854,-122.9164146,,{},2020-06-28T02:27:11.000-07:00
+public_bookcase,49.2585578,-123.1201692,Little Free Library #88728,{},2020-06-06T02:43:15.000-07:00
+public_bookcase,49.216256099999995,-122.92011699999999,,{},2020-06-28T02:21:52.000-07:00
+public_bookcase,49.2475796,-123.0930575,Little Free Library #1337,{},2020-06-23T22:02:18.000-07:00
+public_bookcase,49.2464056,-123.0967476,Little Free Library #48345,{},2020-06-23T21:58:30.000-07:00
+public_bookcase,49.2396371,-123.0972162,Little Free Library #31614,{},2020-06-23T21:43:43.000-07:00
+public_bookcase,49.213945200000005,-122.9811246,,{},2020-06-28T01:51:04.000-07:00
+public_bookcase,49.2452495,-123.10393590000001,Little Free Library #5269,{},2020-06-23T21:51:26.000-07:00
+public_bookcase,49.0700193,-122.6696801,,"{'website': 'http://www.waymarking.com/waymarks/WM1050J_Little_Free_Library_44688_Langley_BC', 'ref': '44688', 'brand': 'Little Free Library'}",2019-03-01T05:49:22.000-08:00

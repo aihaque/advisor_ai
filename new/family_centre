@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+family_centre,49.2615422,-123.0473514,West Coast Family Resources Society,"{'addr:housenumber': '101–2780', 'addr:street': 'East Broadway', 'phone': '+1-604-254-5457', 'addr:postcode': 'V5M 1Y8', 'addr:city': 'Vancouver'}",2019-09-13T13:57:00.000-07:00

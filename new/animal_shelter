@@ -1,0 +1,5 @@
+amenity,lat,lon,name,tags,timestamp
+animal_shelter,49.2507386,-122.8171499,City of Coquitlam Animal Shelter,"{'opening_hours': 'Mo-Fr 09:00-20:00; Sa-Su 10:00-16:00', 'addr:housenumber': '500', 'website': 'https://www.coquitlam.ca/', 'addr:street': 'Mariner Way', 'phone': '+1-604-927-7386'}",2019-09-04T17:03:24.000-07:00
+animal_shelter,49.2853987,-123.06251680000001,VOKRA,{'operator': 'Vancouver Orphan Kitten Rescue'},2020-01-03T22:37:34.000-08:00
+animal_shelter,49.0714695,-123.0190822,Orphaned Wildlife Rehabilitation Society,"{'opening_hours': 'Mo-Su 09:00-16:00', 'website': 'https://www.owlrehab.org/', 'animal_shelter': 'wildlfe;bird'}",2019-07-14T06:47:45.000-07:00
+animal_shelter,49.2413054,-122.95539209999998,Wildlife Rescue Association of BC,"{'addr:housenumber': '5216', 'addr:street': 'Glencarin Drive', 'addr:city': 'Burnaby'}",2019-09-13T13:56:49.000-07:00

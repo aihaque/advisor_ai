@@ -1,0 +1,5 @@
+amenity,lat,lon,name,tags,timestamp
+lounge,49.198838,-123.18139199999999,,{'operator': 'British Airways'},2011-04-28T05:16:17.000-07:00
+lounge,49.196528,-123.17776599999999,Sakura Lounge,{'operator': 'JAL'},2011-04-28T05:16:17.000-07:00
+lounge,49.197136900000004,-123.1757077,Maple Leaf Lounge,{'operator': 'Air Canada'},2012-11-17T03:14:13.000-08:00
+lounge,49.195935999999996,-123.178125,Plaza Premium Lounge,{},2011-04-28T05:16:17.000-07:00

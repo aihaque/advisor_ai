@@ -1,0 +1,19 @@
+amenity,lat,lon,name,tags,timestamp
+marketplace,49.257997100000004,-123.0619281,Trout Lake Farmer's Market,{'opening_hours': 'Sa 09:00-14:00'},2018-06-24T17:49:10.000-07:00
+marketplace,49.2830614,-123.0423499,Vancouver Farmers Market,"{'addr:province': 'BC', 'addr:housenumber': '2901', 'addr:street': 'E Hastings St', 'addr:postcode': 'V5K 5J1', 'addr:city': 'Vancouver'}",2020-01-13T17:51:00.000-08:00
+marketplace,49.2426067,-123.10435009999999,Vancouver Farmers Market,"{'addr:province': 'BC', 'addr:street': 'East 30th Avenue', 'addr:city': 'Vancouver'}",2019-11-19T23:54:33.000-08:00
+marketplace,49.1121833,-122.7335488,The Cloverdale Market,"{'opening_hours': 'Su 06:00-15:00', 'alt_name': 'Cloverdale Flea Market', 'website': 'https://www.cloverdalemarket.ca', 'phone': '+1-604-837-1676'}",2019-04-26T05:43:04.000-07:00
+marketplace,49.04786420000001,-122.29258,Abbotsford Farm & Country Market,"{'opening_hours': 'Apr-Oct: Sa 09:00-13:00;Nov-Dec 17:Sa 10:00-14:00;week 1-12/2: Sa 10:00-14:00', 'description': 'located in the parking lot', 'opening_hours:url': 'http://www.abbotsfordfarmandcountrymarket.com/when-n-where', 'website': 'https://afcm.ca/', 'operator': 'Abbotsford Farm & Country Market Society'}",2019-08-07T01:30:54.000-07:00
+marketplace,49.2434955,-122.97301609999998,Burnaby Artisan Farmers' Market,"{'addr:province': 'BC', 'addr:housenumber': '4949', 'addr:country': 'CA', 'addr:street': 'Canada Way', 'addr:postcode': 'V5G 4A3', 'addr:city': 'Burnaby'}",2020-02-11T20:27:26.000-08:00
+marketplace,49.2826727,-123.1304201,West End Farmers Market,{'opening_hours': 'Sa 09:00-14:00'},2018-06-24T17:49:12.000-07:00
+marketplace,49.26213679999999,-123.16155619999999,Kitsilano Farmers Market,{'opening_hours': 'Su 10:00-14:00'},2018-06-24T17:49:11.000-07:00
+marketplace,49.2799433,-123.1137757,Downtown Farmers Market,{'opening_hours': 'Th 15:00-19:00'},2018-06-24T17:49:13.000-07:00
+marketplace,49.24301129999999,-123.1045469,Riley Park Farmers Market,{'opening_hours': 'Sa 10:00-14:00'},2019-09-09T15:57:44.000-07:00
+marketplace,49.263786200000006,-123.0937361,Mount Pleasant Farmers Market,{'opening_hours': 'Su 10:00-14:00'},2018-06-24T17:49:10.000-07:00
+marketplace,49.310203200000004,-123.0796271,Shipyards Christmas Market,"{'addr:province': 'BC', 'addr:street': 'Wallace Mews', 'addr:postcode': 'V7L 0B2', 'addr:city': 'North Vancouver'}",2019-11-15T17:13:13.000-08:00
+marketplace,49.250765,-123.2379433,UBC Farm Market,{},2011-04-06T19:00:18.000-07:00
+marketplace,49.2288348,-123.0047566,,{},2012-05-09T11:01:31.000-07:00
+marketplace,49.286812700000006,-123.12796680000001,CB2,"{'opening_hours': 'Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00', 'wheelchair': 'yes', 'addr:housenumber': '1277', 'addr:street': 'Robson Street'}",2018-08-22T19:21:02.000-07:00
+marketplace,49.283033200000006,-122.82602240000001,Olive The Best,{},2019-08-12T00:04:00.000-07:00
+marketplace,49.2737748,-123.0987118,Main St. Station Farmers Market,{'opening_hours': 'We 14:00-18:00'},2018-06-24T17:49:12.000-07:00
+marketplace,49.066035299999996,-122.324949,Abbotsford Flea Market,"{'opening_hours': 'Su 06:00-16:00', 'website': 'http://www.abbotsfordfleamarket.com', 'phone': '+1-604-859-7540'}",2016-09-05T20:10:50.000-07:00

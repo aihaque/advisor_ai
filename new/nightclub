@@ -1,0 +1,13 @@
+amenity,lat,lon,name,tags,timestamp
+nightclub,49.2805916,-123.1207429,Commodore Ballroom,"{'website': 'http://www.commodoreballroom.ca/', 'source': 'website', 'addr:postcode': 'V6Z 1K3', 'addr:city': 'Vancouver', 'capacity': '990', 'addr:housenumber': '868', 'old_name': 'Commodore Cabaret', 'phone': '+1-604-739-4550', 'addr:street': 'Granville Street', 'wikipedia': 'en:Commodore Ballroom', 'wikidata': 'Q5153212', 'leisure': 'music_venue', 'start_date': '1929'}",2019-11-22T19:58:24.000-08:00
+nightclub,49.2785234,-123.1238494,Encore,"{'addr:housenumber': '1058', 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}",2019-09-18T23:00:49.000-07:00
+nightclub,49.2826091,-123.1057991,The Bourbon,"{'addr:housenumber': '50', 'addr:street': 'West Cordova Street', 'addr:city': 'Vancouver'}",2019-04-30T04:00:53.000-07:00
+nightclub,49.27232070000001,-123.1342258,Backstage Lounge,{},2016-01-24T22:53:43.000-08:00
+nightclub,49.051316,-122.3131173,Cloud Hookah Lounge,"{'opening_hours': 'Su-Th 18:00-24:00; Mo-Fr 00:00-01:00; Fr-Sa 18:00-24:00; Sa-Su 00:00-03:00', 'phone': '+1-604-744-0744', 'addr:unit': '102'}",2019-09-02T22:08:26.000-07:00
+nightclub,49.2772912,-123.1257259,Aura,"{'addr:housenumber': '1180', 'website': 'https://auravancouver.ca/', 'phone': '+1-604-688-8889', 'smoking': 'no', 'opening_hours': 'Fr-Su 22:00-03:00', 'addr:street': 'Granville Street', 'addr:postcode': 'V6Z 1L8', 'addr:city': 'Vancouver'}",2019-10-28T15:41:35.000-07:00
+nightclub,49.2805575,-123.12079879999999,Bottleneck,"{'addr:housenumber': '870', 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}",2019-11-22T19:58:24.000-08:00
+nightclub,49.2784275,-123.1225756,The Penthouse,"{'opening_hours:signed': 'no', 'addr:housenumber': '1019', 'outdoor_seating': 'no', 'addr:street': 'Seymour Street', 'start_date': '1947', 'addr:city': 'Vancouver'}",2019-12-08T21:03:48.000-08:00
+nightclub,49.2793851,-123.12991550000001,Celebrities,"{'addr:housenumber': '1022', 'addr:street': 'Davie Street', 'addr:city': 'Vancouver'}",2019-09-13T13:56:58.000-07:00
+nightclub,49.1058067,-122.6603499,Gabby's Country Cabaret,"{'name:en': ""Gabby's Country Cabaret""}",2019-10-06T22:29:19.000-07:00
+nightclub,49.2801451,-123.13135390000001,Playhouse Nightclub,"{'addr:housenumber': '1240', 'addr:street': 'Thurlow Street', 'addr:city': 'Vancouver'}",2019-09-13T13:56:58.000-07:00
+nightclub,49.275391299999995,-123.1096402,Privé,{},2016-09-16T20:32:34.000-07:00

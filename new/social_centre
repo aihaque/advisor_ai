@@ -1,0 +1,13 @@
+amenity,lat,lon,name,tags,timestamp
+social_centre,49.10542879999999,-122.6525635,Royal Canadian Legion - Branch 21 (Langley),"{'addr:housenumber': '20604', 'addr:street': 'Logan Avenue', 'phone': '+1-604-534-3615'}",2018-06-20T15:13:09.000-07:00
+social_centre,49.2141826,-122.92137579999999,Royal Canadian Legion - Branch 2 (New Westminster),"{'addr:housenumber': '631', 'addr:street': 'Sixth Street', 'phone': '+1-604-524-1151'}",2018-06-20T15:09:43.000-07:00
+social_centre,49.104069200000005,-122.66071699999999,Langley Senior Resources Society,{},2019-10-27T23:44:35.000-07:00
+social_centre,49.1340348,-122.30400060000001,Mission Alano Club,"{'addr:housenumber': '33229', 'club': 'social', 'description': 'Alcoholics Anonymous', 'addr:street': 'North Railway Avenue', 'office': 'ngo', 'addr:postcode': 'V2V 1E4'}",2018-04-11T14:17:52.000-07:00
+social_centre,49.26428,-122.7803736,Royal Canadian Legion - Branch 133 (Port Coquitlam),"{'addr:housenumber': '2675', 'addr:street': 'Shaughnessy Street', 'phone': '+1-604-942-8911'}",2018-06-20T15:10:26.000-07:00
+social_centre,49.2496566,-123.09038670000001,Capri Hall,"{'operator:type': 'private_non_profit', 'brand': 'Subud', 'operator': 'Subud Vancouver'}",2019-11-01T23:55:11.000-07:00
+social_centre,49.0364841,-123.0699259,Royal Canadian Legion Hall,"{'brand:wikidata': 'Q3270231', 'official_name': 'Royal Canadian Legion - Branch 289 (Tsawwassen)', 'note': 'Position approximate', 'addr:housenumber': '1835', 'phone': '+1-604-943-0232', 'brand:wikipedia': 'en:Royal Canadian Legion', 'short_name': 'RCL', 'addr:street': '56th Street', 'brand': 'Royal Canadian Legion', 'addr:unit': '22'}",2020-01-10T03:06:06.000-08:00
+social_centre,49.223681400000004,-122.98795679999999,Royal Canadian Legion - Branch 83 (South Burnaby),"{'addr:housenumber': '5289', 'addr:street': 'Grimmer Street', 'phone': '+1-604-568-2911'}",2019-09-18T05:09:23.000-07:00
+social_centre,49.2616583,-123.10129170000002,Royal Canadian Legion - Branch 177 (Mount Pleasant),{'phone': '+1-604-879-3551'},2018-06-20T15:13:09.000-07:00
+social_centre,49.2660701,-123.15109220000001,Royal Canadian Legion - Branch 178 (Shalom),"{'addr:housenumber': '2020', 'addr:street': 'West 6th Avenue', 'phone': '+1-604-737-1033'}",2018-06-20T15:13:08.000-07:00
+social_centre,49.2724109,-123.0270159,Royal Canadian Legion - Branch 44 (Vancouver Tuberculous Veterans’ Section),"{'addr:housenumber': '1410', 'addr:street': 'Kootenay Street', 'phone': '+1-604-874-8510'}",2018-06-20T15:13:08.000-07:00
+social_centre,49.2644843,-123.18543259999998,Royal Canadian Legion - Branch 142 (West Point Grey),"{'addr:housenumber': '3679', 'addr:street': 'West Broadway', 'phone': '+1-604-738-1120'}",2018-06-20T15:13:08.000-07:00

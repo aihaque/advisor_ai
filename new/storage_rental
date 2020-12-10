@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+storage_rental,49.0848614,-123.1087912,Ladner Storage,"{'addr:province': 'BC', 'payment:credit_cards': 'yes', 'contact:google_plus': 'https://g.page/LadnerStorage', 'contact:email': 'info@ladnerstorage.ca', 'addr:postcode': 'V4K 1R9', 'addr:city': 'Delta', 'addr:housenumber': '4141', 'contact:phone': '16049437735', 'opening_hours': '24/7', 'addr:town': 'Ladner', 'addr:street': 'River Road West', 'contact:website': 'https://ladnerstorage.ca'}",2020-01-05T23:11:05.000-08:00

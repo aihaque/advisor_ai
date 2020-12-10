@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+motorcycle_rental,49.2045746,-123.1280662,EagleRider,"{'addr:housenumber': '8910', 'website': 'https://www.eaglerider.com/vancouver', 'addr:street': 'Shaughnessy Street', 'wikipedia': 'en:EagleRider', 'wikidata': 'Q5324992', 'addr:city': 'Vancouver'}",2020-06-14T04:33:10.000-07:00

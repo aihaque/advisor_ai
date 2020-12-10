@@ -1,0 +1,100 @@
+amenity,lat,lon,name,tags,timestamp
+doctors,49.053877,-122.32372269999999,Clearbrook Family Practice,"{'healthcare:speciality': 'general', 'addr:unit': '101', 'healthcare': 'doctor'}",2015-12-21T13:43:31.000-08:00
+doctors,49.042242,-122.2786699,GABRIEL CHU,"{'healthcare:speciality': 'ophthalmology', 'description': 'EYE PHYSICIAN & SURGEON', 'healthcare': 'doctor'}",2015-12-13T11:04:56.000-08:00
+doctors,49.040879700000005,-122.2943277,Dr Mudassir Iqbal,"{'healthcare:speciality': 'neurology', 'description': 'Obstetrics / Gynecology', 'level': '3', 'addr:unit': '305', 'healthcare': 'doctor'}",2018-04-04T18:01:20.000-07:00
+doctors,49.040859600000005,-122.2942535,Dr Schlagintweit,"{'healthcare:speciality': 'plastic_surgery', 'level': '3', 'addr:unit': '301', 'healthcare': 'doctor'}",2018-04-04T18:01:19.000-07:00
+doctors,49.0408763,-122.2943127,Dr Neal Shone,"{'healthcare:speciality': 'gynaecology', 'description': 'Obstetrics / Gynecology', 'level': '3', 'addr:unit': '304', 'healthcare': 'doctor'}",2018-04-04T18:01:20.000-07:00
+doctors,49.04083120000001,-122.29433440000001,Dr. Damien Byrne,"{'healthcare:speciality': 'surgery', 'level': '4', 'addr:unit': '402', 'healthcare': 'doctor'}",2018-04-04T18:01:21.000-07:00
+doctors,49.0408624,-122.2942689,Dr. Aaron Brown,"{'healthcare:speciality': 'plastic_surgery', 'level': '3', 'addr:unit': '301', 'healthcare': 'doctor'}",2018-04-04T18:01:19.000-07:00
+doctors,49.21907,-122.9282604,Welcome Medical Clinic,"{'addr:housenumber': '#105-7885', 'website': 'http://welcomemedical.ca/', 'phone': '+1-604-526-1303', 'building:levels': '0', 'addr:street': '6th Street', 'fax': '+1-604-526-1304', 'addr:postcode': 'V3N 3N4', 'email': 'welcomeappointments@gmail.com', 'addr:city': 'Burnaby'}",2019-09-13T13:56:49.000-07:00
+doctors,49.2496643,-123.07581359999999,LOTUS Medical,"{'addr:housenumber': '4018', 'healthcare:speciality': 'general', 'addr:street': 'Knight Street', 'addr:postcode': 'V5N 5Y7', 'healthcare': 'doctor', 'addr:city': 'Vancouver'}",2019-09-13T13:57:03.000-07:00
+doctors,49.102455299999995,-122.65755130000001,Langley City Family Practice,"{'healthcare:speciality': 'general', 'healthcare': 'doctor'}",2019-05-02T06:04:06.000-07:00
+doctors,49.0393298,-122.2689263,Abbotsford Village Medical Clinic,"{'phone': '+1-604-504-7145', 'healthcare:speciality': 'general', 'opening_hours': 'Mo-Fr 09:00-20:00; Sa-Su,PH 09:00-17:00', 'description': 'Extended Hours', 'addr:unit': '302', 'healthcare': 'doctor'}",2019-09-02T22:08:25.000-07:00
+doctors,49.0539054,-122.32450130000001,Kaizen Medical Inc.,"{'website': 'http://www.kaizenmed.com', 'healthcare:speciality': 'general', 'description': 'Functional Medicine', 'office': 'company', 'addr:unit': '300', 'healthcare': 'doctor'}",2015-12-21T13:43:27.000-08:00
+doctors,49.0539537,-122.324374,Dr. S.N. Jaffri,"{'healthcare:speciality': 'general', 'addr:unit': '101', 'healthcare': 'doctor'}",2015-12-21T13:43:28.000-08:00
+doctors,49.1356697,-122.332978,Mission Division of Family Practice,"{'healthcare:speciality': 'general', 'healthcare': 'doctor'}",2019-05-27T21:44:12.000-07:00
+doctors,49.0539808,-122.32437809999999,Family Health Centre,"{'healthcare:speciality': 'general', 'addr:unit': '102', 'healthcare': 'doctor'}",2015-12-21T13:43:28.000-08:00
+doctors,49.0547315,-122.32586599999999,Dahlstrom Medical Clinic,"{'healthcare:speciality': 'general', 'phone': '+1-604-853-6667', 'addr:unit': '2', 'healthcare': 'doctor'}",2018-02-09T04:59:47.000-08:00
+doctors,49.1060437,-122.66286770000002,Healthway Medical clinic,"{'addr:housenumber': '20200', 'level': '0', 'healthcare:speciality': 'general', 'addr:street': 'Fraser Highway', 'addr:postcode': 'V3A 4E6', 'healthcare': 'doctor'}",2019-05-07T04:34:59.000-07:00
+doctors,49.0438555,-122.29397709999999,Dr. E H Zaghloul,"{'healthcare:speciality': 'psychiatry', 'addr:unit': 'C', 'healthcare': 'doctor'}",2016-01-27T07:24:10.000-08:00
+doctors,49.043904100000006,-122.29397479999999,Dr. Shaun K. Tregoning,"{'healthcare:speciality': 'gynaecology', 'addr:unit': 'D', 'healthcare': 'doctor'}",2016-01-27T07:24:10.000-08:00
+doctors,49.043656299999995,-122.2929004,Greenleaf Medical Clinic,{'healthcare': 'clinic'},2015-06-28T03:24:04.000-07:00
+doctors,49.2026155,-122.9484652,Dr. Water Rebeyka,"{'opening_hours': 'Mo-Fr 09:00-18:00; Sa 09:30-18:00', 'name:en': 'Dr. Water Rebeyka', 'phone': '+1-604-522-4265', 'healthcare': 'doctor'}",2019-07-02T01:10:30.000-07:00
+doctors,49.0543812,-122.3584067,Blue Oak Medical Clinic,"{'speciality': 'general', 'phone': '+1-604-557-1155', 'level': '1', 'opening_hours': '09:00-17:00', 'addr:unit': '200', 'operator': 'Dr. Jaspreet Mangat', 'healthcare': 'doctor'}",2018-04-03T13:28:10.000-07:00
+doctors,49.0659283,-122.3796882,Blueridge Medical Clinic,"{'phone': '+1-604-870-8707', 'level': '0', 'healthcare:speciality': 'general', 'opening_hours': '""hours posted weekly""', 'description': 'Family Practice', 'addr:unit': '102', 'healthcare': 'doctor'}",2019-02-21T01:51:10.000-08:00
+doctors,49.042201,-122.2785759,Obstetrics & Gynecology,"{'healthcare:speciality': 'gynaecology', 'website': 'http://www.kenyon-tuffnell-obgyn.ca', 'phone': '+1-604-859-7725', 'healthcare': 'doctor'}",2018-02-09T04:59:59.000-08:00
+doctors,49.040928799999996,-122.294303,Dr Keshmiri,"{'healthcare:speciality': 'respirology', 'level': '2', 'addr:unit': '202', 'healthcare': 'doctor'}",2018-04-04T18:01:18.000-07:00
+doctors,49.210701,-122.91749009999998,Bowen Therapy Clinics,"{'phone': '+1-604-777-0426', 'source': 'gps/photo survey'}",2018-10-26T20:29:56.000-07:00
+doctors,49.1357257,-122.3329768,Drs. R & G Siemens,"{'healthcare:speciality': 'general', 'healthcare': 'doctor'}",2019-05-27T21:44:13.000-07:00
+doctors,49.0443177,-122.22172859999999,Whatcom Medical,"{'healthcare:speciality': 'general', 'phone': '+1-604-853-5424', 'addr:unit': '105', 'healthcare': 'doctor'}",2018-06-20T15:10:36.000-07:00
+doctors,49.0387998,-122.278724,Dr Zakaria Tadrous,"{'healthcare:speciality': 'ophthalmology', 'website': 'http://www.tadrouseyecentre.com', 'addr:unit': '102', 'healthcare': 'doctor'}",2015-05-23T22:38:54.000-07:00
+doctors,49.2198196,-122.9281568,BaroMedical Hyperbaric Oxygen Clinic,{},2011-01-04T21:14:24.000-08:00
+doctors,49.108647600000005,-122.65063470000001,St Luke Family Practice,"{'healthcare:speciality': 'general', 'healthcare': 'doctor'}",2019-05-07T13:26:08.000-07:00
+doctors,49.0501786,-122.3211624,West Oaks Medical Centre,"{'website': 'https://www.denninghealth.ca/contact/locations/abbotsford', 'phone': '+1-604-557-9938', 'healthcare:speciality': 'general', 'opening_hours': 'Mo,We,Fr 09:00-17:00; Tu,Th 09:00-18:00; Sa 10:00-14:00', 'addr:unit': '310', 'operator': 'Denning Health Group', 'healthcare': 'doctor'}",2019-02-19T16:57:35.000-08:00
+doctors,49.03889470000001,-122.27876840000002,Dr. Trevor Hartl,"{'healthcare:speciality': 'otolaryngology', 'addr:unit': '103', 'healthcare': 'doctor'}",2015-05-23T22:38:53.000-07:00
+doctors,49.055747,-122.316197,Dr. Alok Sood,{'healthcare': 'doctor'},2015-05-23T19:15:43.000-07:00
+doctors,49.052295,-122.3194477,Dr. Henryk Pluta Inc.,"{'healthcare:speciality': 'gastroenterology', 'description': 'Gastroenterology & Hepatology Clinic', 'healthcare': 'doctor'}",2015-05-25T12:00:10.000-07:00
+doctors,49.0507048,-122.3314557,Langdon Medical Clinic,"{'healthcare:speciality': 'general', 'addr:unit': '108', 'healthcare': 'doctor'}",2015-12-19T10:49:59.000-08:00
+doctors,49.049034999999996,-122.3350943,Cedar Park Medical Clinic,"{'healthcare:speciality': 'general', 'healthcare': 'doctor'}",2015-06-23T02:33:06.000-07:00
+doctors,49.0472099,-122.29382790000001,Medimax Health Centres,"{'addr:housenumber': '2479', 'alt_name': 'Family Physicians', 'phone': '+1-604-852-2279', 'healthcare:speciality': 'general', 'description': 'Abbotsford South Division', 'addr:street': 'McCallum Road', 'entrance': 'yes', 'addr:postcode': 'V2S 3P8', 'healthcare': 'doctor'}",2018-02-09T04:59:41.000-08:00
+doctors,49.2637051,-123.1250731,Dr. Andrew B. Denton Facial Plastic Surgeon,"{'addr:housenumber': '943', 'website': 'https://doctordenton.com', 'phone': '+1-604-879-3223', 'healthcare:speciality': 'plastic_surgery', 'opening_hours': 'Mo-Fr 09:00-16:30', 'addr:street': 'W Broadway', 'addr:postcode': 'V5Z 4E1', 'addr:unit': '202', 'healthcare': 'doctor', 'addr:city': 'Vancouver'}",2019-09-13T13:57:04.000-07:00
+doctors,49.2652393,-123.13967099999999,The Seymour Medical Clinic,"{'addr:housenumber': '1530', 'addr:street': 'West 7th Avenue', 'healthcare': 'doctor'}",2019-08-29T18:25:42.000-07:00
+doctors,49.1321177,-123.09493390000002,Ironwood Medical Clinic,"{'addr:unit': '3100', 'healthcare': 'doctor'}",2019-08-24T15:12:34.000-07:00
+doctors,49.2932674,-122.75547150000001,Foothill's Medical Clinic,{},2015-05-06T09:58:38.000-07:00
+doctors,49.212225200000006,-122.9237983,Gemini,{},2020-03-02T18:51:11.000-08:00
+doctors,49.050439700000005,-122.3384392,Central Valley Medical Clinic,"{'addr:unit': '172', 'healthcare': 'doctor'}",2019-08-07T02:34:42.000-07:00
+doctors,49.280871600000005,-123.0481885,Northeast Mental Health Team,"{'addr:housenumber': '2750', 'addr:street': 'East Hastings Street', 'healthcare': 'doctor'}",2019-10-31T23:04:22.000-07:00
+doctors,49.2808785,-123.04882549999999,BC Biomedical Laboratories,"{'wheelchair': 'limited', 'addr:housenumber': '2736', 'addr:street': 'East Hastings Street', 'healthcare': 'doctor'}",2019-10-31T23:04:22.000-07:00
+doctors,49.280932799999995,-123.0488379,B Carlani & E Wong Physthrpy,"{'addr:housenumber': '2738', 'addr:street': 'East Hastings Street', 'healthcare': 'doctor'}",2019-10-31T23:04:22.000-07:00
+doctors,49.2808218,-123.0486287,Dr. Gordon Stahl,"{'note': 'Unit 100. Dr. Lynn Huff. Dr. Sylvia Ducceschi. Dr. Rozaliya Kim, Dr. Mihaela Lapuste', 'addr:housenumber': '2732', 'addr:street': 'East Hastings Street', 'healthcare': 'doctor'}",2019-10-31T23:04:22.000-07:00
+doctors,49.0522093,-122.31936809999999,Allwood Medical Centre,"{'addr:unit': '102', 'healthcare': 'doctor'}",2019-05-27T22:29:25.000-07:00
+doctors,49.1851152,-122.7988858,Dr. J. T. Wang Medical Clinic,"{'healthcare:speciality': 'general', 'addr:housenumber': '109', 'healthcare': 'doctor'}",2019-02-24T16:44:29.000-08:00
+doctors,49.042171100000004,-122.2784986,Dr. Christopher S. Neville,"{'healthcare:speciality': 'urology', 'description': 'ADULT & PEDIATRIC UROLOGIC SURGERY', 'healthcare': 'doctor'}",2015-12-13T11:04:57.000-08:00
+doctors,49.0371614,-122.293582,Dr. Gerald Mitchell,"{'level': '0', 'addr:unit': '102', 'healthcare': 'doctor'}",2015-10-03T13:53:05.000-07:00
+doctors,49.053332399999995,-122.33836540000001,Dr Ross Dr Moodley,"{'phone': '+1-604-853-8641', 'level': '1', 'addr:unit': '204', 'healthcare': 'centre'}",2018-02-09T05:00:04.000-08:00
+doctors,49.0376732,-122.29357649999999,Dr Tun Zan Maung,"{'healthcare:speciality': 'internal', 'level': '1', 'addr:unit': '208', 'healthcare': 'doctor'}",2015-10-03T12:51:21.000-07:00
+doctors,49.0376664,-122.29349209999998,Abbotsford Division of Family Practice,"{'level': '0', 'addr:unit': '103', 'healthcare': 'doctor'}",2015-10-03T12:51:20.000-07:00
+doctors,49.0377484,-122.2934988,Dr S. Bubra & Associates,"{'level': '0', 'healthcare': 'doctor'}",2015-10-03T12:51:20.000-07:00
+doctors,49.1026534,-122.7301388,Clover Care Walk-In Clinic,{'addr:city': 'Surrey'},2020-01-05T02:43:58.000-08:00
+doctors,49.0500619,-122.3356392,Medical Clinic Family Physicians,"{'level': '0', 'healthcare': 'doctor'}",2016-06-14T18:01:46.000-07:00
+doctors,49.060732,-122.3789585,Ellwood Medical Clinic,"{'opening_hours': 'Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa,Su 09:00-14:30', 'healthcare': 'doctor'}",2019-01-16T16:20:58.000-08:00
+doctors,49.2498766,-123.0194496,Dr Luongo,{'name:en': 'Dr Luongo'},2017-08-23T22:23:31.000-07:00
+doctors,49.0457989,-122.3047706,Dr Shavinder Singh Gill; Dr Mark Ballard,"{'healthcare:speciality': 'internal', 'opening_hours': 'Mo,Tu,Th 08:30-16:30; We 09:00-17:00; Fr 08:30-17:30; Mo-Fr 13:00-14:00 off ""Lunch""', 'entrance': 'yes', 'building': 'detached', 'healthcare': 'doctor'}",2019-09-02T22:08:26.000-07:00
+doctors,49.0448995,-122.3372348,Midtown Medical Clinic,"{'healthcare:speciality': 'general', 'level': '0', 'healthcare': 'doctor'}",2017-10-09T14:21:48.000-07:00
+doctors,49.131376700000004,-122.3327611,Mission Oaks Medical Centre,"{'website': 'https://www.missionoaksmedical.ca/', 'phone': '+1-604-826-7996', 'healthcare:centre': 'yes', 'healthcare:speciality': 'general', 'opening_hours': 'Mo-Fr 08:00-18:00; Sa-Su 09:00-13:00', 'healthcare': 'doctor'}",2019-09-02T22:08:26.000-07:00
+doctors,49.231409899999996,-122.90624720000001,Crest Medical Clinic,"{'addr:housenumber': '8695', 'addr:street': 'Tenth Avenue', 'addr:city': 'Burnaby'}",2012-05-02T06:47:21.000-07:00
+doctors,49.0527086,-122.32544820000001,Dr. Debbie Hewes,"{'healthcare:speciality': 'paediatrics', 'description': 'Pediatrician', 'addr:unit': '104', 'healthcare': 'doctor'}",2015-08-01T17:52:22.000-07:00
+doctors,49.0527844,-122.32545400000001,Windermere Medical Clinic,"{'healthcare:speciality': 'general', 'phone': '+1-604-859-6774', 'addr:unit': '204', 'healthcare': 'doctor'}",2018-02-02T18:56:51.000-08:00
+doctors,49.0573161,-122.27412079999999,Clayburn Medical Practice,"{'healthcare:speciality': 'general', 'phone': '+1-604-852-6781', 'addr:unit': '480', 'healthcare': 'doctor'}",2018-06-20T15:11:26.000-07:00
+doctors,49.0403563,-122.2968371,Mayfair Ophthalmology,"{'specialty': 'ophthalmology', 'website': 'https://doctorwalker.ca/', 'phone': '+1-604-853-6321', 'addr:unit': 'A', 'operator': 'Dr Randy Walker', 'healthcare': 'doctor'}",2019-02-17T12:17:14.000-08:00
+doctors,49.0514716,-122.3202034,Vrabec Urology,"{'healthcare:speciality': 'urology', 'operator': 'Dr George Vrabec', 'healthcare': 'doctor'}",2018-08-26T19:59:16.000-07:00
+doctors,49.277828799999995,-122.80257420000001,Dr Ali Amiri-Chiropractor,"{'name:en': 'Dr Ali Amiri-Chiropractor', 'healthcare': 'doctor'}",2020-01-17T07:58:29.000-08:00
+doctors,49.2634842,-123.1209592,Broadway Medical Dental,"{'addr:street': 'West Broadway', 'healthcare': 'doctor', 'addr:city': 'Vancouver'}",2020-02-16T02:23:38.000-08:00
+doctors,49.1894799,-123.14152849999999,Ultima Medical,"{'addr:housenumber': '3600 Suite 390', 'addr:street': 'Lysander Lane', 'phone': '+1-604-270-1370'}",2018-05-16T22:30:01.000-07:00
+doctors,49.0385932,-122.27108259999999,Sumas Medical Clinic,"{'entrance': 'yes', 'addr:unit': '130', 'healthcare': 'clinic'}",2019-11-09T13:47:52.000-08:00
+doctors,49.193292799999995,-123.18028490000002,Ultima Medical Clinic,"{'opening_hours': 'Mo-Fr 08:00-17:00; Sa,Su off', 'indoor': 'yes', 'level': '-1', 'healthcare': 'doctor'}",2019-09-02T22:08:26.000-07:00
+doctors,49.0514531,-122.320675,Prajna Medical Clinic,"{'level': '0', 'healthcare': 'doctor'}",2019-11-10T17:17:27.000-08:00
+doctors,49.0377744,-122.2936565,Dr. O. Arojojoye MD Inc.,"{'level': '2', 'addr:unit': '302', 'healthcare': 'doctor'}",2015-10-03T12:51:22.000-07:00
+doctors,49.0579406,-122.37653459999999,Vivcare Medical Centre,"{'opening_hours': 'Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su off', 'speciality': 'general', 'phone': '+1-604-381-4102', 'level': '0', 'healthcare': 'doctor'}",2019-09-02T22:08:26.000-07:00
+doctors,49.0518141,-122.31532469999999,Emerald Clinic,"{'website': 'http://prosperpharmacy.ca/medical-clinic-in-abbotsford-bc', 'phone': '+1-604-853-8884', 'level': '0', 'opening_hours': 'Mo,We-Fr 07:00-17:00; Tu 07:00-19:00; Sa-Su 09:00-17:00', 'addr:unit': '108', 'healthcare': 'doctor'}",2019-09-02T22:08:25.000-07:00
+doctors,49.2631701,-122.7784988,Elgin Medical Clinic,{},2018-05-21T05:29:33.000-07:00
+doctors,49.04133970000001,-122.29285359999999,Dr. Calvin Chung-Kin Wang,"{'healthcare:speciality': 'orthopaedics', 'addr:unit': '9', 'healthcare': 'doctor'}",2019-11-09T19:24:20.000-08:00
+doctors,49.041340399999996,-122.2929135,Dr. Ramin Mehin,"{'healthcare:speciality': 'orthopaedics', 'addr:unit': '8', 'healthcare': 'doctor'}",2019-11-09T19:24:20.000-08:00
+doctors,49.041141499999995,-122.29302140000001,Dr. David Musto,"{'healthcare:speciality': 'plastic_surgery', 'addr:unit': '10', 'healthcare': 'doctor'}",2019-11-09T14:16:19.000-08:00
+doctors,49.249462,-123.1278092,Westcoast Women's Clinic,{'healthcare': 'doctor'},2019-11-08T21:37:11.000-08:00
+doctors,49.23447279999999,-123.1609023,Dr. Timothy W.T. Kam Inc.,{'healthcare': 'doctor'},2019-12-26T22:15:17.000-08:00
+doctors,49.0336872,-122.80143329999999,Semiahmoo Medical Clinic,"{'healthcare:speciality': 'general', 'addr:unit': '3', 'healthcare': 'doctor'}",2018-08-12T19:42:57.000-07:00
+doctors,49.041129999999995,-122.29288770000001,Dr. Bernie Schopf,"{'healthcare:speciality': 'surgery', 'addr:unit': '3', 'healthcare': 'doctor'}",2019-11-09T19:24:20.000-08:00
+doctors,49.1336643,-122.32560559999999,Mission Hills Medical Clinic,"{'healthcare:speciality': 'general', 'addr:unit': '107', 'healthcare': 'doctor'}",2019-05-19T15:52:06.000-07:00
+doctors,49.13364910000001,-122.3270262,Cedar Care Clinic,"{'healthcare:speciality': 'general', 'healthcare': 'doctor'}",2019-05-19T14:14:03.000-07:00
+doctors,49.326631,-122.95150090000001,Deep Cove Medical Clinic,"{'healthcare:speciality': 'general', 'addr:housenumber': '4313', 'addr:street': 'Gallant Avenue', 'level': '0', 'healthcare': 'doctor'}",2019-12-21T16:15:38.000-08:00
+doctors,49.132614000000004,-122.33986090000002,Mission Medical Skin & Laser Clinic,"{'website': 'https://www.missionskinandlaser.com/', 'shop': 'beauty', 'phone': '+1-604-820-7791', 'addr:unit': 'E110', 'healthcare': 'doctor'}",2019-07-12T07:49:51.000-07:00
+doctors,49.1319091,-122.3411966,Walk-in Clinic at Walmart,"{'website': 'http://www.jacknathanhealth.com', 'ref': 'Clinic #1119', 'old_name': 'Viva Clinic', 'phone': '+1-604-820-7751', 'entrance': 'yes', 'operator': 'Jack Nathan Health', 'healthcare': 'doctor'}",2018-06-20T15:11:39.000-07:00
+doctors,49.280817799999994,-123.1312913,Care Point Medical Clinic,"{'addr:housenumber': '1123', 'website': 'http://www.carepoint.ca', 'phone': '+1-604-915-9517', 'opening_hours': 'Mo-Th 08:00-21:00; Fr 09:00-21:00; Sa-Su 09:00-17:00', 'addr:street': 'Davie Street', 'healthcare': 'doctor', 'addr:city': 'Vancouver'}",2019-08-29T18:01:23.000-07:00
+doctors,49.24921679999999,-122.8582946,Gain Medical,{'healthcare': 'doctor'},2020-02-14T19:08:21.000-08:00
+doctors,49.0520898,-122.32062090000001,The Mark Medical,"{'speciality': 'general', 'level': '0', 'addr:unit': '104', 'healthcare': 'doctor'}",2018-01-31T18:50:05.000-08:00
+doctors,49.0379188,-122.3172943,"Dr. Sukhdeep GILL, M.D.¶ Rheumatologist","{'addr:housenumber': '32740', 'healthcare:speciality': 'rheumatology', 'addr:street': 'Marshall Road', 'addr:postcode': 'V2S 1J7', 'building': 'detached', 'healthcare': 'doctor'}",2019-11-07T12:46:21.000-08:00
+doctors,49.1319527,-122.3228236,Medical Clinic,"{'healthcare:speciality': 'general', 'healthcare': 'doctor'}",2019-05-10T04:42:42.000-07:00
+doctors,49.2705306,-123.1009131,The Powerhouse Chiropractic,{'healthcare': 'doctor'},2020-02-04T01:29:13.000-08:00
+doctors,49.26323370000001,-122.77857759999998,Elgin Chiropractic,{},2018-05-21T05:29:34.000-07:00
+doctors,49.0411304,-122.2928342,Dr. Hamid Izadi,"{'healthcare:speciality': 'surgery', 'addr:unit': '3', 'healthcare': 'doctor'}",2019-11-09T19:24:20.000-08:00
