@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+leisure,49.2768589,-123.0725838,Vancouver Hack Space,"{'addr:housenumber': '1601', 'website': 'https://vanhack.ca', 'addr:street': 'Venables Street', 'addr:postcode': 'V5L 2H1', 'leisure': 'hackerspace'}",2019-02-14T10:08:44.000-08:00

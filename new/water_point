@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+water_point,49.045449600000005,-122.2941797,McCallum Water Store,{'fee': 'yes'},2016-01-13T12:50:06.000-08:00

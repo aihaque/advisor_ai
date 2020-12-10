@@ -1,0 +1,18 @@
+amenity,lat,lon,name,tags,timestamp
+kindergarten,49.112628,-122.6553423,Cefa,"{'addr:housenumber': '20510', 'addr:street': 'Langley Bypass'}",2019-12-19T08:09:45.000-08:00
+kindergarten,49.1024233,-122.65291950000001,,{},2014-04-17T03:40:29.000-07:00
+kindergarten,49.1194573,-122.671451,Matheson House,"{'addr:housenumber': '19893', 'addr:street': '64th Ave', 'addr:postcode': 'V2Y 1G9', 'operator': 'wind and tide daycare'}",2015-04-19T17:49:19.000-07:00
+kindergarten,49.0661792,-122.8223973,Elgin Centre Preschool,{},2019-01-22T14:43:52.000-08:00
+kindergarten,49.3381814,-123.10303429999999,Smiling Stars Daycare,{},2019-05-06T23:57:44.000-07:00
+kindergarten,49.2614154,-123.1153226,City Hall Childcare Society I and II,{},2019-02-04T15:04:42.000-08:00
+kindergarten,49.2330789,-123.01555400000001,CEFA Early Learning,"{'addr:housenumber': '4021', 'addr:street': 'Kingsway', 'phone': '+1-604-568-8808', 'addr:postcode': 'V5H 1Y9', 'addr:city': 'Burnaby'}",2018-06-20T15:11:43.000-07:00
+kindergarten,49.177498299999996,-123.1253656,Happy May Child Care Centre III,"{'phone': '+1-604-218-6581', 'website': 'http://www.happymay.ca'}",2018-10-26T20:30:04.000-07:00
+kindergarten,49.2581589,-123.06965459999999,CEFA Early Learning,"{'addr:housenumber': '2946', 'preschool': 'yes', 'addr:street': 'Commercial Drive'}",2019-05-03T05:06:41.000-07:00
+kindergarten,49.1225979,-123.15924150000001,Renaissance Kids,{},2012-08-24T05:18:34.000-07:00
+kindergarten,49.2353719,-123.03822690000001,Tiny Bubbles Preschool,"{'addr:housenumber': '3165', 'addr:street': 'Kingsway', 'phone': '+1-604-454-1520', 'addr:postcode': 'V3J 3Z9', 'addr:city': 'Vancouver'}",2019-11-30T18:18:11.000-08:00
+kindergarten,49.2052497,-122.91009129999999,New Westminster Family Place,{},2012-04-17T02:20:48.000-07:00
+kindergarten,49.1732098,-123.0700815,CEFA Crestwood,"{'website': 'http://cefa.ca/find-school/richmond-crestwood/', 'phone': '+1-604-273-0118', 'operator': 'CEFA Early Learning', 'email': 'crestwood@cefa.ca'}",2018-02-10T15:24:54.000-08:00
+kindergarten,49.254981,-123.1149488,Westside Montessori,{},2019-04-22T02:02:52.000-07:00
+kindergarten,49.3244634,-123.04262709999999,Margaret Heights Daycare,{},2013-10-25T06:48:16.000-07:00
+kindergarten,49.260306899999996,-123.2505133,Hummingbird Childcare,"{'preschool': 'yes', 'addr:street': 'Agronomy Road'}",2020-05-04T15:42:07.000-07:00
+kindergarten,49.1989527,-122.80763940000001,Little Koala Montessori Academy,"{'addr:housenumber': '14947', 'addr:street': '108 Avenue'}",2018-03-19T01:44:32.000-07:00

@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+gym,49.2090537,-122.9153899,Curves,{'source': 'gps/photo survey'},2010-10-22T23:18:15.000-07:00

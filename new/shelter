@@ -1,0 +1,66 @@
+amenity,lat,lon,name,tags,timestamp
+shelter,49.322318,-123.097374,,{'shelter_type': 'Wetterpilz'},2014-03-09T09:01:47.000-07:00
+shelter,49.0996293,-122.00533020000002,Trans Canada Trail Pavillion,{'tourism': 'information'},2013-01-20T03:38:19.000-08:00
+shelter,49.122925,-122.3004412,Trans Canada Trail Pavillion,{'tourism': 'information'},2017-01-16T14:40:53.000-08:00
+shelter,49.169281,-122.57557240000001,Trans Canada Trail Pavillion,{'tourism': 'information'},2013-01-20T03:38:19.000-08:00
+shelter,49.194871,-122.56525590000001,Trans Canada Trail Pavillion,{'tourism': 'information'},2013-01-20T03:38:19.000-08:00
+shelter,49.0461037,-122.7872663,,{'shelter_type': 'gazebo'},2020-05-17T22:38:55.000-07:00
+shelter,49.2863422,-122.7869976,Trans Canada Trail Pavillion,{'tourism': 'information'},2013-01-20T03:38:20.000-08:00
+shelter,49.3121147,-123.0866577,Trans Canada Trail Pavillion,{'tourism': 'information'},2013-01-20T03:38:20.000-08:00
+shelter,49.0691698,-122.3550619,,{'shelter_type': 'picnic_shelter'},2018-10-03T22:39:27.000-07:00
+shelter,49.1575877,-122.90883249999999,,{'shelter_type': 'picnic_shelter'},2020-04-16T02:06:13.000-07:00
+shelter,49.095940500000005,-122.6617682,,"{'bench': 'yes', 'shelter_type': 'sun_shelter'}",2020-05-15T22:20:42.000-07:00
+shelter,49.1596816,-122.83980890000001,,{'shelter_type': 'picnic_shelter'},2020-05-16T01:12:18.000-07:00
+shelter,49.1593946,-122.840115,,{'shelter_type': 'picnic_shelter'},2020-05-16T01:12:18.000-07:00
+shelter,49.161323700000004,-122.84216740000001,,{'shelter_type': 'picnic_shelter'},2020-05-16T01:12:18.000-07:00
+shelter,49.2805577,-122.9349394,Trans Canada Trail Pavillion,{'tourism': 'information'},2013-01-20T03:38:19.000-08:00
+shelter,49.049108399999994,-122.28877309999999,Fraser Valley Real Estate Board,{'bench': 'yes'},2015-07-18T05:17:52.000-07:00
+shelter,49.204131,-122.87585559999998,,{'shelter_type': 'public_transport'},2020-02-14T07:09:09.000-08:00
+shelter,49.147985399999996,-122.78184579999999,,{'shelter_type': 'picnic_shelter'},2018-11-18T07:38:51.000-08:00
+shelter,49.1479076,-122.78185479999999,,{'shelter_type': 'picnic_shelter'},2018-11-18T07:38:51.000-08:00
+shelter,49.2394338,-123.1315051,Scottish Shelter,{},2018-11-25T07:06:44.000-08:00
+shelter,49.099826,-122.6362415,,"{'shelter_type': 'picnic_shelter', 'source': 'Township of Langley parks'}",2015-05-22T05:51:47.000-07:00
+shelter,49.169732700000004,-122.8989452,,{'shelter_type': 'picnic_shelter'},2020-04-20T22:24:27.000-07:00
+shelter,49.1698373,-122.8518236,,{'shelter_type': 'picnic_shelter'},2020-04-21T00:01:15.000-07:00
+shelter,49.1030681,-123.0791956,,{'shelter_type': 'gazebo'},2020-05-06T03:53:49.000-07:00
+shelter,49.20104,-122.7819426,,{'shelter_type': 'picnic_shelter'},2020-05-19T02:37:25.000-07:00
+shelter,49.160450299999994,-122.6874836,,{'shelter_type': 'picnic_shelter'},2020-05-19T02:33:23.000-07:00
+shelter,49.1604465,-122.68726240000001,,{'shelter_type': 'picnic_shelter'},2020-05-19T02:33:23.000-07:00
+shelter,49.052150299999994,-122.86248090000001,,{'shelter_type': 'picnic_shelter'},2020-05-20T21:02:07.000-07:00
+shelter,49.2875946,-122.878501,,{},2020-03-18T20:19:41.000-07:00
+shelter,49.3015128,-122.75771770000001,,{'shelter_type': 'public_transport'},2020-04-03T13:09:34.000-07:00
+shelter,49.302010700000004,-122.7583936,,{'shelter_type': 'public_transport'},2020-04-03T13:09:34.000-07:00
+shelter,49.046458200000004,-122.29054769999999,,"{'bench': 'yes', 'shelter_type': 'public_transport'}",2015-06-07T15:53:18.000-07:00
+shelter,49.2544014,-123.0058017,,{'shelter_type': 'gazebo'},2019-12-11T04:07:12.000-08:00
+shelter,49.1472734,-122.8890562,,{'shelter_type': 'gazebo'},2019-06-26T01:14:45.000-07:00
+shelter,49.24053970000001,-122.5787293,,{'shelter_type': 'picnic_shelter'},2017-05-24T22:13:45.000-07:00
+shelter,49.2013565,-123.02346770000001,,{'shelter_type': 'gazebo'},2016-08-18T23:19:33.000-07:00
+shelter,49.0522216,-122.3543835,,"{'shelter_type': 'picnic_shelter', 'building': 'roof'}",2018-04-01T18:45:36.000-07:00
+shelter,49.2686976,-123.1342568,Trans Canada Trail Pavillion,{'tourism': 'information'},2013-01-20T03:38:21.000-08:00
+shelter,49.1725894,-122.8387456,,{'shelter_type': 'picnic_shelter'},2016-08-11T22:31:14.000-07:00
+shelter,49.2417414,-122.7535346,,"{'shelter_type': 'gazebo', 'bin': 'yes'}",2016-09-14T22:42:08.000-07:00
+shelter,49.3183525,-123.03282250000001,,{},2015-07-19T15:20:05.000-07:00
+shelter,49.18753529999999,-123.14690759999999,,{'shelter_type': 'public_transport'},2015-09-21T07:00:34.000-07:00
+shelter,49.1722607,-123.1509399,,{},2017-05-04T08:03:08.000-07:00
+shelter,49.081706700000005,-122.8266942,,{'shelter_type': 'picnic_shelter'},2017-06-18T01:20:40.000-07:00
+shelter,49.3109552,-123.08585049999999,,"{'shelter_type': 'weather_shelter', 'bin': 'yes'}",2017-01-25T18:33:01.000-08:00
+shelter,49.366656799999994,-122.5013955,Golden Ears Shelter,{},2017-06-14T09:25:03.000-07:00
+shelter,49.147765299999996,-122.78376399999999,,{'shelter_type': 'picnic_shelter'},2017-06-07T01:21:33.000-07:00
+shelter,49.1477701,-122.78407450000002,,{'shelter_type': 'picnic_shelter'},2017-06-07T01:21:33.000-07:00
+shelter,49.2406563,-122.57877749999999,,{'shelter_type': 'picnic_shelter'},2017-05-24T22:13:45.000-07:00
+shelter,49.0607437,-122.78141289999999,,{'fireplace': 'no'},2016-05-09T06:11:22.000-07:00
+shelter,49.0630292,-122.8475561,,{'shelter_type': 'picnic_shelter'},2016-05-03T03:35:21.000-07:00
+shelter,49.2453399,-122.53508290000002,,{'shelter_type': 'picnic_shelter'},2019-04-07T06:19:47.000-07:00
+shelter,49.2544046,-123.00555779999999,,{'shelter_type': 'gazebo'},2019-10-19T00:37:26.000-07:00
+shelter,49.0568351,-122.2982934,,{'shelter_type': 'dugout'},2015-12-25T14:18:54.000-08:00
+shelter,49.05656389999999,-122.2986939,,{'shelter_type': 'dugout'},2015-12-25T14:18:54.000-08:00
+shelter,49.0659081,-122.84305049999999,,{'shelter_type': 'picnic_shelter'},2016-05-03T03:35:23.000-07:00
+shelter,49.2127183,-123.229712,,{},2019-06-19T04:56:35.000-07:00
+shelter,49.1479185,-122.9158111,,{'shelter_type': 'gazebo'},2019-06-24T04:27:39.000-07:00
+shelter,49.20914439999999,-123.2468034,,{},2019-06-19T04:56:36.000-07:00
+shelter,49.1569025,-122.90963789999999,,"{'shelter_type': 'gazebo', 'bench': 'no', 'lit': 'yes'}",2019-06-24T21:43:20.000-07:00
+shelter,49.0971546,-122.01565690000001,,{'shelter_type': 'picnic_shelter'},2018-07-28T22:13:53.000-07:00
+shelter,49.098009000000005,-122.01564350000001,,{'shelter_type': 'picnic_shelter'},2018-07-28T22:13:53.000-07:00
+shelter,49.1470652,-123.01155959999998,,{'shelter_type': 'picnic_shelter'},2019-07-06T21:15:16.000-07:00
+shelter,49.0659876,-122.8410162,,{'shelter_type': 'picnic_shelter'},2016-05-03T03:35:23.000-07:00
+shelter,49.052913200000006,-122.3284996,,"{'shelter_type': 'sun_shelter', 'bench:quantity': '2', 'bench': 'yes', 'building': 'roof'}",2016-07-19T01:03:47.000-07:00

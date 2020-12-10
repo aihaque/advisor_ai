@@ -22,6 +22,7 @@ amenity_schema = types.StructType([
     types.StructField('tags', types.MapType(types.StringType(), types.StringType()), nullable=False),
 ])
 
+#l sldfkjsa;lfkjsa;ldfkjsa;ldfkjs;
 
 def main(inputs, output):
     poi = spark.read.json(inputs, schema=amenity_schema)

@@ -1,0 +1,72 @@
+amenity,lat,lon,name,tags,timestamp
+school,49.280026299999996,-123.1223932,EF International Language Centre Vancouver,"{'opening_hours': 'Mo-Fr', 'website': 'https://www.ef.com.br/contact/schools/canada/vancouver'}",2019-03-27T03:46:30.000-07:00
+school,49.1650985,-122.91433020000001,,{},2011-07-08T00:07:25.000-07:00
+school,49.04965120000001,-122.3034541,Tutor Café,"{'website': 'http://www.tutorcafe.ca', 'phone': '+1-604-308-1523', 'level': '1', 'addr:unit': '201'}",2018-06-20T15:13:21.000-07:00
+school,49.1993065,-122.81463390000002,Phoenix Dance and Music School,{},2018-10-09T05:59:14.000-07:00
+school,49.232302600000004,-122.91360929999999,Cariboo Hill Senior Secondary,"{'addr:housenumber': '8580', 'addr:street': '16th Avenue', 'addr:postcode': 'V3N 1S6', 'addr:city': 'Burnaby'}",2019-09-13T13:56:49.000-07:00
+school,49.262449700000005,-122.74823970000001,Terry Fox Senior Secondary School,{},2010-09-01T07:32:36.000-07:00
+school,49.2808936,-122.98045570000001,Capitol Hill Elementary,{},2009-09-03T19:04:01.000-07:00
+school,49.2819085,-123.1081881,Light House Labs,"{'addr:housenumber': '128', 'name:en': 'Light House Labs', 'addr:street': 'West Hastings Street'}",2017-05-31T22:39:33.000-07:00
+school,49.1675135,-122.9046662,,{},2011-07-07T23:41:20.000-07:00
+school,49.0498405,-122.33435120000001,Guru Learning Institute Inc.,"{'website': 'http://gurulearning.ca', 'phone': '+1-778-880-0176', 'level': '1'}",2018-10-26T20:31:01.000-07:00
+school,49.2613559,-123.24636570000001,Eaton Arrowsmith School,"{'addr:housenumber': '6190', 'website': 'http://www.eatonarrowsmith.com/current-studentsfamilies/eas-vancouver/', 'addr:street': 'Agronomy Road', 'addr:postcode': 'V6T 1Z3', 'addr:city': 'Vancouver'}",2020-04-18T23:02:43.000-07:00
+school,49.154658500000004,-122.90864930000001,,{},2011-07-07T23:02:24.000-07:00
+school,49.1556365,-122.8338065,Rider School,"{'addr:housenumber': '14027', 'website': 'http://www.rider.school', 'phone': '+1-778-650-5400', 'opening_hours': 'Mo-Su 06:00-20:00', 'addr:street': '84 Avenue', 'addr:postcode': 'V3W 0V5', 'email': 'info@rider.school'}",2018-02-12T04:13:26.000-08:00
+school,49.257633,-123.19746140000001,Queen Elizabeth Elementary School,{},2019-11-08T17:41:04.000-08:00
+school,49.236252,-123.032279,Collingwood Neighbourhood School,"{'addr:housenumber': '3417', 'addr:street': 'Euclid Avenue', 'survey:date': '2014-01-19', 'addr:city': 'Vancouver'}",2019-09-13T13:56:49.000-07:00
+school,49.2498581,-123.11495079999999,Top Ivy Education,"{'addr:housenumber': '4012', 'website': 'http://www.topivy.ca', 'phone': '+1-604-868-0802', 'addr:street': 'Cambie Street', 'addr:postcode': 'V5Z 2X8', 'name:zh': '英才學院'}",2018-08-30T02:00:20.000-07:00
+school,49.1494657,-122.9040493,,{},2011-07-07T23:02:28.000-07:00
+school,49.161745399999994,-122.6577169,Walnut Grove School of Music & Dance,"{'addr:housenumber': '8747', 'alt_name': 'Langley School of Music & Dance', 'website': 'https://www.musicanddance.org', 'phone': '+1-604-882-0422', 'level': '1', 'addr:street': '204 Street', 'addr:postcode': 'V1M 2Y5', 'leisure': 'dance', 'addr:unit': '202'}",2019-01-19T14:34:17.000-08:00
+school,49.2521567,-122.89931609999998,Cameron Elementary School,{},2010-09-30T05:15:30.000-07:00
+school,49.333664,-123.0852659,,{},2014-02-08T22:27:39.000-08:00
+school,49.1879024,-123.1181574,Talmey Elementary,{},2009-10-06T08:15:07.000-07:00
+school,49.254876,-122.9111248,Burnaby Mountain High School,"{'addr:housenumber': '8300', 'website': 'https://mountain.burnabyschools.ca/', 'addr:street': 'Eastlake Drive', 'wikipedia': 'en:Burnaby Mountain Secondary School', 'addr:postcode': 'V3J 7X5', 'wikidata': 'Q4999591', 'addr:city': 'Burnaby'}",2019-03-19T06:11:23.000-07:00
+school,49.0472015,-122.79827890000001,Cefa,{},2020-05-17T23:17:36.000-07:00
+school,49.338393700000005,-123.0970294,Highlands Elementary School,{},2013-03-14T22:21:55.000-07:00
+school,49.052531,-122.3259117,Kumon,"{'alt_name': 'Abbotsford Kumon Math and Reading Centre', 'website': 'http://www.kumonabbotsfordclearbrook.com', 'phone': '+1-604-855-7896', 'level': '1', 'opening_hours': 'Mo-Th 15:00-18:00', 'description': 'Reading. Math. Success', 'addr:unit': '201', 'url': 'https://m.facebook.com/Abbotsford-Kumon-Math-and-Reading-Centre-247922518596055'}",2018-06-20T15:11:33.000-07:00
+school,49.32353870000001,-122.8949571,Sasamat Outdoor Center,{'note': 'Daycamp'},2013-03-20T17:34:13.000-07:00
+school,49.3289315,-123.08242790000001,Carson Graham Secondary,{},2016-01-04T18:53:25.000-08:00
+school,49.1858835,-123.0982868,Canada Star Secondary School,{},2018-06-03T06:25:21.000-07:00
+school,49.283237400000004,-123.107818,Vancouver Film School,"{'addr:housenumber': '151', 'addr:street': 'West Cordova Street'}",2019-10-07T21:49:54.000-07:00
+school,49.311667,-123.0376121,,{},2014-02-20T00:28:31.000-08:00
+school,49.274575,-122.9779403,Aubrey Elementary,{},2020-01-19T21:22:59.000-08:00
+school,49.2708789,-122.9912956,Holy Cross Elementary School,"{'addr:housenumber': '1450', 'addr:street': 'Delta Avenue', 'addr:postcode': 'V5B 3G2'}",2014-11-07T06:05:21.000-08:00
+school,49.0510589,-122.3068031,Reading Town Learning Centre,"{'website': 'http://www.readingtown.com', 'level': '0', 'addr:unit': '107'}",2016-06-21T03:36:01.000-07:00
+school,49.0493882,-122.28915970000001,Temple Music Academy,"{'website': 'https://www.templemusicacademy.com', 'entrance': 'staircase', 'level': '1'}",2018-10-29T22:51:53.000-07:00
+school,49.2702951,-123.04364550000001,Kel Lee's Academy of Martial Arts,"{'addr:housenumber': '2916', 'addr:street': 'Graveley Street', 'addr:postcode': 'V5K 3K3'}",2018-02-12T04:10:06.000-08:00
+school,49.23763029999999,-123.15134109999998,Quilchena Elementary,{},2014-11-08T02:32:58.000-08:00
+school,49.253706799999996,-123.23522790000001,Mozart School of Music,"{'addr:housenumber': '3396', 'website': 'http://msmvan.com/', 'addr:street': 'Shrum Lane', 'entrance': 'yes', 'addr:postcode': 'V6S 0B9', 'addr:city': 'Vancouver'}",2014-11-07T06:05:27.000-08:00
+school,49.244871100000005,-122.7645715,TAG Gymnastics,"{'addr:housenumber': '1611', 'name:en': 'TAG Gymnastics', 'addr:street': 'Broadway Street'}",2020-02-22T02:13:00.000-08:00
+school,49.1453697,-123.09545959999998,Kingswood Elementary School,{},2010-06-12T00:42:18.000-07:00
+school,49.2812916,-122.7941533,Vancouver Career College-Coquitlam,{'name:en': 'Vancouver Career College-Coquitlam'},2016-10-04T21:33:53.000-07:00
+school,49.2827302,-123.11528899999999,Enjoy Canada,"{'addr:housenumber': '578', 'addr:street': 'Dunsmuir Street', 'addr:city': 'Vancouver'}",2019-09-18T23:00:49.000-07:00
+school,49.2354469,-122.5758575,Yennadon School,{},2012-02-09T05:59:11.000-08:00
+school,49.215424,-123.14148759999999,,{},2009-08-21T00:29:11.000-07:00
+school,49.05116629999999,-122.30393629999999,Aloha Mind Math,"{'website': 'http://www.alohacanada.ca/british-columbia/weve-moved-new-location-33222-old-yale-road-abbotsford-bc', 'phone': '+1-604-746-6677', 'level': '1', 'url': 'http://aloha-canada.com'}",2018-06-20T15:12:21.000-07:00
+school,49.2888774,-123.12147240000002,ILAC,"{'name:fr': 'ILAC', 'addr:housenumber': '1188', 'name:en': 'ILAC'}",2016-10-19T00:24:49.000-07:00
+school,49.3274203,-123.0683895,,{},2016-12-12T14:51:37.000-08:00
+school,49.1147981,-122.7250233,Lord Tweedsmuir Secondary School,"{'wikipedia:en': 'Lord Tweedsmuir Secondary School', 'addr:street': '180 Street', 'wikidata': 'Q14874671'}",2019-02-19T00:55:24.000-08:00
+school,49.310439200000005,-123.0512011,Winsor House,{'created_by': 'Potlatch 0.8a'},2008-04-09T23:47:46.000-07:00
+school,49.341975,-123.063321,Carisbrook Elementary,{'created_by': 'Potlatch 0.8b'},2008-04-28T02:25:55.000-07:00
+school,49.3347474,-123.16991809999999,Pauline Johnson Elementary School,{},2016-02-26T08:40:43.000-08:00
+school,49.3299977,-123.15238290000002,Hollyburn Elementary School,"{'addr:housenumber': '1329', 'website': 'https://westvancouverschools.ca/hollyburn-elementary/', 'addr:street': 'Duchess Avenue', 'addr:postcode': 'V7T 1H5', 'addr:city': 'West Vancouver'}",2019-09-13T13:56:49.000-07:00
+school,49.345221200000005,-123.152503,Chartwell Elementary School,{'created_by': 'Potlatch 0.10f'},2008-11-14T06:03:29.000-08:00
+school,49.345193200000004,-123.14979939999999,Sentinel Secondary School,{'created_by': 'Potlatch 0.10f'},2008-11-14T06:03:08.000-08:00
+school,49.2773179,-123.11717979999999,Vancouver English Centre,"{'addr:housenumber': '250', 'name:en': 'Vancouver English Centre', 'addr:street': 'Smithe Street'}",2017-05-09T04:06:06.000-07:00
+school,49.264165999999996,-123.12398610000001,collège Educacentre,{'addr:street': 'West 8th Avenue'},2017-04-29T02:16:55.000-07:00
+school,49.135577500000004,-122.8664543,Sinclaire,{'addr:street': '128 Street'},2016-10-28T07:19:09.000-07:00
+school,49.2835785,-123.11477620000001,ILSC,"{'addr:housenumber': '543', 'addr:street': 'Seymour Street'}",2015-09-23T03:36:53.000-07:00
+school,49.1873422,-122.79924640000002,CEFA early learning,"{'phone': '+1-604-569-2332', 'website': 'https://cefa.ca/'}",2019-03-19T01:47:50.000-07:00
+school,49.1869357,-122.79968170000001,Kumon,"{'addr:housenumber': '10160', 'addr:street': '152 Street', 'phone': '+1-604-588-5808'}",2018-02-09T05:00:06.000-08:00
+school,49.090556400000004,-122.62774280000001,Murrayville Academy & Early Learning Centre,{},2019-06-23T17:02:14.000-07:00
+school,49.2773055,-123.11604550000001,Global Village English Centers,"{'phone': '+1-604-684-2112', 'website': 'https://gvenglish.com/schools/canada/vancouver.html'}",2019-03-22T02:51:40.000-07:00
+school,49.283340100000004,-123.11460790000001,,"{'addr:housenumber': '554', 'addr:street': 'Seymour Street'}",2015-09-23T03:36:55.000-07:00
+school,49.283615000000005,-123.1147065,MTI Community College,"{'addr:housenumber': '541', 'addr:street': 'Seymour Street'}",2015-09-23T03:36:53.000-07:00
+school,49.05151179999999,-122.31556450000001,Kumon Math and Reading Centre of Abbotsford - Gladwin,"{'website': 'https://www.kumon.com/ca-en/abbotsford-gladwin-bc', 'phone': '+1-604-864-2782', 'level': '0', 'opening_hours': 'Tu-Fr 15:00-18:00; Sa 10:00-13:00', 'description': 'Reading. Math. Success', 'addr:unit': '102'}",2019-09-02T22:08:26.000-07:00
+school,49.2769468,-123.130652,Anchor Point Montesorri,{},2012-06-22T23:09:32.000-07:00
+school,49.153185799999996,-123.08771899999999,BC Muslim School,"{'addr:housenumber': '12300', 'addr:street': 'Blundell Road', 'source': 'www.bcmuslimschool.ca', 'addr:postcode': 'V6W 1B3'}",2014-11-07T06:05:18.000-08:00
+school,49.3427924,-123.04504320000001,Cousteau - The French International School of Vancouver,"{'official_name': ""Cousteau, l'Ecole française internationale de Vancouver"", 'alt_name': 'ÉFIV', 'website': 'https://cousteauschool.hubbli.com/'}",2017-12-13T18:51:35.000-08:00
+school,49.280778999999995,-123.12508840000001,Pattison High School,{},2015-09-08T19:10:45.000-07:00
+school,49.1012715,-122.800743,Cefa Early Learning,{},2017-01-26T20:48:53.000-08:00
+school,49.0575414,-122.27361409999999,Creative Edge School of Arts,"{'description': 'arts, dance, drama, music', 'website': 'http://www.creativeedgebc.com', 'dance:teaching': 'yes', 'leisure': 'dance', 'addr:unit': '300'}",2015-09-15T04:25:03.000-07:00
+school,49.197128,-122.807325,Holly Elementary,{},2013-05-12T23:52:56.000-07:00

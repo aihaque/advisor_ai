@@ -1,0 +1,64 @@
+amenity,lat,lon,name,tags,timestamp
+charging_station,49.0364862,-122.3136344,,{'capacity': '4'},2016-07-02T19:29:52.000-07:00
+charging_station,49.1764283,-123.07144650000001,ChargePoint,"{'brand:wikidata': 'Q5176149', 'access': 'permit', 'brand:wikipedia': 'en:ChargePoint', 'fee': 'yes', 'brand': 'ChargePoint', 'capacity': '2'}",2019-11-02T19:03:40.000-07:00
+charging_station,49.1749071,-123.0721936,ChargePoint,"{'brand:wikidata': 'Q5176149', 'access': 'permit', 'brand:wikipedia': 'en:ChargePoint', 'fee': 'yes', 'brand': 'ChargePoint', 'capacity': '2'}",2019-11-02T19:03:40.000-07:00
+charging_station,49.1331473,-123.09490929999998,,"{'operator': 'Chargepoint', 'capacity': '2'}",2019-09-01T21:58:26.000-07:00
+charging_station,49.1152402,-122.67540790000001,,{},2014-08-08T21:02:43.000-07:00
+charging_station,49.14646079999999,-123.0087301,,"{'access': 'yes', 'authentication:none': 'yes', 'fee': 'no', 'capacity': '2', 'voltage': '230'}",2020-05-19T04:11:53.000-07:00
+charging_station,49.1095463,-122.68189450000001,,{'access': 'private'},2019-12-01T06:04:04.000-08:00
+charging_station,49.2588778,-123.2224137,,"{'parking:fee': 'no', 'fee': 'yes'}",2018-05-13T22:04:34.000-07:00
+charging_station,49.0366844,-122.31334629999999,,{'capacity': '4'},2016-07-02T19:29:52.000-07:00
+charging_station,49.0515295,-122.3148725,GE,"{'source': 'http://www.newswire.ca/news-releases/td-launches-courtesy-electric-vehicle-charging-initiative-in-bc-561820261.html', 'operator': 'TD Canada Trust', 'fee': 'no', 'capacity': '2'}",2016-07-02T14:30:46.000-07:00
+charging_station,49.1434169,-122.00168290000002,Chilliwack Visitor Centre Charging Station,"{'operator': 'City of Chilliwack', 'source': 'http://www.waymarking.com/waymarks/WMMKT1_Chilliwack_Visitor_Centre_Charging_Station_Chilliwack_British_Columbia_Canada'}",2016-01-22T23:35:56.000-08:00
+charging_station,49.1623,-123.1358,,{'socket:type1': '2'},2017-01-20T07:42:17.000-08:00
+charging_station,49.0376956,-123.08874420000001,,"{'socket:type1': '2', 'operator': 'Flo', 'capacity': '2'}",2020-04-27T23:54:08.000-07:00
+charging_station,49.040500099999996,-123.0835209,,"{'socket:type1': '2', 'operator': 'Flo', 'capacity': '2'}",2020-04-27T23:54:08.000-07:00
+charging_station,49.1443218,-123.0148235,ChargePoint,"{'brand:wikidata': 'Q5176149', 'access': 'yes', 'brand': 'ChargePoint', 'brand:wikipedia': 'en:ChargePoint', 'capacity': '6'}",2020-05-26T23:16:02.000-07:00
+charging_station,49.028199799999996,-122.26481319999999,EcoDairy ABB Fast-Charge,"{'website': 'https://greenlots.com/', 'phone': '+1-604-547-5481', 'car': 'yes', 'opening_hours': '24/7', 'socket:chademo': '1', 'description': 'Level 3', 'operator': 'Greenlots Canada'}",2019-02-18T15:18:04.000-08:00
+charging_station,49.1738469,-123.0722612,ChargePoint,"{'brand:wikidata': 'Q5176149', 'access': 'permit', 'brand:wikipedia': 'en:ChargePoint', 'fee': 'yes', 'brand': 'ChargePoint', 'authentication': 'yes', 'capacity': '2'}",2019-11-02T19:03:40.000-07:00
+charging_station,49.0150469,-123.04161370000001,,{},2020-06-26T22:18:05.000-07:00
+charging_station,49.105143700000006,-122.6904608,ChargePoint,"{'brand:wikidata': 'Q5176149', 'brand': 'ChargePoint', 'brand:wikipedia': 'en:ChargePoint', 'capacity': '2'}",2020-06-28T05:51:43.000-07:00
+charging_station,49.0425154,-123.0815866,,{'capacity': '10'},2020-04-28T00:08:50.000-07:00
+charging_station,49.2821222,-123.112999,,{'capacity': '2'},2018-07-04T23:52:14.000-07:00
+charging_station,49.282186200000005,-123.11289409999999,,{'capacity': '2'},2018-07-04T23:52:14.000-07:00
+charging_station,49.2380524,-123.1289592,,{},2015-05-23T18:01:34.000-07:00
+charging_station,49.2760187,-123.0712507,,"{'fee': 'yes', 'capacity': '2'}",2017-09-09T21:17:41.000-07:00
+charging_station,49.2826515,-123.1242412,,{'capacity': '2'},2017-09-10T02:01:27.000-07:00
+charging_station,49.174848600000004,-123.071317,ChargePoint,"{'brand:wikidata': 'Q5176149', 'access': 'permit', 'brand:wikipedia': 'en:ChargePoint', 'fee': 'yes', 'brand': 'ChargePoint', 'authentication': 'yes', 'capacity': '2'}",2019-11-02T19:03:40.000-07:00
+charging_station,49.1733908,-123.06988559999999,ChargePoint,"{'brand:wikidata': 'Q5176149', 'access': 'permit', 'brand:wikipedia': 'en:ChargePoint', 'fee': 'yes', 'brand': 'ChargePoint', 'authentication': 'yes', 'capacity': '2'}",2019-11-02T21:05:08.000-07:00
+charging_station,49.1724975,-123.07054579999999,ChargePoint,"{'brand:wikidata': 'Q5176149', 'access': 'permit', 'brand:wikipedia': 'en:ChargePoint', 'fee': 'yes', 'brand': 'ChargePoint', 'authentication': 'yes', 'capacity': '2'}",2019-11-02T19:03:40.000-07:00
+charging_station,49.14706339999999,-123.009018,,"{'access': 'yes', 'authentication:none': 'yes', 'fee': 'no', 'capacity': '2', 'voltage': '230'}",2020-05-19T04:11:53.000-07:00
+charging_station,49.0409547,-123.08942179999998,,"{'authentication:nfc': 'yes', 'operator': 'ChargePoint', 'capacity': '2'}",2020-04-29T17:50:07.000-07:00
+charging_station,49.0380325,-123.0826676,Tesla Supercharger,"{'brand:wikidata': 'Q17089620', 'socket:tesla_supercharger:output': '120 kW', 'brand:wikipedia': 'en:Tesla Supercharger', 'brand': 'Tesla Supercharger', 'operator': 'Tesla', 'capacity': '12'}",2019-04-03T03:27:34.000-07:00
+charging_station,49.0394797,-123.0862077,,"{'socket:type1': '2', 'operator': 'Flo', 'capacity': '2'}",2020-04-27T23:54:08.000-07:00
+charging_station,49.0386,-123.081,,"{'socket:type1': '2', 'operator': 'Flo', 'capacity': '4'}",2020-04-27T23:54:08.000-07:00
+charging_station,49.278636299999995,-123.13720359999998,,{},2017-04-05T21:36:53.000-07:00
+charging_station,49.042122799999994,-123.0892713,,"{'brand:wikidata': 'Q5176149', 'socket:type1': '4', 'brand:wikipedia': 'en:ChargePoint', 'brand': 'ChargePoint', 'operator': 'ChargePoint', 'capacity': '4'}",2020-04-28T00:08:50.000-07:00
+charging_station,49.311273799999995,-123.07701270000001,Greenlots,"{'opening_hours': '24/7', 'socket:chademo': '1', 'capacity': '1'}",2016-06-18T05:22:46.000-07:00
+charging_station,49.0349,-123.0885,,"{'socket:type1': '2', 'operator': 'Flo', 'capacity': '2'}",2020-04-27T23:54:08.000-07:00
+charging_station,49.230751899999994,-122.8080358,,{},2016-08-16T00:43:58.000-07:00
+charging_station,49.0326289,-122.86639240000001,,{},2017-02-14T20:12:53.000-08:00
+charging_station,49.1936706,-123.1678327,,{},2018-01-24T03:07:00.000-08:00
+charging_station,49.1936881,-123.167905,,{},2018-01-24T03:07:00.000-08:00
+charging_station,49.1939401,-123.1697835,,{},2018-01-24T03:07:01.000-08:00
+charging_station,49.1853184,-122.846724,,"{'operator': 'chargepoint', 'capacity': '2'}",2018-10-02T02:19:22.000-07:00
+charging_station,49.2768255,-123.11882659999998,,{},2017-05-09T04:06:09.000-07:00
+charging_station,49.2537233,-123.0001406,Electric Charging Station,{},2017-08-15T19:32:17.000-07:00
+charging_station,49.0359657,-122.2683384,,{},2017-02-21T05:47:18.000-08:00
+charging_station,49.2069215,-122.91108020000001,,{},2017-02-28T06:57:47.000-08:00
+charging_station,49.219469399999994,-122.6013053,,"{'operator': 'City of Maple Ridge / ChargePoint', 'capacity': '2'}",2018-08-05T19:52:38.000-07:00
+charging_station,49.2203566,-122.59882749999998,,"{'operator': 'City of Maple Ridge / ChargePoint', 'capacity': '2'}",2018-08-05T19:52:38.000-07:00
+charging_station,49.186389399999996,-122.8503973,,"{'operator': 'Chargepoint', 'capacity': '2'}",2018-10-02T02:18:49.000-07:00
+charging_station,49.2814408,-123.0338301,,"{'opening_hours': '24/7', 'socket:chademo': '1', 'socket:type2_combo': '1'}",2016-06-18T05:28:31.000-07:00
+charging_station,49.1341667,-123.0892924,,{},2016-04-12T18:31:01.000-07:00
+charging_station,49.286392799999994,-123.0435344,ChargePoint,"{'brand:wikidata': 'Q5176149', 'socket:type1': '2', 'brand:wikipedia': 'en:ChargePoint', 'fee': 'no', 'brand': 'ChargePoint', 'capacity': '2'}",2019-10-30T23:41:32.000-07:00
+charging_station,49.0371495,-123.0850223,,"{'operator': 'Flo', 'capacity': '2'}",2020-04-27T23:54:08.000-07:00
+charging_station,49.0375722,-123.08362659999999,,"{'socket:type1': '2', 'operator': 'Flo', 'capacity': '2'}",2020-04-27T23:54:08.000-07:00
+charging_station,49.0422714,-123.0838957,,"{'brand:wikidata': 'Q5176149', 'socket:type1': '4', 'brand:wikipedia': 'en:ChargePoint', 'brand': 'ChargePoint', 'operator': 'ChargePoint', 'capacity': '6'}",2020-04-28T00:08:50.000-07:00
+charging_station,49.2814695,-123.1397942,,{},2017-04-29T03:50:16.000-07:00
+charging_station,49.0421427,-123.086359,,"{'brand:wikidata': 'Q5176149', 'socket:type1': '4', 'brand:wikipedia': 'en:ChargePoint', 'brand': 'ChargePoint', 'operator': 'ChargePoint', 'capacity': '10'}",2020-04-28T00:08:50.000-07:00
+charging_station,49.262454299999995,-123.11373259999999,,{'capacity': '3'},2017-09-23T19:56:46.000-07:00
+charging_station,49.246453499999994,-123.00411940000001,Electric Charging Station,{},2017-08-21T17:00:19.000-07:00
+charging_station,49.2512216,-123.0039381,Electric Charging Station,{},2017-08-21T16:44:41.000-07:00
+charging_station,49.290232200000005,-123.1258652,,{},2017-04-04T01:44:19.000-07:00
+charging_station,49.2497468,-122.9994277,Electric Charging Station,"{'opening_hours': '24/7', 'socket:chademo': '2', 'socket:type1': '6', 'fee': 'yes', 'capacity': '8'}",2016-12-02T19:08:47.000-08:00

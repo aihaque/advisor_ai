@@ -1,0 +1,139 @@
+amenity,lat,lon,name,tags,timestamp
+vending_machine,49.00920479999999,-123.128821,,{'vending': 'food'},2019-02-04T00:35:51.000-08:00
+vending_machine,49.1241425,-123.18252700000001,Parking Meter,"{'vending': 'parking_tickets', 'operator': 'Diamond Parking'}",2012-08-25T04:47:18.000-07:00
+vending_machine,49.0092109,-123.12883059999999,,{'vending': 'drinks'},2019-02-04T00:35:48.000-08:00
+vending_machine,49.2781965,-123.12295400000001,,"{'vending': 'parking_tickets', 'payment:credit_cards': 'yes'}",2019-09-20T00:17:16.000-07:00
+vending_machine,49.00916779999999,-123.1287607,,{'vending': 'drinks'},2019-02-04T00:35:48.000-08:00
+vending_machine,49.0093828,-123.12866709999999,,"{'vending': 'excrement_bags', 'fee': 'no'}",2019-02-04T00:35:48.000-08:00
+vending_machine,49.0077447,-123.1308899,,"{'vending': 'drinks', 'brand': 'Coca Cola'}",2019-02-04T00:35:49.000-08:00
+vending_machine,49.008150799999996,-123.13022209999998,,"{'vending': 'drinks;food', 'indoor': 'yes', 'operator': 'Ryan Vending'}",2019-02-04T00:35:51.000-08:00
+vending_machine,49.008653499999994,-123.12949950000001,,"{'vending': 'drinks;food', 'indoor': 'yes'}",2019-02-04T00:35:51.000-08:00
+vending_machine,49.009809499999996,-123.12799369999999,,"{'vending': 'excrement_bags', 'fee': 'no'}",2019-02-04T00:35:51.000-08:00
+vending_machine,49.0077507,-123.1309013,,"{'vending': 'drinks', 'brand': 'Coca Cola'}",2019-02-04T00:35:51.000-08:00
+vending_machine,49.0091617,-123.1287505,,{'vending': 'food'},2019-02-04T00:35:52.000-08:00
+vending_machine,49.1243047,-122.29773519999999,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-01-17T04:51:12.000-08:00
+vending_machine,49.0519375,-122.3647152,,"{'vending': 'excrement_bags', 'fee': 'no'}",2018-04-01T18:04:24.000-07:00
+vending_machine,49.0218144,-122.38217639999999,,"{'vending': 'parking_tickets', 'covered': 'yes'}",2019-05-04T14:02:13.000-07:00
+vending_machine,49.1279934,-122.2245483,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-01-17T04:51:33.000-08:00
+vending_machine,49.0244645,-122.382377,,"{'payment:mastercard': 'yes', 'payment:american_express': 'yes', 'ref': '3994', 'payment:credit_cards': 'yes', 'covered': 'yes', 'payment:cash': 'yes', 'vending': 'parking_tickets', 'payment:debit_cards': 'yes', 'payment:visa': 'yes', 'operator': 'WestPark'}",2019-12-08T06:56:57.000-08:00
+vending_machine,49.057874600000005,-122.35323570000001,,"{'vending': 'excrement_bags', 'fee': 'no'}",2018-04-01T09:27:48.000-07:00
+vending_machine,49.024481099999996,-122.3823639,,"{'payment:mastercard': 'yes', 'payment:american_express': 'yes', 'ref': '3994', 'payment:credit_cards': 'yes', 'covered': 'yes', 'payment:cash': 'yes', 'vending': 'parking_tickets', 'payment:debit_cards': 'yes', 'payment:visa': 'yes', 'operator': 'WestPark'}",2019-12-08T06:56:57.000-08:00
+vending_machine,49.262869200000004,-123.0693623,,"{'vending': 'public_transport_tickets', 'payment:notes': 'yes', 'payment:coins': 'yes', 'payment:credit_cards': 'yes'}",2010-11-12T07:00:25.000-08:00
+vending_machine,49.25956970000001,-123.255728,,{'vending': 'parking_tickets'},2019-09-21T04:03:35.000-07:00
+vending_machine,49.2799954,-122.92186540000002,,{},2012-05-17T21:44:44.000-07:00
+vending_machine,49.2646877,-122.9816466,,{'vending': 'Pepsi'},2012-05-17T21:54:37.000-07:00
+vending_machine,49.1925101,-123.1713576,,{'vending': 'ice_cubes'},2019-03-04T01:14:53.000-08:00
+vending_machine,49.0893366,-122.2056528,,"{'vending': 'newspapers', 'operator': 'The Abbotsford News', 'fee': 'no'}",2018-03-05T18:26:20.000-08:00
+vending_machine,49.024356,-122.38245239999999,,"{'payment:mastercard': 'yes', 'payment:american_express': 'yes', 'ref': '3994', 'payment:credit_cards': 'yes', 'covered': 'yes', 'payment:cash': 'yes', 'vending': 'parking_tickets', 'payment:debit_cards': 'yes', 'payment:visa': 'yes', 'operator': 'WestPark'}",2019-12-08T06:56:57.000-08:00
+vending_machine,49.0469434,-122.30316770000002,,"{'vending': 'newspapers', 'operator': 'The Abbotsford News', 'fee': 'no'}",2018-03-31T19:55:26.000-07:00
+vending_machine,49.0244455,-122.382392,,"{'payment:mastercard': 'yes', 'payment:american_express': 'yes', 'ref': '3994', 'payment:credit_cards': 'yes', 'covered': 'yes', 'payment:cash': 'yes', 'vending': 'parking_tickets', 'payment:debit_cards': 'yes', 'payment:visa': 'yes', 'operator': 'WestPark'}",2019-12-08T06:56:57.000-08:00
+vending_machine,49.0243393,-122.38246670000001,,"{'payment:mastercard': 'yes', 'payment:american_express': 'yes', 'ref': '3994', 'payment:credit_cards': 'yes', 'covered': 'yes', 'payment:cash': 'yes', 'vending': 'parking_tickets', 'payment:debit_cards': 'yes', 'payment:visa': 'yes', 'operator': 'WestPark'}",2019-12-08T06:56:57.000-08:00
+vending_machine,49.0243218,-122.38248119999999,,"{'payment:mastercard': 'yes', 'payment:american_express': 'yes', 'ref': '3994', 'payment:credit_cards': 'yes', 'covered': 'yes', 'payment:cash': 'yes', 'vending': 'parking_tickets', 'payment:debit_cards': 'yes', 'payment:visa': 'yes', 'operator': 'WestPark'}",2019-12-08T06:56:57.000-08:00
+vending_machine,49.022761200000005,-122.3800629,Best Buy Express Kiosk,{'vending': 'electronics'},2019-12-15T05:09:16.000-08:00
+vending_machine,49.023084499999996,-122.38046499999999,,"{'vending': 'water', 'brand': 'Dasani'}",2019-12-15T05:09:16.000-08:00
+vending_machine,49.0496975,-122.31194640000001,,"{'vending': 'toys', 'payment:coins': 'yes', 'level': '0', 'fee': 'yes'}",2019-12-15T14:47:03.000-08:00
+vending_machine,49.2628342,-123.06927720000002,,"{'vending': 'public_transport_tickets', 'payment:notes': 'yes', 'payment:coins': 'yes', 'payment:credit_cards': 'yes'}",2010-11-12T07:00:24.000-08:00
+vending_machine,49.0721309,-122.82229869999999,,{'vending': 'parking_tickets'},2019-07-14T13:53:10.000-07:00
+vending_machine,49.262852,-123.0693223,,"{'vending': 'public_transport_tickets', 'payment:notes': 'yes', 'payment:coins': 'yes', 'payment:credit_cards': 'yes'}",2010-11-12T07:00:25.000-08:00
+vending_machine,49.2799591,-123.1185818,,{'vending': 'parking_tickets'},2020-03-08T23:06:19.000-07:00
+vending_machine,49.195226,-122.8313088,,"{'vending': 'newspapers', 'operator': 'Surrey Now-Leader', 'fee': 'no'}",2020-04-11T20:58:00.000-07:00
+vending_machine,49.2131842,-122.82779599999999,,"{'vending': 'newspapers', 'operator': 'Surrey Now-Leader', 'fee': 'no'}",2020-04-11T20:58:00.000-07:00
+vending_machine,49.0071041,-123.130416,,"{'payment:notes': 'yes', 'vending': 'public_transport_tickets', 'description': 'Foot Passenger Tickets', 'payment:coins': 'yes', 'payment:debit_cards': 'yes', 'operator': 'British Columbia Ferry Services Inc.'}",2014-07-19T04:16:41.000-07:00
+vending_machine,49.060973700000005,-122.80360209999999,,{},2020-04-25T18:37:13.000-07:00
+vending_machine,49.280096,-123.1193369,,{'vending': 'parking_tickets'},2020-03-08T23:06:19.000-07:00
+vending_machine,49.280080299999995,-123.11931000000001,,{'vending': 'parking_tickets'},2020-03-08T23:06:19.000-07:00
+vending_machine,49.372025,-123.0985987,,{'vending': 'drinks'},2018-10-07T03:49:58.000-07:00
+vending_machine,49.2726747,-123.10127820000001,,"{'vending': 'parking_tickets', 'payment:coins': 'yes', 'payment:credit_cards': 'yes'}",2010-11-13T07:31:10.000-08:00
+vending_machine,49.3127787,-123.14358590000002,,"{'vending': 'parking_tickets', 'source': 'local_knowledge'}",2014-11-11T16:43:44.000-08:00
+vending_machine,49.2554232,-122.9946372,,"{'vending': 'parking_tickets', 'operator': 'Impark'}",2020-05-13T19:25:15.000-07:00
+vending_machine,49.0207139,-122.38375570000001,,"{'vending': 'parking_tickets', 'barrier': 'toll_booth'}",2019-05-04T14:02:13.000-07:00
+vending_machine,49.2338009,-123.13985919999999,,{'vending': 'parking_tickets'},2020-04-13T14:51:52.000-07:00
+vending_machine,49.168382,-122.8999903,,{'vending': 'excrement_bags'},2020-03-20T22:43:34.000-07:00
+vending_machine,49.168139399999994,-122.9000134,,{'vending': 'excrement_bags'},2020-03-20T22:43:34.000-07:00
+vending_machine,49.20349229999999,-122.8250058,,"{'vending': 'newspapers', 'operator': 'Surrey Now-Leader', 'fee': 'no'}",2020-04-11T21:00:51.000-07:00
+vending_machine,49.2658458,-123.01123009999999,,"{'vending': 'parking_tickets', 'payment:credit_cards': 'yes', 'operator': 'Westpark'}",2019-11-25T23:54:46.000-08:00
+vending_machine,49.2651675,-123.0106762,,"{'vending': 'parking_tickets', 'payment:credit_cards': 'yes', 'operator': 'Westpark'}",2019-11-25T23:54:46.000-08:00
+vending_machine,49.07212620000001,-122.8222808,,"{'payment:mastercard': 'yes', 'vending': 'parking_tickets', 'payment:visa': 'yes'}",2019-07-14T13:53:10.000-07:00
+vending_machine,49.0897737,-122.8615652,,{'vending': 'excrement_bags'},2019-12-28T00:30:29.000-08:00
+vending_machine,49.3260756,-123.1426756,Amazon Locker,"{'vending': 'parcel_pickup', 'operator': 'Amazon'}",2020-06-02T08:56:39.000-07:00
+vending_machine,49.1202524,-122.661394,,"{'payment:credit_cards': 'yes', 'currency:CAD': 'yes', 'payment:cash': 'yes', 'vending': 'public_transport_tickets', 'payment:debit_cards': 'yes', 'operator': 'London Drugs'}",2019-12-03T06:43:44.000-08:00
+vending_machine,49.3756086,-123.27182379999999,,{'vending': 'food'},2013-12-30T09:25:11.000-08:00
+vending_machine,49.2730843,-123.09960320000002,,"{'vending': 'newspapers', 'quantity': '3'}",2020-02-03T19:32:20.000-08:00
+vending_machine,49.273086799999994,-123.0996251,,"{'vending': 'newspapers', 'quantity': '2'}",2020-02-03T19:32:20.000-08:00
+vending_machine,49.050358100000004,-122.31920320000002,,"{'vending': 'newspapers', 'description': 'The News Abbotsford'}",2016-01-28T05:31:57.000-08:00
+vending_machine,49.0118264,-122.45004679999998,,"{'vending': 'excrement_bags', 'fee': 'no'}",2018-04-06T23:12:52.000-07:00
+vending_machine,49.0100593,-122.4523375,,"{'vending': 'excrement_bags', 'fee': 'no'}",2018-04-06T23:12:44.000-07:00
+vending_machine,49.0119864,-122.46519359999999,,"{'vending': 'excrement_bags', 'fee': 'no'}",2018-04-06T23:12:27.000-07:00
+vending_machine,49.226126,-122.9986294,,"{'vending': 'drinks', 'level': '-1', 'operator': 'Dasini'}",2019-05-27T03:58:17.000-07:00
+vending_machine,49.2006935,-122.90978419999999,,{'vending': 'parking_tickets'},2010-11-04T05:03:36.000-07:00
+vending_machine,49.200771200000005,-122.9096428,,{'vending': 'parking_tickets'},2019-08-09T06:35:02.000-07:00
+vending_machine,49.1979624,-122.64417350000001,,{'vending': 'excrement_bags'},2019-09-21T00:00:39.000-07:00
+vending_machine,49.0370987,-122.31166440000001,,"{'vending': 'parking_tickets', 'operator': 'Impark'}",2016-03-08T14:36:26.000-08:00
+vending_machine,49.2785036,-123.1226093,,"{'vending': 'parking_tickets', 'payment:credit_cards': 'yes'}",2019-09-20T00:17:16.000-07:00
+vending_machine,49.106449600000005,-122.36758200000001,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-02-17T11:51:51.000-08:00
+vending_machine,49.227656700000004,-123.00047040000001,Drinks,"{'vending': 'drinks', 'name:en': 'Drinks'}",2017-03-10T05:38:16.000-08:00
+vending_machine,49.2255264,-122.9979937,Photos,{'name:en': 'Photos'},2018-04-21T18:49:39.000-07:00
+vending_machine,49.2277639,-123.00035459999998,Lockers,{'name:en': 'Lockers'},2018-04-21T18:56:29.000-07:00
+vending_machine,49.1210346,-122.3016383,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-02-14T19:58:15.000-08:00
+vending_machine,49.113422,-122.31648009999999,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-02-14T23:06:58.000-08:00
+vending_machine,49.1076361,-122.3415146,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-02-15T03:36:48.000-08:00
+vending_machine,49.06861129999999,-122.35843659999999,,"{'vending': 'drinks', 'level': '0', 'operator': 'CLOSED INDEFINATELY'}",2018-10-30T18:03:26.000-07:00
+vending_machine,49.0689976,-122.3489419,,"{'vending': 'newspapers', 'operator': 'Abbotsford News', 'fee': 'no'}",2016-12-25T16:22:58.000-08:00
+vending_machine,49.274176700000005,-122.2158001,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-03-20T01:55:14.000-07:00
+vending_machine,49.273846,-122.21600179999999,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-03-20T02:07:00.000-07:00
+vending_machine,49.257723600000006,-123.16507469999999,Metro News,{'vending': 'newspapers'},2019-08-29T18:47:52.000-07:00
+vending_machine,49.257723600000006,-123.1650881,Metro News,{'vending': 'newspapers'},2019-08-29T18:47:52.000-07:00
+vending_machine,49.2577245,-123.16510020000001,Homes and Land Magazine,{'vending': 'newspapers'},2019-08-29T18:47:52.000-07:00
+vending_machine,49.2043938,-122.8737753,,"{'vending': 'parking_tickets', 'payment:coins': 'yes', 'payment:credit_cards': 'yes'}",2017-02-19T20:46:15.000-08:00
+vending_machine,49.22636729999999,-123.0020631,Photos,{'name:en': 'Photos'},2017-03-10T05:38:15.000-08:00
+vending_machine,49.037290999999996,-122.24231029999999,,"{'vending': 'excrement_bags', 'fee': 'no'}",2016-08-24T19:25:50.000-07:00
+vending_machine,49.04975,-122.31186540000002,,"{'vending': 'sweets', 'payment:coins': 'yes', 'quantity': '16', 'level': '0', 'fee': 'yes'}",2016-12-11T18:15:14.000-08:00
+vending_machine,49.07445560000001,-122.2800353,,"{'vending': 'excrement_bags', 'fee': 'no'}",2016-10-13T02:43:48.000-07:00
+vending_machine,49.3960903,-123.2044709,,{'vending': 'drinks'},2017-06-25T04:13:19.000-07:00
+vending_machine,49.0820669,-122.26001550000001,,"{'vending': 'newspapers', 'brand': 'Abbotsford News'}",2016-11-21T00:29:18.000-08:00
+vending_machine,49.046188,-122.313126,,"{'vending': 'excrement_bags', 'fee': 'no'}",2016-07-20T14:17:24.000-07:00
+vending_machine,49.0435321,-122.30989699999999,,"{'vending': 'excrement_bags', 'fee': 'no'}",2016-07-19T04:02:52.000-07:00
+vending_machine,49.19647020000001,-123.14623529999999,,{'vending': 'drinks'},2018-05-05T12:24:43.000-07:00
+vending_machine,49.1964606,-123.14630259999998,,{'vending': 'parking_tickets'},2018-05-05T12:24:42.000-07:00
+vending_machine,49.0892101,-122.3152678,,"{'vending': 'newspapers', 'fee': 'no'}",2016-12-26T19:14:38.000-08:00
+vending_machine,49.0378502,-122.2360735,,"{'vending': 'excrement_bags', 'fee': 'no'}",2016-08-24T07:24:59.000-07:00
+vending_machine,49.3705707,-123.2744003,,{},2015-10-24T19:42:51.000-07:00
+vending_machine,49.370563700000005,-123.27437749999999,,{},2015-10-24T19:42:51.000-07:00
+vending_machine,49.3705742,-123.27436270000001,,{},2015-10-24T19:42:51.000-07:00
+vending_machine,49.3705855,-123.2743869,,{},2015-10-24T19:42:51.000-07:00
+vending_machine,49.26381129999999,-123.10492269999999,,"{'vending': 'newspapers', 'operator': 'straight'}",2019-05-08T22:54:53.000-07:00
+vending_machine,49.0700096,-122.3406055,,"{'vending': 'newspapers', 'operator': 'Abbotsford News'}",2016-12-25T06:30:38.000-08:00
+vending_machine,49.068585999999996,-122.35863290000002,,"{'vending': 'drinks', 'level': '0'}",2017-01-04T04:57:07.000-08:00
+vending_machine,49.053068700000004,-122.3614216,,"{'vending': 'newspapers', 'fee': 'no'}",2016-12-26T19:14:30.000-08:00
+vending_machine,49.198812100000005,-122.5791588,,"{'vending': 'excrement_bags', 'fee': 'no'}",2018-01-01T17:26:32.000-08:00
+vending_machine,49.13991,-122.2861139,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-01-23T18:39:56.000-08:00
+vending_machine,49.2439382,-123.04527879999999,,{'vending': 'public_transport_tickets'},2019-02-10T05:54:04.000-08:00
+vending_machine,49.2439667,-123.0453629,,"{'vending': 'public_transport_tickets', 'level': '-0.5'}",2018-03-15T05:49:25.000-07:00
+vending_machine,49.2444248,-123.04613619999999,,"{'vending': 'public_transport_tickets', 'level': '-0.5'}",2018-03-15T05:49:26.000-07:00
+vending_machine,49.244235499999995,-123.0463355,,"{'vending': 'public_transport_tickets', 'level': '-0.5'}",2018-03-15T05:49:26.000-07:00
+vending_machine,49.058445,-122.3762653,,"{'vending': 'excrement_bags', 'level': '2', 'layer': '2', 'fee': 'no'}",2019-04-27T20:37:04.000-07:00
+vending_machine,49.3303769,-122.9500529,,"{'vending': 'excrement_bags', 'fee': 'no'}",2019-04-27T23:29:17.000-07:00
+vending_machine,49.0369564,-122.3123308,,"{'vending': 'parking_tickets', 'operator': 'Impark'}",2016-06-06T18:39:04.000-07:00
+vending_machine,49.2421002,-123.1134996,,{},2019-04-28T07:27:36.000-07:00
+vending_machine,49.2750811,-123.13969329999999,,{},2019-04-30T06:53:22.000-07:00
+vending_machine,49.053074200000005,-122.35407240000002,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-01-08T02:20:34.000-08:00
+vending_machine,49.068843,-122.3370065,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-01-08T02:21:13.000-08:00
+vending_machine,49.090981799999994,-123.0825412,,{'vending': 'fuel'},2018-09-15T06:17:46.000-07:00
+vending_machine,49.211139,-122.5096956,,"{'vending': 'excrement_bags', 'fee': 'no'}",2018-01-01T06:44:36.000-08:00
+vending_machine,49.0365611,-122.31069029999999,,"{'vending': 'parking_tickets', 'operator': 'Impark'}",2016-07-02T19:18:38.000-07:00
+vending_machine,49.0581539,-122.3761023,,"{'vending': 'excrement_bags', 'level': '2', 'layer': '2', 'fee': 'no'}",2019-04-27T20:37:04.000-07:00
+vending_machine,49.037003799999994,-122.31235509999999,,"{'vending': 'newspapers', 'quantity': '2'}",2015-10-16T12:21:14.000-07:00
+vending_machine,49.0372867,-122.3110064,,"{'vending': 'parking_tickets', 'operator': 'Impark'}",2016-06-06T18:39:04.000-07:00
+vending_machine,49.1205419,-122.30323680000001,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-02-14T19:12:42.000-08:00
+vending_machine,49.1200531,-122.3030392,,"{'vending': 'excrement_bags', 'fee': 'no'}",2017-02-14T19:12:56.000-08:00
+vending_machine,49.226121,-122.99863899999998,Drinks,"{'vending': 'drinks', 'level': '0'}",2019-02-03T01:58:49.000-08:00
+vending_machine,49.037228799999994,-122.31149609999999,,"{'vending': 'newspapers', 'quantity': '3'}",2015-10-16T12:21:14.000-07:00
+vending_machine,49.2382584,-123.0321227,,"{'vending': 'newspapers', 'fee': 'no'}",2017-07-30T06:49:42.000-07:00
+vending_machine,49.199832799999996,-122.57976029999999,,"{'vending': 'excrement_bags', 'fee': 'no'}",2018-01-01T17:26:29.000-08:00
+vending_machine,49.238193599999995,-123.0320784,,"{'vending': 'newspapers', 'fee': 'no'}",2017-07-30T06:49:43.000-07:00
+vending_machine,49.2380467,-123.03166440000001,,"{'vending': 'newspapers', 'fee': 'no'}",2017-07-30T06:49:43.000-07:00
+vending_machine,49.2380347,-123.0318126,,"{'vending': 'newspapers', 'fee': 'no'}",2017-07-30T06:49:43.000-07:00
+vending_machine,49.0656915,-122.31279640000001,,"{'vending': 'excrement_bags', 'fee': 'no'}",2016-06-12T14:46:31.000-07:00
+vending_machine,49.037141399999996,-122.31226709999999,,{'vending': 'newspapers'},2015-10-16T12:21:13.000-07:00
+vending_machine,49.036602,-122.31283870000001,,"{'vending': 'parking_tickets', 'operator': 'Impark'}",2016-07-02T19:30:12.000-07:00
+vending_machine,49.0371164,-122.3116645,,"{'vending': 'parking_tickets', 'operator': 'Impark'}",2016-03-08T14:36:27.000-08:00

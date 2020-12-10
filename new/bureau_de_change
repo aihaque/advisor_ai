@@ -1,0 +1,24 @@
+amenity,lat,lon,name,tags,timestamp
+bureau_de_change,49.2836227,-123.1128112,Currency Exchange,"{'addr:housenumber': '489', 'addr:street': 'Richards Street'}",2016-01-16T05:55:28.000-08:00
+bureau_de_change,49.047291200000004,-122.336929,Sidhu Money Exchange Ltd.,{},2015-03-10T17:19:40.000-07:00
+bureau_de_change,49.194915,-123.17849299999999,Currency Exchange,{},2011-04-28T20:13:06.000-07:00
+bureau_de_change,49.197169,-123.178097,Currency Exchange,{},2011-04-27T23:26:24.000-07:00
+bureau_de_change,49.326205,-123.13508490000001,Money Way Currency Exchange,"{'wheelchair': 'yes', 'addr:housenumber': '702', 'addr:street': 'Main Street', 'level': '0'}",2019-04-27T15:04:33.000-07:00
+bureau_de_change,49.2879151,-123.12129820000001,Finex Forex,"{'addr:housenumber': '1135', 'addr:street': 'West Pender Street'}",2019-10-04T18:43:21.000-07:00
+bureau_de_change,49.051429999999996,-122.3287261,Custom House International Currency Exchange,"{'website': 'http://www.customhouse.com', 'phone': '+1-604-556-3999', 'level': '0', 'opening_hours': 'Mo-Fr 09:30-18:00; Sa 09:00-17:00; Su 09:30-17:00', 'addr:unit': '2B', 'operator': 'Western Union', 'url': 'http://locations.westernunion.com/ca/bc/abbotsford/e44e0c8022f2d5cf648fd1a4092539da'}",2019-09-02T22:08:25.000-07:00
+bureau_de_change,49.0486626,-122.3350906,Bestway Foreign Exchange Ltd.,{'phone': '+1-604-825-3275'},2018-02-09T04:59:46.000-08:00
+bureau_de_change,49.226647899999996,-123.002152,Vancouver Bullion & Currency Exchange,"{'currency:USD': 'yes', 'website': 'https://www.vbce.ca/', 'currency:CAD': 'yes', 'currency:MXN': 'yes', 'currency:EUR': 'yes', 'payment:cash': 'yes', 'currency:others': 'yes', 'addr:housenumber': '4700', 'currency:GBP': 'yes', 'alt_name': 'VBCE', 'currency:JPY': 'yes', 'phone': '+1-604-558-2468', 'opening_hours': 'Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00', 'addr:street': 'Kingsway', 'payment:debit_cards': 'yes'}",2020-01-09T07:05:09.000-08:00
+bureau_de_change,49.2275435,-122.65767220000001,,{},2020-05-30T05:31:13.000-07:00
+bureau_de_change,49.2853994,-123.11641350000001,Vancouver Bullion & Currency Exchange,"{'addr:housenumber': '800', 'website': 'https://www.vbce.ca/', 'phone': '+1-604-685-1008', 'opening_hours': 'Mo-Fr 09:00-17:00; Sa-Su off', 'short_name': 'VBCE', 'addr:street': 'West Pender Street', 'addr:postcode': 'V6C 2V6'}",2017-01-31T00:50:45.000-08:00
+bureau_de_change,49.2781239,-123.127351,Javan Exchange,"{'opening_hours': 'Mo-Fr 09:30-18:00; Sa 10:00-16:00', 'addr:street': 'Davie Street', 'addr:city': 'Vancouver'}",2019-10-27T17:08:25.000-07:00
+bureau_de_change,49.2856696,-123.1261568,Currency Exchange,"{'addr:housenumber': '1169', 'addr:street': 'Robson Street'}",2015-09-23T03:37:05.000-07:00
+bureau_de_change,49.16972020000001,-123.13685459999999,Vancouver Bullion & Currency Exchange,"{'wheelchair': 'yes', 'currency:USD': 'yes', 'website': 'https://www.vbce.ca/', 'currency:CAD': 'yes', 'currency:MXN': 'yes', 'currency:DKK': 'yes', 'currency:CHF': 'yes', 'currency:EUR': 'yes', 'currency:RUB': 'yes', 'currency:others': 'yes', 'currency:HUF': 'yes', 'addr:unit': '118', 'operator': 'Mo-Fr 09:00-17:00,Sa 10:00-16:00, Su off', 'addr:housenumber': '6061', 'currency:GBP': 'yes', 'currency:JPY': 'yes', 'phone': '+1-604-248-0777', 'currency:PLN': 'yes', 'currency:AUD': 'yes', 'currency:THB': 'yes', 'short_name': 'VBCE', 'addr:street': 'Number 3 Road'}",2019-02-17T12:12:01.000-08:00
+bureau_de_change,49.196369,-123.17707490000001,,{},2017-03-23T18:35:02.000-07:00
+bureau_de_change,49.061288899999994,-122.3800104,BC Currency Exchange,"{'website': 'http://bccurrencyexchange.ca', 'addr:unit': '108'}",2019-08-07T02:34:42.000-07:00
+bureau_de_change,49.263051000000004,-123.13843500000002,Vancouver Bullion & Currency Exchange,"{'addr:housenumber': '2576', 'website': 'https://www.vbce.ca/', 'phone': '+1-604-739-3997', 'opening_hours': 'Mo-Fr 09:00-17:00; Sa 10:00-16:00; Su off', 'short_name': 'VBCE', 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}",2019-09-13T13:56:49.000-07:00
+bureau_de_change,49.2296812,-123.00435829999999,Currency Exchange,"{'addr:housenumber': '2830', 'name:en': 'Currency Exchange'}",2017-03-22T04:36:10.000-07:00
+bureau_de_change,49.187175,-122.84903659999999,Ever Forex,{'name:en': 'Ever Forex'},2019-06-25T03:34:59.000-07:00
+bureau_de_change,49.1948151,-123.1769118,Currency Exchange,{},2017-06-16T15:37:34.000-07:00
+bureau_de_change,49.2802118,-123.1071123,Mtt Centre,{'name:en': 'Mtt Centre'},2017-03-13T04:17:01.000-07:00
+bureau_de_change,49.281228399999996,-123.12038000000001,Charlie's currency exchange,"{'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}",2019-11-22T19:58:24.000-08:00
+bureau_de_change,49.196866,-123.17689469999999,,{},2017-03-23T18:35:10.000-07:00

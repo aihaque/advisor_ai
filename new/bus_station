@@ -1,0 +1,17 @@
+amenity,lat,lon,name,tags,timestamp
+bus_station,49.106031200000004,-122.6539213,Langley Centre,"{'bus': 'yes', 'public_transport': 'station', 'network': 'Translink'}",2019-12-02T07:25:53.000-08:00
+bus_station,49.275335,-122.79875030000001,Coquitlam Central,"{'bus': 'yes', 'public_transport': 'station', 'network': 'TransLink'}",2020-01-19T19:36:30.000-08:00
+bus_station,49.2655861,-123.02519469999999,Boundary Loop,"{'addr:housenumber': '3665', 'website': 'https://translink.ca/', 'addr:street': 'Lougheed Highway', 'phone': '+1-604-953-3333'}",2019-03-19T06:10:28.000-07:00
+bus_station,49.133338099999996,-122.84211859999999,Newton Exchange,"{'bus': 'yes', 'public_transport': 'station', 'wikipedia:en': 'Newton Exchange', 'wikidata': 'Q7020228'}",2019-12-24T07:05:22.000-08:00
+bus_station,49.210176399999995,-123.0647767,Harrison Loop,"{'bus': 'yes', 'website': 'https://translink.ca/', 'public_transport': 'station'}",2019-05-29T17:56:38.000-07:00
+bus_station,49.2538217,-122.91814840000002,Production Station Bus Loop,{},2016-12-10T05:39:50.000-08:00
+bus_station,49.071991600000004,-122.8223443,South Surrey Park and Ride,"{'bus': 'yes', 'addr:housenumber': '3800', 'public_transport': 'station', 'addr:street': 'King George Boulevard', 'wikipedia': 'en:South Surrey Park and Ride', 'wikidata': 'Q20204869', 'operator': 'Coast Mountain Bus Company', 'addr:city': 'Surrey', 'network': 'TransLink'}",2019-09-13T13:57:05.000-07:00
+bus_station,49.3105467,-123.0828804,Lonsdale Quay Bus Loop,"{'wheelchair': 'yes', 'note': 'ICBC building above'}",2018-08-08T20:30:00.000-07:00
+bus_station,49.2739052,-123.0968575,Vancouver Main Terminal,"{'addr:housenumber': '1150', 'addr:street': 'Station Street', 'addr:city': 'Vancouver'}",2018-03-18T06:09:46.000-07:00
+bus_station,49.229690399999996,-123.0126437,Patterson station,"{'bus': 'yes', 'public_transport': 'station'}",2019-05-29T18:10:20.000-07:00
+bus_station,49.2092186,-123.11612450000001,Marine Drive Station,"{'bus': 'yes', 'name:en': 'Marine Drive Station', 'public_transport': 'station'}",2019-05-29T17:56:38.000-07:00
+bus_station,49.202934,-123.13360060000001,Marpole Loop,"{'bus': 'yes', 'website': 'https://translink.ca/', 'public_transport': 'station', 'phone': '+1-604-953-3333'}",2020-02-06T01:20:21.000-08:00
+bus_station,49.2476906,-122.8951244,Lougheed Station,{},2016-06-07T21:04:53.000-07:00
+bus_station,49.213829499999996,-123.1406243,63rd Avenue Loop,"{'bus': 'yes', 'addr:housenumber': '7907', 'website': 'https://translink.ca/', 'phone': '+1-604-953-3333', 'public_transport': 'station', 'addr:street': 'Granville Street'}",2019-05-29T17:48:57.000-07:00
+bus_station,49.219854299999994,-123.06569990000001,54th Avenue Loop,"{'bus': 'yes', 'website': 'https://translink.ca/', 'ref': '61800', 'public_transport': 'station'}",2019-07-04T05:52:54.000-07:00
+bus_station,49.1888966,-122.8488844,Surrey Central Bus Loop,"{'bus': 'yes', 'shelter': 'yes', 'public_transport': 'station', 'operator': 'Translink'}",2020-02-12T04:11:16.000-08:00
