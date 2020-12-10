@@ -27,4 +27,4 @@ df.to_csv('group_withcity/social_centre.csv', index=False)
 #cor = (49.1340348, -122.3040006)
 #location = geolocator.reverse(cor)
 #address = location.raw['address']
-#rint(address)
+#print(address)
