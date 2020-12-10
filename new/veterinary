@@ -1,0 +1,73 @@
+amenity,lat,lon,name,tags,timestamp
+veterinary,49.1192114,-122.6710399,Apex,{'phone': '+1-604-514-1444'},2020-06-28T18:09:16.000-07:00
+veterinary,49.268066999999995,-123.14064099999999,Cats Only Veterinary Clinic,"{'wheelchair': 'yes', 'phone': '+1-604-734-2287'}",2018-02-10T16:17:28.000-08:00
+veterinary,49.1186156,-122.663909,Willowbrook Animal Hospital,"{'opening_hours': 'Mo-Sa 08:00-24:00, Su 09:00-24:00', 'phone': '604-532-1889'}",2019-12-03T06:43:44.000-08:00
+veterinary,49.26417,-123.21008940000002,,{},2011-01-15T03:04:12.000-08:00
+veterinary,49.131686,-122.8899393,Scottsdale Veterinary Hospital,"{'addr:housenumber': '7072', 'surrey:addrid': '54900', 'addr:street': '120 Street', 'source': 'City of Surrey 2010 GIS Data', 'surrey:date': '19850801', 'addr:city': 'Surrey'}",2017-07-30T02:14:59.000-07:00
+veterinary,49.1532057,-122.89089240000001,North Delta Animal Hospital,{},2019-09-28T08:28:09.000-07:00
+veterinary,49.268448600000006,-123.165675,Kitsilano Animal Clinic,"{'addr:housenumber': '2645', 'website': 'https://kitsilanoanimalclinic.ca', 'phone': '+1-604-736-8648', 'opening_hours': 'Mo-Fr 09:00-18:00; Sa 09:00-17:00', 'addr:street': 'West 4th Avenue', 'addr:postcode': 'V6K 1P8', 'addr:city': 'Vancouver'}",2019-09-13T13:57:05.000-07:00
+veterinary,49.010839700000005,-122.62574380000001,Critter Care Wildlife Society,{'note': 'Wildlife rehabilitation center for native mammals.'},2015-04-30T01:16:50.000-07:00
+veterinary,49.2097727,-122.91663940000001,Alpine Animal Hospital,"{'phone': '+1-604-525-3400', 'source': 'gps/photo survey'}",2018-10-26T20:29:57.000-07:00
+veterinary,49.2681203,-123.14155190000001,Granville Island Veterinary Hospital,{},2020-01-26T03:53:08.000-08:00
+veterinary,49.045263299999995,-122.29306299999999,Abbotsford Valley Animal Emergency Clinic,"{'opening_hours': 'Mo-Sa 18:00-08:00', 'website': 'http://abbotsfordanimalemergency.com', 'phone': '+1-604-850-0911', 'addr:unit': 'C'}",2018-06-20T15:10:29.000-07:00
+veterinary,49.3168299,-122.97117069999999,Park Gate Animal & Bird Hospita,{},2020-02-09T18:39:57.000-08:00
+veterinary,49.0899791,-123.08440590000001,48th Avenue Animal Hospital,{},2019-08-20T16:53:20.000-07:00
+veterinary,49.0304367,-123.06824669999999,Huff Animal Hospital,{},2019-08-18T10:15:50.000-07:00
+veterinary,49.1206325,-122.8918799,,{},2019-08-18T05:55:49.000-07:00
+veterinary,49.026114,-122.26611909999998,PetSmart,"{'opening_hours': '08:00-22:00', 'website': 'http://stores.petsmart.com/484', 'ref': '484', 'shop': 'pet', 'phone': '+1-604-854-8132'}",2018-02-09T04:59:38.000-08:00
+veterinary,49.0901086,-122.60459490000001,Paws & Claws Animal Hospita,{'addr:unit': 'B'},2019-07-12T07:49:23.000-07:00
+veterinary,49.247814899999995,-123.07007240000002,Sunshine Plaza Animal Hospital,"{'addr:housenumber': '1691', 'addr:street': 'Kingsway', 'entrance': 'yes'}",2019-10-07T05:30:47.000-07:00
+veterinary,49.2813711,-123.01663020000001,Hastings Veterinary Hospital,"{'addr:housenumber': '3995', 'addr:street': 'Hastings Street', 'addr:city': 'Burnaby'}",2020-06-11T20:37:55.000-07:00
+veterinary,49.28115570000001,-123.00475359999999,North Burnaby Pet Hospital,"{'addr:housenumber': '4431', 'addr:street': 'Hastings Street', 'addr:city': 'Burnaby'}",2020-06-11T20:37:55.000-07:00
+veterinary,49.3273905,-123.07305149999999,Lonsdale Veterinary Hospital,{},2012-12-31T01:09:29.000-08:00
+veterinary,49.2135417,-122.9386195,Burnaby New Westminster Animal Hospital,{},2013-11-26T17:29:34.000-08:00
+veterinary,49.2625266,-122.8380189,Como Lake Veterinary Hospital,"{'addr:housenumber': '1950', 'website': 'http://comolakevet.com/', 'phone': '+1-604-931-7760', 'opening_hours': 'Mo-Fr 08:00-18:00; We 08:00-20:00; Sa 09:00-16:00; Su off', 'addr:street': 'Como Lake Avenue', 'addr:postcode': 'V3J 3R3', 'addr:city': 'Coquitlam'}",2018-02-09T04:59:32.000-08:00
+veterinary,49.2200507,-122.9287177,Central City Animal Hospital,"{'addr:housenumber': '7834', 'addr:street': '6th Street', 'phone': '+1-604-522-3344', 'addr:city': 'Burnaby'}",2018-10-26T20:29:59.000-07:00
+veterinary,49.2493435,-122.8679916,Coquitlam Animal Hospital,"{'addr:province': 'B.C.', 'addr:housenumber': '1001', 'addr:street': 'Austin Avenue', 'addr:postcode': 'V3K 3N9', 'addr:unit': '105', 'addr:city': 'Coquitlam'}",2020-04-06T04:53:43.000-07:00
+veterinary,49.1836995,-123.1259624,Dr.Jean Hsu,"{'addr:province': 'BC', 'addr:housenumber': '8888', 'phone': '778-926-2353', 'addr:street': 'Odlin Crescent', 'addr:postcode': 'V6X3Z8', 'addr:unit': '1160', 'operator': 'Certified Veterinary Acupuncturist', 'email': 'drwchsu@gmail.com', 'addr:city': 'Richmond'}",2020-04-03T19:34:38.000-07:00
+veterinary,49.0445643,-122.22173319999999,Alpha Animal Hospital,"{'opening_hours': 'Mo-Fr 08:00-20:00; Sa 09:00-16:00; Su off', 'website': 'http://www.abbyeastvet.com', 'phone': '+1-604-859-6322', 'addr:unit': '125', 'operator': 'Dr. Vishesh Jalan'}",2019-09-02T22:08:25.000-07:00
+veterinary,49.0954958,-123.07715300000001,Trenant Park Pet Clinic,"{'addr:housenumber': '5080', 'website': 'http://trenantparkpetclinic.com', 'addr:street': 'Linden Drive'}",2019-07-17T06:02:31.000-07:00
+veterinary,49.1333789,-122.3205212,Eagle Hill Animal Hospital,"{'website': 'https://www.eaglehillvet.ca', 'addr:unit': '4'}",2019-05-20T01:23:09.000-07:00
+veterinary,49.2580827,-123.16892479999998,Arbutus West Animal Clinic,{},2010-08-27T23:14:24.000-07:00
+veterinary,49.115919700000006,-122.68288170000001,Avon Animal Hospital,{},2019-10-12T06:42:33.000-07:00
+veterinary,49.2486436,-123.07218789999999,Vancouver Veterinarian,"{'addr:housenumber': '1541', 'website': 'https://vancouverveterinary.com/', 'name:en': 'Vancouver Veterinary hospital', 'addr:street': 'Kingsway'}",2019-07-23T12:12:29.000-07:00
+veterinary,49.325185100000006,-123.13423279999999,West Vancouver Veterinary Hospital,{'level': '0'},2020-06-21T02:52:38.000-07:00
+veterinary,49.2560732,-123.02328929999999,Boundary Animal Hospital,"{'addr:housenumber': '3114', 'addr:street': 'Boundary Road', 'addr:city': 'Burnaby'}",2019-11-16T04:48:06.000-08:00
+veterinary,49.2670619,-123.02548600000001,Canada West Veterinary Specialists,"{'addr:housenumber': '1988', 'addr:street': 'Kootenay Street', 'addr:city': 'Vancouver'}",2019-09-13T13:57:05.000-07:00
+veterinary,49.271395,-122.7547928,Coast Meridian Animal Hospital,{},2016-03-16T00:12:33.000-07:00
+veterinary,49.2330575,-123.09009070000002,Atlas Animal Hospital,{'opening_hours': '24/7'},2019-01-26T04:00:52.000-08:00
+veterinary,49.2963016,-122.8035442,Barn Door Veterinary Care,{},2019-08-15T00:25:19.000-07:00
+veterinary,49.1047294,-122.7252983,Feline Hospital,{},2017-09-23T21:10:27.000-07:00
+veterinary,49.2499348,-123.11571609999999,West King Edward Animal Clinic,"{'opening_hours': 'Mo-Fr 08:00-18:00; Sa 09:00-15:30', 'addr:housenumber': '510', 'website': 'https://www.vancouvervet.com/', 'addr:street': 'West 24th Avenue'}",2019-08-10T21:19:03.000-07:00
+veterinary,49.146122999999996,-123.1362158,Richmond Animal Hospital,"{'opening_hours': 'Mo,Fr 08:00-18:00; Tu 07:00-20:00; We 08:00-20:00; Th 07:00-18:00; Sa 08:00-16:00; Su off', 'addr:housenumber': '9220', 'website': 'https://richmondanimalhospital.ca/', 'addr:street': 'No. 3 Road', 'phone': '+1-604-277-3161'}",2019-02-18T01:08:28.000-08:00
+veterinary,49.2646882,-123.11126920000001,Vancouver Animal Emergency and Referral Centre,"{'wheelchair': 'yes', 'addr:housenumber': '2303', 'website': 'http://animaler.com/', 'phone': '+1-604-879-3737', 'opening_hours': '24/7', 'addr:street': 'Alberta Street'}",2016-11-05T21:47:22.000-07:00
+veterinary,49.21082020000001,-123.0934412,Intercity Animal Emergency Clinic,"{'opening_hours': 'Mo 00:00-08:00,18:00-08:00; Tu-Fr 18:00-08:00; Sa 17:00-24:00; Su,PH 00:00-24:00', 'addr:housenumber': '580', 'addr:street': 'Southeast Marine Drive', 'phone': '+1-604-321-8080'}",2016-11-05T21:42:56.000-07:00
+veterinary,49.1642563,-122.7976237,Mainland Animal Emergency Clinic,"{'opening_hours': 'Mo 00:00-08:00,17:00-08:00; Tu-Fr 17:00-08:00; Sa 16:00-24:00; Su,PH 00:00-24:00', 'addr:housenumber': '15338', 'website': 'http://www.surreyanimaler.com/', 'addr:street': 'Fraser Highway', 'phone': '+1-604-588-4000'}",2016-11-05T21:36:46.000-07:00
+veterinary,49.199081,-122.81562360000001,Pacific Animal Hospital,"{'opening_hours': 'Mo-Sa 09:00-20:00', 'addr:housenumber': '14675', 'website': 'http://surreyvet.ca/contact-us.html', 'addr:street': '108 Avenue', 'phone': '+1-604-585-1177'}",2017-02-22T02:51:47.000-08:00
+veterinary,49.2727615,-123.147457,Cypress St Animal Hospital,{'phone': '+1-604-734-2500'},2018-10-26T20:30:29.000-07:00
+veterinary,49.2473395,-122.8912506,,{},2018-12-08T01:49:20.000-08:00
+veterinary,49.0481093,-122.3425163,South Fraser Animal Hospital,"{'website': 'https://m.facebook.com/South-Fraser-Animal-Hospital-1523961581148867', 'phone': '+1-604-855-0770', 'opening_hours': 'Mo-Fr 08:00-20:00; Sa-Su 09:00-16:00', 'addr:unit': '3', 'operator': 'Dr. Sukhvinder Dhillon', 'url': 'http://southfraseranimalhospital.com'}",2019-09-02T22:08:26.000-07:00
+veterinary,49.2311381,-122.6888578,Pitt Meadows Animal Clinic,"{'addr:housenumber': '19227', 'addr:street': 'Lougheed Highway', 'addr:city': 'Pitt Meadows'}",2019-09-13T13:57:02.000-07:00
+veterinary,49.047635,-122.2682273,Allwest Animal Hospital,"{'phone': '+1-604-870-9333', 'level': '2', 'addr:unit': '108'}",2018-02-09T04:59:53.000-08:00
+veterinary,49.049186799999994,-122.25979299999999,Glenn Mountain Animal Hospital,{'phone': '+1-604-852-3030'},2018-06-20T15:11:26.000-07:00
+veterinary,49.279560100000005,-123.13017909999999,Urban Animal Hospital,"{'opening_hours': 'Mo-Sa 09:00-18:00', 'addr:housenumber': '1032', 'addr:street': 'Davie Street'}",2019-06-24T19:38:32.000-07:00
+veterinary,49.2832184,-122.81027069999999,Westwood Pet Hospital,{'name:en': 'Westwood Pet Hospital'},2017-02-23T21:35:26.000-08:00
+veterinary,49.0549066,-122.3195514,Gladwin Veterinary Clinic,"{'opening_hours': 'Mo-We,Fr 08:30-17:00; Th 08:30-20:00; Sa 09:00-13:00; Mo-We,Fr 12:30-13:30 off; Su off', 'website': 'https://www.gladwinvet.com/', 'phone': '+1-604-850-0446', 'addr:unit': '104'}",2019-09-02T22:08:25.000-07:00
+veterinary,49.2640436,-123.17412069999999,Acadia Veterinary Clinic,{},2019-11-19T22:35:39.000-08:00
+veterinary,49.1677023,-122.57925990000001,Fort Langley Veterinary Clinic,"{'website': 'http://fortlangleyvetclinic.vetsuite.com', 'addr:street': 'Glover Road', 'phone': '+1-604-888-4142', 'addr:city': 'Township of Langley'}",2019-09-13T13:56:59.000-07:00
+veterinary,49.0546193,-122.3590777,TOWNLINE VETERINARY HOSPITAL,"{'opening_hours': 'Mo-Fr 08:30-17:30; Sa 09:00-13:00', 'website': 'https://www.townlineveterinaryhospital.com/', 'phone': '+1-604-855-6622', 'level': '1', 'addr:unit': '7'}",2019-09-02T22:08:26.000-07:00
+veterinary,49.214653000000006,-122.98810049999999,Metrotown Animal Hospital,{'phone': '+1-604-436-0106'},2018-10-25T14:21:00.000-07:00
+veterinary,49.283344,-122.8256554,Newport Village Animal Hospital,{},2019-08-21T07:39:27.000-07:00
+veterinary,49.263551299999996,-123.1455507,Burrard Animal Hospital,{'opening_hours': '24/7'},2018-09-12T17:20:24.000-07:00
+veterinary,49.2785109,-122.8375957,Healing Paws,{},2019-09-02T01:46:53.000-07:00
+veterinary,49.0376409,-122.27406529999999,Coastal Rivers Pet Hospital,"{'opening_hours': 'Mo-Fr 07:00-22:30; PH,Sa-Su 08:00-18:00', 'website': 'https://www.coastalriverspet.com/', 'phone': '+1-604-425-1900', 'addr:unit': '2'}",2019-09-02T22:08:25.000-07:00
+veterinary,49.0756706,-122.6705983,Brookswood Veterinary Hospital,"{'phone': '+1-604-534-4174', 'addr:unit': '101B'}",2018-06-20T15:09:53.000-07:00
+veterinary,49.232058,-123.02597320000001,Pacific Pet Clinic,"{'addr:housenumber': '3628', 'addr:street': 'Kingsway'}",2019-11-30T20:36:31.000-08:00
+veterinary,49.0589534,-122.49236909999999,Animal Hospital,{},2019-11-17T23:44:25.000-08:00
+veterinary,49.1572075,-122.7824719,All Critters Animal Hospital,{'addr:unit': '301C'},2019-08-04T05:08:45.000-07:00
+veterinary,49.091334700000004,-123.08026100000001,,{},2019-07-07T21:50:17.000-07:00
+veterinary,49.0372725,-122.230249,Ellwood Park animal hospital,"{'opening_hours': 'Mo-Fr 08:00-17:30; Th 08:00-20:00; Sa 09:00-16:00', 'website': 'http://ellwoodpark.ca', 'phone': '+1-604-855-8900', 'addr:unit': '120'}",2019-09-02T22:08:26.000-07:00
+veterinary,49.132225,-123.09919579999999,Ironwood Animal Hospital,{},2017-06-07T00:24:59.000-07:00
+veterinary,49.1160594,-122.679484,Mountain View Veterinary Hospital,{},2017-06-10T21:04:06.000-07:00
+veterinary,49.133857299999995,-122.32702890000002,Lougheed Animal Hospital,{},2019-05-19T14:14:02.000-07:00
+veterinary,49.0496861,-122.28741000000001,Gladys Pet Hospital,"{'opening_hours': 'Mo-Fr 08:00-20:00; Sa-Su 09:00-17:00', 'website': 'http://www.gladysvet.ca', 'phone': '+1-604-850-2000'}",2018-06-20T15:11:28.000-07:00

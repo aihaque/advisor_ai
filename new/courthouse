@@ -1,0 +1,3 @@
+amenity,lat,lon,name,tags,timestamp
+courthouse,49.281078,-123.12317920000001,Court of Appeal & Supreme Court,"{'addr:housenumber': '800', 'alt_name': 'Law Courts', 'addr:street': 'Smithe Street', 'wikidata': 'Q6503009', 'addr:city': 'Vancouver'}",2017-10-22T15:20:33.000-07:00
+courthouse,49.2813614,-123.12279290000001,Provincial Court of British Columbia,{'opening_hours': 'Mo-Fr 08:30-16:30'},2015-09-04T04:48:27.000-07:00

@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+photo_booth,49.0497737,-122.31189140000001,,"{'quantity': '4', 'level': '0', 'operator': 'Telus', 'fee': 'yes'}",2019-12-15T14:47:03.000-08:00

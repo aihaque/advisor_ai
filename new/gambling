@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+gambling,49.1325168,-122.30016280000001,Chances Mission,"{'opening_hours': '10:00-01:00', 'website': 'http://www.missionchances.com', 'entrance': 'yes', 'phone': '+1-604-820-4046'}",2018-06-20T15:12:30.000-07:00

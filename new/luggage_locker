@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+luggage_locker,49.0489861,-122.3124652,,"{'payment:coins': 'yes', 'level': '0', 'fee': 'yes'}",2016-12-11T20:06:21.000-08:00
