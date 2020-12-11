@@ -2,6 +2,7 @@ from GPSPhoto import gpsphoto
 import pandas as pd
 import numpy as np
 import math
+import mplleaflet
 from geopy import Nominatim
 import matplotlib.pyplot as plt
 from statsmodels.nonparametric.smoothers_lowess import lowess
@@ -96,7 +97,7 @@ def main():
     )
 
     model.fit(np.stack([df['Latitude']], axis=1), df['Longitude'])
-    x = np.linspace(df['Latitude'].max(), df['Latitude'].min(),100, dtype=np.longfloat)
+    x = np.linspace(df['Latitude'].max(), df['Latitude'].min(),10, dtype=np.longfloat)
     y = model.predict(np.stack([x], axis=1))
 
     plt.scatter(x,y)
@@ -128,6 +129,7 @@ def main():
 
     all_possible_amenities['amenity'] = joined['amenity']
     all_possible_amenities['city'] = joined['city']
+    all_possible_amenities['address'] = joined['address']
 
     all_possible_amenities = all_possible_amenities.groupby(['lat','lon']).min()
 
@@ -136,7 +138,24 @@ def main():
 
     print()
     print("I suggest you could go ")
-    print(suggested)
+    
+    suggested = suggested.reset_index()
+    p = suggested.drop(columns=['lat','lon'])
+    print(p)
+
+    plt.figure(figsize=(8,6))
+    fig = plt.figure()
+    #x = suggested[suggested['amenity'] == 'atm']
+    #x = x.reset_index()
+    #plt.scatter(x['lon'],x['lat'])
+    
+    plt.scatter(suggested['lon'],suggested['lat'])
+
+    filtered = lowess(suggested['lat'],suggested['lon'], frac=0.2)
+    plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
+
+    #plt.plot(x,y, 'r-', linewidth=3)
+    mplleaflet.show(fig=fig)
     #joined.to_csv('joined.csv', index=False)
 
 if __name__ == '__main__':
