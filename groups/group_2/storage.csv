@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+storage,49.0460673,-122.3738591,Super Self-Storage,"{'addr:housenumber': '30666', 'alt_name': 'Super Self-Storage - Abbotsford - Simpson Road', 'website': 'http://www.superselfstorage.ca/abbotsford-simpson-rd', 'old_name': 'Simpson Mini Storage', 'phone': '+1-604-850-1696', 'opening_hours': 'Mo-Fr 08:00-19:00; Sa-Su 09:00-17:00', 'addr:street': 'Simpson Road', 'office': 'company', 'addr:postcode': 'V2T 6C7', 'url': 'http://www.superselfstorage.ca'}",2019-09-02T22:08:26.000-07:00

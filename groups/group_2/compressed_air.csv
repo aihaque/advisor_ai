@@ -1,0 +1,9 @@
+amenity,lat,lon,name,tags,timestamp
+compressed_air,49.266764200000004,-123.0039018,,"{'access': 'yes', 'covered': 'no'}",2020-03-03T02:18:15.000-08:00
+compressed_air,49.214993299999996,-122.9892656,,{},2019-06-29T22:44:48.000-07:00
+compressed_air,49.2158232,-122.9240216,,{},2010-11-08T04:40:46.000-08:00
+compressed_air,49.1925335,-123.17151270000001,,{},2019-03-04T01:14:53.000-08:00
+compressed_air,49.188340999999994,-122.84516470000001,,{},2012-04-30T04:16:14.000-07:00
+compressed_air,49.27746810000001,-123.08761329999999,,"{'manometer': 'yes', 'description': 'Foot operated air pump for bicycles', 'valves': 'schrader', 'fee': 'no'}",2017-02-24T10:59:02.000-08:00
+compressed_air,49.2775297,-123.0745624,,"{'manometer': 'no', 'description': 'Self serve electric air pump for bicycles courtesy of Bomber Brewery', 'valves': 'schrader', 'operator': 'Bomber Brewery', 'fee': 'no'}",2018-06-22T04:58:26.000-07:00
+compressed_air,49.2113534,-122.9230707,,{},2010-12-19T07:21:48.000-08:00

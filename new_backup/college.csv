@@ -1,0 +1,24 @@
+amenity,lat,lon,name,tags,timestamp
+college,49.054850200000004,-122.31763319999999,"Kosmetae Academy of Spa, Aesthetics & Hair Design","{'website': 'http://www.kosmetae.com', 'phone': '+1-604-850-5777', 'addr:unit': '3'}",2018-06-20T15:11:15.000-07:00
+college,49.049596799999996,-122.29248020000001,Sprott Shaw College - Abbotsford Campus,"{'opening_hours': 'Mo-Fr 08:00-17:30', 'alt_name': 'Sprott Shaw Community College', 'website': 'http://sprottshaw.com/campuses/abbotsford-campus', 'phone': '+1-604-504-3323', 'addr:unit': '1'}",2018-06-20T15:10:25.000-07:00
+college,49.279591499999995,-123.1227808,New Image College,"{'addr:housenumber': '987', 'website': 'http://www.newimage.ca/', 'phone': '+1-866-354-6243', 'addr:street': 'Granville Street', 'addr:postcode': 'V6Z 1L3', 'addr:city': 'Vancouver'}",2019-09-02T17:44:42.000-07:00
+college,49.04766420000001,-122.3415506,Western Community College Abbotsford Campus,"{'opening_hours': '09:00-17:00', 'website': 'https://westerncommunitycollege.ca/', 'phone': '+1-604-594-3500', 'addr:unit': '100', 'operator': 'Western Community College'}",2019-02-19T07:38:30.000-08:00
+college,49.054981299999994,-122.3180851,Legends Academy,"{'opening_hours': 'Mo-Fr 09:00-17:00; Su off', 'website': 'http://legendsacademy.ca', 'phone': '+1-604-859-5777', 'addr:unit': '7'}",2019-09-02T22:08:25.000-07:00
+college,49.0505463,-122.3343072,Academy of Learning,"{'website': 'http://www.academyoflearning.com/bc/locations/abbotsford', 'addr:unit': '102'}",2015-05-03T05:05:54.000-07:00
+college,49.2791407,-123.11671240000001,Canada Capstone College,"{'addr:province': 'BC', 'addr:street': 'Robson Street', 'addr:city': 'Vancouver'}",2020-03-08T23:06:19.000-07:00
+college,49.0407569,-122.3379966,Vancouver Career College,{'website': 'https://vccollege.ca/'},2019-02-18T01:28:37.000-08:00
+college,49.2812082,-123.1148257,Lighthouse Labs,"{'addr:housenumber': '401', 'addr:street': 'West Georgia Street', 'addr:postcode': 'V6B 5A1', 'addr:unit': '600', 'addr:city': 'Vancouver'}",2019-09-13T13:57:07.000-07:00
+college,49.051382399999994,-122.31311470000001,Academy of Learning Career College,"{'website': 'http://www.academyoflearning.com/bc/locations/abbotsford', 'phone': '+1-604-855-3315', 'addr:unit': '103'}",2018-06-20T15:10:30.000-07:00
+college,49.2698201,-123.1377596,Pacific Institute Of Culinary Arts,"{'addr:housenumber': '1505', 'website': 'https://www.picachef.com/', 'addr:street': 'West 2nd Avenue', 'phone': '+1-604-734-4488'}",2019-03-22T02:47:40.000-07:00
+college,49.2738086,-122.9122497,Fraser International College,{},2020-03-03T06:30:05.000-08:00
+college,49.2633512,-123.11263590000001,Gateway College,{},2014-07-11T19:59:53.000-07:00
+college,49.1858393,-122.80058740000001,Success Surrey,"{'level': '2', 'alt_name': 'Pacific Link College'}",2019-04-23T14:31:43.000-07:00
+college,49.204358299999996,-122.8815972,CDI College Surrey,{},2018-08-12T19:15:49.000-07:00
+college,49.0363415,-122.2654756,The Acting Academy,{'addr:unit': 'B'},2016-02-28T18:44:24.000-08:00
+college,49.2876052,-123.1242165,Ashton College,"{'wikidata': 'Q4806022', 'website': 'https://www.ashtoncollege.ca/vancouver-campus/'}",2019-03-22T02:54:39.000-07:00
+college,49.060663299999995,-122.37950249999999,Ashton College,{},2017-11-13T04:25:59.000-08:00
+college,49.281659999999995,-123.12702970000001,Vanwest College,"{'addr:housenumber': '1016', 'addr:street': 'Nelson Street'}",2016-10-06T00:15:06.000-07:00
+college,49.261117299999995,-123.1168568,Blanche Macdonald Centre,{'note': 'Uptown Campus'},2019-04-22T02:18:42.000-07:00
+college,49.0520682,-122.31244869999999,IGE School,"{'website': 'http://www.iglobaledu.com', 'addr:unit': '9'}",2015-09-15T19:37:39.000-07:00
+college,49.0516172,-122.31553980000001,MTI Community College,"{'level': '3', 'addr:unit': '400'}",2016-12-07T06:31:09.000-08:00
+college,49.2104872,-122.93374990000001,Sprott-Shaw Community College,{},2012-02-27T23:10:05.000-08:00

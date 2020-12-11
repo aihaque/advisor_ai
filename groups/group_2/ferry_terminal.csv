@@ -1,0 +1,34 @@
+amenity,lat,lon,name,tags,timestamp
+ferry_terminal,49.375736200000006,-123.2721023,Horseshoe Bay Berth 1,"{'public_transport': 'stop_position', 'operator': 'BC Ferries', 'ferry': 'yes', 'network': 'BC Ferries'}",2019-05-13T00:46:30.000-07:00
+ferry_terminal,49.433784100000004,-123.4720085,Langdale Berth 1,"{'public_transport': 'stop_position', 'operator': 'BC Ferries', 'ferry': 'yes'}",2020-03-27T18:17:35.000-07:00
+ferry_terminal,49.3946781,-123.4838815,,{},2019-04-05T12:03:08.000-07:00
+ferry_terminal,49.395583200000004,-123.43312590000001,,{},2019-04-05T12:01:37.000-07:00
+ferry_terminal,49.3794889,-123.3313409,Snug Cove,"{'website': 'http://www.bcferries.com', 'phone': '+1-888-223-3779', 'ferry': 'yes', 'public_transport': 'stop_position', 'operator': 'BC Ferries', 'network': 'BC Ferries'}",2020-03-25T06:12:47.000-07:00
+ferry_terminal,49.3756821,-123.2718149,Horseshoe Bay,"{'ferry': 'yes', 'public_transport': 'station'}",2018-01-30T04:20:41.000-08:00
+ferry_terminal,49.278711200000004,-123.14701550000001,Maritime Museum Dock (False Creek Ferries),"{'website': 'https://granvilleislandferries.bc.ca/', 'public_transport': 'stop_position', 'operator': 'False Creek Ferries', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00
+ferry_terminal,49.2717105,-123.11795120000001,Yaletown Dock,"{'public_transport': 'stop_position', 'operator': 'Aquabus & False Creek Ferries', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00
+ferry_terminal,49.2742391,-123.1343703,Hornby Terminal (Aquabus),"{'public_transport': 'stop_position', 'operator': 'Aquabus', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00
+ferry_terminal,49.3762688,-123.2710213,Horseshoe Bay Berth 3,"{'public_transport': 'stop_position', 'operator': 'BC Ferries', 'ferry': 'yes', 'network': 'BC Ferries'}",2019-05-13T00:46:30.000-07:00
+ferry_terminal,49.29030529999999,-123.1163467,V2V Vacations Vancouver Dock,"{'description': 'Daily trips to Downtown Victoria', 'website': 'www.V2Vvacations.com', 'public_transport': 'station', 'operator': 'V2V Vacations', 'ferry': 'yes'}",2019-08-29T17:32:53.000-07:00
+ferry_terminal,49.199459000000004,-122.91181370000001,,"{'ferry': 'yes', 'public_transport': 'platform'}",2018-06-14T05:36:12.000-07:00
+ferry_terminal,49.276568299999994,-123.13672679999999,Aquatic Centre Dock (False Creek Ferries),"{'website': 'https://granvilleislandferries.bc.ca/', 'public_transport': 'stop_position', 'operator': 'False Creek Ferries', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00
+ferry_terminal,49.2710109,-123.1155125,Spyglass Dock,"{'public_transport': 'stop_position', 'operator': 'Aquabus & False Creek Ferries', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00
+ferry_terminal,49.193604799999996,-122.9219632,,{},2018-06-14T05:36:12.000-07:00
+ferry_terminal,49.273231,-123.1360331,Granville Island Dock (False Creek Ferries),"{'website': 'https://granvilleislandferries.bc.ca/', 'public_transport': 'stop_position', 'operator': 'False Creek Ferries', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00
+ferry_terminal,49.3759414,-123.2716129,Horseshoe Bay Berth 2,"{'wheelchair': 'yes', 'addr:housenumber': '6750', 'website': 'http://www.bcferries.com', 'internet_access': 'wlan', 'phone': '+1-888-223-3779', 'ferry': 'yes', 'public_transport': 'stop_position', 'addr:street': 'Keith Road', 'source': 'PGS', 'operator': 'BC Ferries', 'network': 'BC Ferries'}",2020-03-27T17:01:50.000-07:00
+ferry_terminal,49.2694191,-123.11875819999999,Stamps Landing Dock,"{'public_transport': 'stop_position', 'operator': 'Aquabus & False Creek Ferries', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00
+ferry_terminal,49.0065148,-123.13241699999999,Tsawwassen Berth 4,"{'operator': 'BC Ferries', 'network': 'BC Ferries'}",2019-05-13T00:52:06.000-07:00
+ferry_terminal,49.2870136,-123.10902490000001,Waterfront,"{'wheelchair': 'yes', 'website': 'https://translink.ca/', 'public_transport': 'station', 'cargo': 'passengers', 'ferry': 'yes'}",2019-08-29T17:32:53.000-07:00
+ferry_terminal,49.274198600000005,-123.1098162,Plaza of Nations Dock,"{'public_transport': 'stop_position', 'operator': 'Aquabus & False Creek Ferries', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00
+ferry_terminal,49.2724874,-123.10564769999999,Village Dock,"{'public_transport': 'stop_position', 'operator': 'Aquabus & False Creek Ferries', 'ferry': 'yes'}",2020-03-31T01:00:27.000-07:00
+ferry_terminal,49.006194,-123.12945570000001,Tsawwassen Berth 2,"{'operator': 'BC Ferries', 'ferry_terminal': 'stop_position', 'network': 'BC Ferries'}",2020-03-27T17:01:50.000-07:00
+ferry_terminal,49.0069336,-123.1332142,Tsawwassen Berth 5,"{'operator': 'BC Ferries', 'network': 'BC Ferries'}",2019-05-13T00:52:06.000-07:00
+ferry_terminal,49.0060626,-123.131684,Tsawwassen Berth 3,"{'operator': 'BC Ferries', 'ferry': 'yes', 'network': 'BC Ferries'}",2019-05-13T00:52:06.000-07:00
+ferry_terminal,49.0062901,-123.1289502,Tsawwassen Berth 1,{'network': 'BC Ferries'},2019-05-13T00:52:06.000-07:00
+ferry_terminal,49.272485100000004,-123.13394299999999,Granville Island Terminal (Aquabus),"{'public_transport': 'stop_position', 'operator': 'Aquabus', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00
+ferry_terminal,49.3095361,-123.0838831,Lonsdale Quay,"{'wheelchair': 'yes', 'ferry': 'yes', 'public_transport': 'station', 'wikipedia': 'en:Lonsdale Quay (TransLink)', 'cargo': 'passengers', 'wikidata': 'Q28233228'}",2020-03-25T06:16:23.000-07:00
+ferry_terminal,49.1922685,-122.72346040000001,Branston Island,"{'public_transport': 'station', 'operator': 'Province of British Columbia', 'ferry': 'yes'}",2020-05-19T06:56:35.000-07:00
+ferry_terminal,49.1919072,-122.7261463,Port Kells,"{'public_transport': 'station', 'operator': 'Province of British Columbia', 'ferry': 'yes'}",2020-05-19T06:56:35.000-07:00
+ferry_terminal,49.433937,-123.47234170000002,Langdale,"{'public_transport': 'stop_position', 'operator': 'BC Ferries', 'ferry': 'yes', 'network': 'BC Ferries'}",2020-03-27T18:17:35.000-07:00
+ferry_terminal,49.4500046,-123.4398586,,{},2019-04-05T12:03:08.000-07:00
+ferry_terminal,49.2704846,-123.1251929,David Lam Park Terminal,"{'public_transport': 'stop_position', 'operator': 'Aquabus & False Creek Ferries', 'ferry': 'yes'}",2020-03-27T17:40:40.000-07:00

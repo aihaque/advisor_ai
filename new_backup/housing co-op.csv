@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+housing co-op,49.2675494,-123.16482169999999,Trafalgar Housing Co-op,"{'addr:housenumber': '2605', 'addr:street': 'West 5th Avenue', 'addr:interpolation': 'housing co-op', 'addr:postcode': 'V6K 1T2', 'addr:city': 'Vancouver'}",2014-01-23T03:19:20.000-08:00

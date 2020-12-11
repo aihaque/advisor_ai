@@ -1,6 +1,7 @@
 from geopy import Nominatim
 import pandas as pd
 import numpy as np
+import os
 
 def set_city(df):
     cor = (df['lat'],df['lon'])
@@ -16,9 +17,14 @@ def set_city(df):
     return df
 
 geolocator = Nominatim(user_agent = 'test_1')
-df = pd.read_csv('new/social_centre')
-df = df.apply(set_city,axis=1)
-df.to_csv('group_withcity/social_centre.csv', index=False)
+big_df = []
+for filename in os.listdir('grouped_new'):
+    df = pd.read_csv('grouped_new/'+filename)
+    df = df.apply(set_city,axis=1)
+    big_df.append(df)
+
+concat_df = pd.concat(big_df)    
+concat_df.to_csv('test.csv', index=False)
 
 #avg_df = pd.read_csv('avg_latlon.csv')
 #avg_df = avg_df .apply(set_city,axis=1)

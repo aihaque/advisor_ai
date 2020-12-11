@@ -1,0 +1,32 @@
+amenity,lat,lon,name,tags,timestamp
+car_wash,49.268113899999996,-123.1393199,M & J Car Wash,{},2016-01-11T00:17:10.000-08:00
+car_wash,49.324383600000004,-123.07197859999998,Esso Car Wash,{},2012-12-31T01:10:25.000-08:00
+car_wash,49.2158352,-122.97104709999999,Shine Car Wash,"{'opening_hours': '24/7', 'addr:housenumber': '7500', 'addr:street': 'Gilley Avenue'}",2019-06-13T04:21:28.000-07:00
+car_wash,49.2699198,-122.79097079999998,Westwood Self Serve Car Wash,{},2016-05-12T23:35:35.000-07:00
+car_wash,49.1118526,-122.6445145,Esso Car Wash,"{'addr:housenumber': '6036', 'addr:street': 'Glover Road'}",2016-10-10T23:10:08.000-07:00
+car_wash,49.0545697,-122.32623419999999,,{'operator': 'Husky'},2015-07-05T15:07:13.000-07:00
+car_wash,49.1921835,-123.12843799999999,Richmond Auto Wash,"{'website': 'http://autowash.ca/richmond', 'name:en': 'Richmond Auto Wash', 'name:zh': '自动洗车'}",2018-08-21T23:27:54.000-07:00
+car_wash,49.2771422,-122.83415,Street Legal Tint & Detail,"{'addr:housenumber': '3206', 'website': 'http://www.streetlegaltint.com', 'phone': '+1-604-461-8859', 'self_service': 'no', 'description': 'Automotive appearance specialist', 'addr:street': 'Saint Johns Street', 'addr:postcode': 'V3H 2C9', 'operator': 'Roger M. Hipolito', 'email': 'roger@streetlegaltint.com', 'addr:city': 'Port Moody'}",2019-09-13T13:57:05.000-07:00
+car_wash,49.051477500000004,-122.3114368,Abbotsford Car Buff Centre,"{'website': 'https://www.abbotsfordcarbuff.com', 'addr:unit': 'C'}",2019-02-19T17:01:45.000-08:00
+car_wash,49.223955,-122.98716329999999,Oasis Car Wash,"{'self_service': 'no', 'automated': 'yes', 'operator': 'Oasis Car Wash'}",2013-01-12T16:44:09.000-08:00
+car_wash,49.263982899999995,-123.1450779,,{'operator': 'Esso'},2015-03-24T04:24:15.000-07:00
+car_wash,49.058895,-122.49347079999998,,{},2012-12-25T08:02:40.000-08:00
+car_wash,49.104085,-122.668225,Petro-Canada Car Wash,"{'opening_hours': 'Mo-Su 06:00-21:00', 'addr:housenumber': '5590', 'addr:street': '200 Street', 'operator': 'Petro-Canada'}",2019-08-28T20:00:45.000-07:00
+car_wash,49.234410100000005,-123.1850239,,{},2019-01-16T05:29:53.000-08:00
+car_wash,49.117366499999996,-122.6691577,,{},2014-04-17T06:41:17.000-07:00
+car_wash,49.056948600000005,-122.44804640000001,,{'operator': 'Esso'},2017-05-31T18:58:58.000-07:00
+car_wash,49.0453584,-122.28546429999999,excellence AUTO GALLERY,"{'description': 'Auto Sales, Auto Detailing', 'shop': 'car', 'phone': '+1-604-746-0110', 'second_hand': 'only'}",2018-02-09T04:59:59.000-08:00
+car_wash,49.1917106,-123.0919726,Mobil 1 Lube Express,"{'addr:housenumber': '3011', 'addr:street': 'No. 5 Road'}",2018-10-16T04:42:54.000-07:00
+car_wash,49.1186824,-122.6680828,,{},2019-11-03T07:11:29.000-08:00
+car_wash,49.177690000000005,-122.889541,Shell,"{'addr:housenumber': '9620', 'name:en': 'Shell', 'addr:street': '120 Street'}",2017-02-11T02:25:22.000-08:00
+car_wash,49.2216916,-122.9903604,Golden Car Wash,{},2018-08-16T04:45:47.000-07:00
+car_wash,49.037793799999996,-122.2675986,,{},2018-04-27T16:52:22.000-07:00
+car_wash,49.1765132,-122.66976319999999,Truck Wash & DAI Scale,{'name:en': 'Truck Wash & DAI Scale'},2016-10-17T21:49:26.000-07:00
+car_wash,49.2347417,-122.77033359999999,Shell,"{'opening_hours': '24/7', 'self_service': 'yes', 'automated': 'yes'}",2013-01-05T07:16:44.000-08:00
+car_wash,49.2770237,-122.8417379,,{},2017-02-25T15:22:10.000-08:00
+car_wash,49.2469313,-122.8937102,,{},2018-05-05T21:21:46.000-07:00
+car_wash,49.0621521,-122.38986240000001,Pristine Details Ltd,"{'opening_hours:signed': 'no', 'website': 'https://www.pristinedetailers.com', 'addr:unit': '105'}",2019-04-14T20:59:41.000-07:00
+car_wash,49.1109198,-122.6727619,Speed Wash,"{'addr:housenumber': '19869', 'addr:street': 'Fraser Highway', 'addr:city': 'Langley'}",2019-09-13T13:57:03.000-07:00
+car_wash,49.039930700000006,-122.27615379999999,The Detail Shop,"{'website': 'http://www.detailshop.ca', 'shop': 'car_repair', 'phone': '+1-604-746-9274', 'opening_hours': 'Tu-Sa 08:30-17:00', 'description': 'Auto Detailing & Glass Repair', 'addr:unit': '20'}",2018-02-09T04:59:50.000-08:00
+car_wash,49.057032299999996,-122.4499135,PF AUTO WASH,{'operator': 'Paz Fuels'},2017-06-07T01:59:53.000-07:00
+car_wash,49.1076605,-122.6860433,,{},2019-06-03T03:16:01.000-07:00

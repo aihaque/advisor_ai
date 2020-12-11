@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+training,49.2868278,-123.1255033,TCP Training Centers Vancouver,"{'addr:housenumber': '1188', 'website': 'http://www.tcptrainingcenters.com', 'phone': '+1-844-465-2935', 'addr:street': 'West Georgia Street', 'addr:postcode': 'V6E 4A2', 'addr:unit': '1800', 'email': 'info@tcptrainingcenters.com', 'addr:city': 'Vancouver'}",2019-10-28T15:41:35.000-07:00

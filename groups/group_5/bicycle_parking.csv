@@ -1,0 +1,1424 @@
+amenity,lat,lon,name,tags,timestamp
+bicycle_parking,49.2468625,-123.1850969,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2472436,-123.1853205,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.248935499999995,-123.18539969999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.246989899999996,-123.18533390000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.247578000000004,-123.18509909999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2464881,-123.1853388,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2478155,-123.18509340000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.246294799999994,-123.1853352,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.24794179999999,-123.1850936,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2456385,-123.1853525,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2459775,-123.1854162,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2482362,-123.18509209999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2484209,-123.1853606,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '2'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2484422,-123.18508490000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2483763,-123.18536090000002,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '2'}",2019-05-06T23:38:17.000-07:00
+bicycle_parking,49.2577919,-123.1860899,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-05-06T23:08:08.000-07:00
+bicycle_parking,49.2572358,-123.18499750000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:08:08.000-07:00
+bicycle_parking,49.2574787,-123.18522659999998,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:08:08.000-07:00
+bicycle_parking,49.257101299999995,-123.1849979,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2494094,-123.1850774,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.245463799999996,-123.18535530000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.2468003,-123.18510090000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.2474745,-123.1853244,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.2348473,-123.1839973,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.2567853,-123.1849509,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2358845,-123.1854364,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.234668299999996,-123.18352,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.2348477,-123.18409640000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.23571389999999,-123.1854386,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.2346896,-123.18272240000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T00:22:15.000-07:00
+bicycle_parking,49.2348485,-123.1842002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:15.000-07:00
+bicycle_parking,49.2356266,-123.18544340000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T00:22:15.000-07:00
+bicycle_parking,49.243803899999996,-123.1873226,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-05-06T23:53:07.000-07:00
+bicycle_parking,49.243356799999994,-123.18768,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-05-06T23:53:07.000-07:00
+bicycle_parking,49.2432036,-123.18825179999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2019-05-06T23:53:07.000-07:00
+bicycle_parking,49.2485831,-123.1850872,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.2482659,-123.1853558,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '2'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.246374700000004,-123.18510520000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.2488824,-123.18508130000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.2481487,-123.18552509999999,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '2'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.246691,-123.18510020000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.2489315,-123.1847989,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '5'}",2019-05-06T23:38:18.000-07:00
+bicycle_parking,49.256792499999996,-123.1852821,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2822124,-123.12769140000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-08-22T22:44:03.000-07:00
+bicycle_parking,49.2567592,-123.185286,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '2'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2566753,-123.18494409999998,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2639717,-123.20919029999999,,"{'bicycle_parking': 'rack', 'capacity': '7'}",2017-06-08T06:16:02.000-07:00
+bicycle_parking,49.2577186,-123.18523859999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:08:08.000-07:00
+bicycle_parking,49.3375561,-123.10219170000002,,"{'access': 'yes', 'bicycle_parking': 'rack', 'capacity': '12'}",2017-11-17T02:30:20.000-08:00
+bicycle_parking,49.1024922,-122.65786750000001,,"{'bicycle_parking': 'bollard', 'capacity': '3'}",2019-05-02T06:04:04.000-07:00
+bicycle_parking,49.2792972,-123.1208122,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-10-24T00:30:06.000-07:00
+bicycle_parking,49.2787509,-123.1274612,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-18T16:47:45.000-07:00
+bicycle_parking,49.2789866,-123.12548340000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-09-10T20:10:26.000-07:00
+bicycle_parking,49.279499200000004,-123.1207848,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-24T00:30:06.000-07:00
+bicycle_parking,49.281863799999996,-123.11738390000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-10-06T20:11:33.000-07:00
+bicycle_parking,49.2818936,-123.1136206,,{'capacity': '3'},2018-03-02T04:32:36.000-08:00
+bicycle_parking,49.2815706,-123.11036670000001,,"{'bicycle_parking': 'stands', 'capacity': '16'}",2018-06-07T20:05:42.000-07:00
+bicycle_parking,49.231262,-123.1190331,,{},2018-09-29T18:27:16.000-07:00
+bicycle_parking,49.2862724,-123.12148970000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-10-09T18:23:50.000-07:00
+bicycle_parking,49.286350899999995,-123.121597,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-10-09T18:23:49.000-07:00
+bicycle_parking,49.2869537,-123.11319950000001,,{'capacity': '3'},2018-08-30T01:32:26.000-07:00
+bicycle_parking,49.286787700000005,-123.11336419999999,,{'capacity': '8'},2018-08-30T01:32:26.000-07:00
+bicycle_parking,49.2865486,-123.11282309999999,,{'level': '1'},2018-02-09T18:00:23.000-08:00
+bicycle_parking,49.286516999999996,-123.11245349999999,,{'level': '1'},2018-02-09T18:00:23.000-08:00
+bicycle_parking,49.234843,-123.18375970000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.051581799999994,-122.31695900000001,,"{'bicycle_parking': 'rack', 'capacity': '6'}",2019-11-16T23:17:19.000-08:00
+bicycle_parking,49.2833149,-123.1295736,,"{'bicycle_parking': 'stands', 'capacity': '5'}",2019-08-16T20:29:44.000-07:00
+bicycle_parking,49.27822379999999,-123.1209134,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-10-16T20:38:21.000-07:00
+bicycle_parking,49.2739491,-122.7992121,,{},2018-10-15T02:13:34.000-07:00
+bicycle_parking,49.2567065,-123.18528549999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2566167,-123.1849459,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2566768,-123.18528799999999,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '2'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2565747,-123.1848892,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2561351,-123.1852942,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.256212299999994,-123.1849991,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.256013200000005,-123.18500390000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.2559282,-123.1850031,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-06T23:08:07.000-07:00
+bicycle_parking,49.280525700000005,-123.1311913,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '2'}",2019-11-08T18:33:49.000-08:00
+bicycle_parking,49.27857879999999,-123.12032679999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-16T20:08:44.000-07:00
+bicycle_parking,49.280788,-123.13139679999999,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '3'}",2019-09-07T20:09:16.000-07:00
+bicycle_parking,49.2825321,-123.111501,,{},2016-05-10T17:43:10.000-07:00
+bicycle_parking,49.2823698,-123.1112686,,{},2016-05-10T17:43:11.000-07:00
+bicycle_parking,49.2823394,-123.1094202,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-06T22:14:06.000-07:00
+bicycle_parking,49.282782,-123.1098175,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '11'}",2019-10-11T03:27:53.000-07:00
+bicycle_parking,49.2827091,-123.11171609999998,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-06T22:14:05.000-07:00
+bicycle_parking,49.2823544,-123.1127168,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '15'}",2019-10-06T22:14:05.000-07:00
+bicycle_parking,49.2785643,-123.1199726,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-16T20:08:46.000-07:00
+bicycle_parking,49.2346866,-123.18377009999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.2734065,-123.1325775,,{},2019-08-17T05:48:34.000-07:00
+bicycle_parking,49.234687799999996,-123.1838581,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.234842799999996,-123.1837082,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.2118592,-122.9206625,,"{'source': 'gps/photo survey', 'operator': 'New West Cycle', 'capacity': '6'}",2010-10-23T17:09:14.000-07:00
+bicycle_parking,49.2103295,-122.9168631,,"{'source': 'gps/photo survey', 'operator': 'New West Cycle', 'capacity': '6'}",2010-10-23T17:09:12.000-07:00
+bicycle_parking,49.211884600000005,-122.91878059999999,,"{'source': 'gps/photo survey', 'operator': 'New West Cycle', 'capacity': '6'}",2010-10-23T17:09:13.000-07:00
+bicycle_parking,49.209782700000005,-122.9161445,,"{'source': 'gps/photo survey', 'operator': 'New West Cycle', 'capacity': '6'}",2010-10-23T17:09:14.000-07:00
+bicycle_parking,49.212332200000006,-122.9198048,,"{'source': 'gps/photo survey', 'operator': 'New West Cycle', 'capacity': '6'}",2010-10-23T17:09:07.000-07:00
+bicycle_parking,49.0387372,-122.2757112,,"{'bicycle_parking': 'rack', 'covered': 'no', 'fee': 'no', 'capacity': '6'}",2019-12-25T17:54:41.000-08:00
+bicycle_parking,49.41586160000001,-123.32012160000001,,{},2019-12-13T13:01:59.000-08:00
+bicycle_parking,49.24920170000001,-123.20532079999998,,{},2016-03-14T07:37:14.000-07:00
+bicycle_parking,49.0620006,-122.37903259999999,,"{'bicycle_parking': 'wall_loops', 'covered': 'no', 'capacity': '4'}",2019-01-12T21:24:41.000-08:00
+bicycle_parking,49.2819179,-123.1063571,,{},2019-10-11T19:48:31.000-07:00
+bicycle_parking,49.259463399999994,-123.0444648,,{},2018-06-14T08:02:55.000-07:00
+bicycle_parking,49.2595848,-123.0444587,,{},2018-06-14T08:02:55.000-07:00
+bicycle_parking,49.279979700000005,-123.10548610000001,,{},2018-05-16T00:50:55.000-07:00
+bicycle_parking,49.355252,-123.013021,,{},2014-11-24T21:04:36.000-08:00
+bicycle_parking,49.2481459,-122.808047,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '3'}",2019-11-02T20:18:36.000-07:00
+bicycle_parking,49.275777000000005,-123.1323798,,{},2019-08-17T05:48:33.000-07:00
+bicycle_parking,49.2758493,-123.13227040000001,,{},2019-08-17T05:48:34.000-07:00
+bicycle_parking,49.2711854,-123.1146933,,{},2017-05-31T19:22:37.000-07:00
+bicycle_parking,49.2580515,-123.2514632,,{'capacity': '4'},2019-08-16T02:32:05.000-07:00
+bicycle_parking,49.2116684,-122.9209682,,"{'operator': 'New West Cycle', 'capacity': '6'}",2010-10-23T17:09:15.000-07:00
+bicycle_parking,49.2155098,-122.92318600000002,,{'capacity': '4'},2010-10-23T17:08:42.000-07:00
+bicycle_parking,49.211738200000006,-122.9184752,,"{'operator': 'New West Cycle', 'capacity': '6'}",2010-10-23T17:08:56.000-07:00
+bicycle_parking,49.1680237,-122.58015870000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-07-27T03:29:02.000-07:00
+bicycle_parking,49.0365026,-122.31063700000001,,{},2018-03-26T10:28:26.000-07:00
+bicycle_parking,49.082257299999995,-122.28427909999999,,{'capacity': '6'},2018-03-25T22:21:56.000-07:00
+bicycle_parking,49.023579299999994,-122.2051174,,{},2016-04-02T01:11:17.000-07:00
+bicycle_parking,49.0287999,-122.28338980000001,,{},2016-03-29T19:27:51.000-07:00
+bicycle_parking,49.0440277,-122.77666979999998,,{},2019-01-21T23:03:55.000-08:00
+bicycle_parking,49.2592226,-123.1006662,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2019-07-28T20:30:26.000-07:00
+bicycle_parking,49.1675718,-122.5806914,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-07-27T20:51:13.000-07:00
+bicycle_parking,49.168788299999996,-122.58141780000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-07-27T20:51:13.000-07:00
+bicycle_parking,49.2385259,-123.03192759999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '12'}",2019-07-26T21:38:40.000-07:00
+bicycle_parking,49.2133555,-122.92046450000001,,{'capacity': '3'},2010-10-23T17:08:57.000-07:00
+bicycle_parking,49.193011299999995,-122.8234619,,{},2018-10-15T06:46:57.000-07:00
+bicycle_parking,49.1566219,-122.91263020000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'fee': 'no'}",2019-06-25T02:54:10.000-07:00
+bicycle_parking,49.1558509,-122.91175290000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'fee': 'no'}",2019-06-25T02:54:10.000-07:00
+bicycle_parking,49.284634000000004,-122.83482509999999,,{},2010-10-24T18:18:21.000-07:00
+bicycle_parking,49.2126071,-122.91958400000001,,{'capacity': '5'},2010-10-23T17:09:03.000-07:00
+bicycle_parking,49.2140726,-122.9213741,,"{'operator': 'New West Cycle', 'capacity': '6'}",2010-10-23T17:09:01.000-07:00
+bicycle_parking,49.2096898,-122.9159307,,"{'ref': '47', 'operator': 'New West Cycle', 'capacity': '6'}",2010-10-23T17:09:00.000-07:00
+bicycle_parking,49.214955700000004,-122.92250290000001,,"{'operator': 'New West Cycle', 'capacity': '4'}",2010-10-23T17:08:59.000-07:00
+bicycle_parking,49.257014,-123.2513092,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '12'}",2019-08-16T02:32:05.000-07:00
+bicycle_parking,49.2871154,-123.11626159999999,,{},2018-09-01T01:42:47.000-07:00
+bicycle_parking,49.244509,-123.0462909,,{},2017-09-07T07:23:05.000-07:00
+bicycle_parking,49.2349555,-123.1852138,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T00:22:17.000-07:00
+bicycle_parking,49.2795532,-123.11994740000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-24T00:30:02.000-07:00
+bicycle_parking,49.2785319,-123.11861359999999,,"{'covered': 'no', 'capacity': '4'}",2017-10-13T04:11:08.000-07:00
+bicycle_parking,49.278591999999996,-123.1187044,,"{'covered': 'no', 'capacity': '4'}",2017-10-13T04:11:06.000-07:00
+bicycle_parking,49.26670120000001,-123.25479009999998,,{},2016-01-13T04:30:47.000-08:00
+bicycle_parking,49.2346891,-123.1825966,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:17.000-07:00
+bicycle_parking,49.2348836,-123.184795,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '3'}",2019-05-07T00:22:17.000-07:00
+bicycle_parking,49.23557589999999,-123.1854436,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T00:22:17.000-07:00
+bicycle_parking,49.234689,-123.18255409999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:17.000-07:00
+bicycle_parking,49.23565870000001,-123.1854396,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:17.000-07:00
+bicycle_parking,49.2793594,-123.1197514,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-24T00:30:04.000-07:00
+bicycle_parking,49.2346876,-123.1824094,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:17.000-07:00
+bicycle_parking,49.2351831,-123.1852126,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:17.000-07:00
+bicycle_parking,49.2351405,-123.18544569999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T00:22:17.000-07:00
+bicycle_parking,49.23465770000001,-123.1822533,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.2363131,-123.1851987,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.234695200000004,-123.18446429999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.234888700000006,-123.1836953,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '6'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.2346955,-123.184418,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T00:22:16.000-07:00
+bicycle_parking,49.279510200000004,-123.119878,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-24T00:30:03.000-07:00
+bicycle_parking,49.2792847,-123.11963429999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-24T00:30:04.000-07:00
+bicycle_parking,49.2443605,-123.046001,,"{'operator': 'C-Media, TransLink', 'fee': 'yes'}",2017-09-07T06:25:36.000-07:00
+bicycle_parking,49.281454700000005,-123.1163534,,{'capacity': '3'},2018-03-02T04:32:35.000-08:00
+bicycle_parking,49.2444199,-123.0460514,,{},2017-09-07T06:26:13.000-07:00
+bicycle_parking,49.2602123,-123.0697279,,{},2019-12-05T06:40:51.000-08:00
+bicycle_parking,49.2782989,-123.127827,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-10T20:10:24.000-07:00
+bicycle_parking,49.2783352,-123.12790259999998,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-09-10T20:10:30.000-07:00
+bicycle_parking,49.282003700000004,-123.1129271,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '5'}",2019-10-06T22:14:03.000-07:00
+bicycle_parking,49.278565500000006,-123.1217892,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-24T00:30:12.000-07:00
+bicycle_parking,49.281957500000004,-123.1129837,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-06T22:14:02.000-07:00
+bicycle_parking,49.276663,-123.12286940000001,,{},2016-01-20T00:42:53.000-08:00
+bicycle_parking,49.28051729999999,-123.1189713,,{'capacity': '4'},2017-07-08T03:36:59.000-07:00
+bicycle_parking,49.2797903,-123.1203378,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-24T00:30:05.000-07:00
+bicycle_parking,49.2488477,-123.10076370000002,,"{'bicycle_parking': 'stands', 'covered': 'no'}",2019-07-11T02:57:08.000-07:00
+bicycle_parking,49.248850700000006,-123.1005747,,"{'bicycle_parking': 'stands', 'covered': 'no'}",2019-07-11T02:57:10.000-07:00
+bicycle_parking,49.2801809,-123.11813629999999,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '2'}",2019-10-09T22:10:33.000-07:00
+bicycle_parking,49.2953326,-123.15069809999999,,"{'source': 'survey', 'capacity': '42'}",2015-08-03T07:09:48.000-07:00
+bicycle_parking,49.265199200000005,-123.0698146,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-03-19T00:52:51.000-07:00
+bicycle_parking,49.2872065,-123.1290003,,{'capacity': '5'},2018-08-22T19:13:17.000-07:00
+bicycle_parking,49.285743700000005,-123.1169782,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-12-10T04:22:38.000-08:00
+bicycle_parking,49.282489399999996,-123.10933179999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-10-06T22:14:02.000-07:00
+bicycle_parking,49.286556299999994,-123.1126179,,{'level': '1'},2018-02-09T18:00:23.000-08:00
+bicycle_parking,49.2634663,-123.1236509,,{'capacity': '6'},2017-05-29T00:35:23.000-07:00
+bicycle_parking,49.2769667,-123.1252686,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '2'}",2019-10-18T16:58:04.000-07:00
+bicycle_parking,49.2769032,-123.12644350000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-10-06T04:37:32.000-07:00
+bicycle_parking,49.0647528,-122.3729278,,{'capacity': '4'},2019-07-05T02:32:45.000-07:00
+bicycle_parking,49.285222,-123.1221291,,"{'bicycle_parking': 'stands', 'capacity': '5'}",2019-08-16T20:29:13.000-07:00
+bicycle_parking,49.2845977,-123.12114890000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-08-21T03:23:52.000-07:00
+bicycle_parking,49.2850045,-123.11868600000001,,"{'bicycle_parking': 'stands', 'capacity': '5'}",2019-08-16T20:29:11.000-07:00
+bicycle_parking,49.2850464,-123.11562099999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-09T17:48:49.000-07:00
+bicycle_parking,49.285095899999995,-123.11569340000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-09T17:48:47.000-07:00
+bicycle_parking,49.285524200000005,-123.12301699999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-08-23T03:26:00.000-07:00
+bicycle_parking,49.2853135,-123.1191666,,"{'bicycle_parking': 'stands', 'capacity': '5'}",2019-08-16T20:29:09.000-07:00
+bicycle_parking,49.207865399999996,-122.6180129,,{},2016-05-04T00:41:14.000-07:00
+bicycle_parking,49.1983101,-122.5949263,,{},2016-05-04T00:41:11.000-07:00
+bicycle_parking,49.1715063,-122.5779246,,{},2016-05-04T00:41:08.000-07:00
+bicycle_parking,49.1713968,-122.57814599999999,,{},2016-05-04T00:41:08.000-07:00
+bicycle_parking,49.2803369,-123.11097269999999,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '5'}",2019-10-11T03:27:52.000-07:00
+bicycle_parking,49.2799302,-123.12710700000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-09-10T20:10:26.000-07:00
+bicycle_parking,49.2846624,-123.12023070000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '10'}",2019-04-02T21:02:00.000-07:00
+bicycle_parking,49.2621513,-123.06927009999998,,{},2017-11-02T05:48:51.000-07:00
+bicycle_parking,49.2780136,-123.1346127,,{'capacity': '4'},2017-10-27T01:50:20.000-07:00
+bicycle_parking,49.2818885,-123.12950719999999,,"{'bicycle_parking': 'stands', 'capacity': '6'}",2019-08-22T22:44:02.000-07:00
+bicycle_parking,49.2779151,-123.12725490000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-21T20:34:21.000-07:00
+bicycle_parking,49.0647521,-122.37300649999999,,{'capacity': '4'},2019-07-05T02:32:45.000-07:00
+bicycle_parking,49.0647086,-122.3731413,,{'capacity': '4'},2019-07-05T02:32:45.000-07:00
+bicycle_parking,49.2841586,-123.1002344,,{},2018-05-26T04:31:11.000-07:00
+bicycle_parking,49.272322499999994,-123.20281940000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '11'}",2017-07-12T05:31:02.000-07:00
+bicycle_parking,49.271506200000005,-123.20491200000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '8'}",2017-07-12T05:31:02.000-07:00
+bicycle_parking,49.271399100000004,-123.2045374,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '9'}",2017-07-12T05:31:02.000-07:00
+bicycle_parking,49.2751027,-123.20142759999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2017-07-12T05:31:02.000-07:00
+bicycle_parking,49.2752287,-123.2014317,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2017-07-12T05:31:02.000-07:00
+bicycle_parking,49.275175299999994,-123.20143970000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2017-07-12T05:31:02.000-07:00
+bicycle_parking,49.2751377,-123.2014357,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2017-07-12T05:31:02.000-07:00
+bicycle_parking,49.27525670000001,-123.2014249,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2017-07-12T05:31:02.000-07:00
+bicycle_parking,49.272989700000004,-123.20306770000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2017-07-12T05:31:02.000-07:00
+bicycle_parking,49.255900399999994,-123.11251200000001,,{},2018-01-12T03:26:22.000-08:00
+bicycle_parking,49.28285,-123.10844660000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-10T23:33:32.000-07:00
+bicycle_parking,49.260242,-123.24872020000001,,{},2010-09-21T00:23:54.000-07:00
+bicycle_parking,49.283221600000005,-123.10878249999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-10-10T23:33:13.000-07:00
+bicycle_parking,49.265829,-122.7395429,,{},2018-05-12T21:40:20.000-07:00
+bicycle_parking,49.2644519,-122.7398077,,{},2018-05-12T21:40:20.000-07:00
+bicycle_parking,49.049849200000004,-122.259846,,{},2018-05-12T05:25:32.000-07:00
+bicycle_parking,49.041448700000004,-122.2973358,,"{'note': ""it's really crappy""}",2018-05-12T05:17:40.000-07:00
+bicycle_parking,49.2714895,-123.11109040000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '12'}",2019-03-30T19:14:35.000-07:00
+bicycle_parking,49.2590901,-123.25318519999999,,"{'bicycle_parking': 'shed', 'covered': 'yes'}",2019-09-21T04:03:35.000-07:00
+bicycle_parking,49.2769581,-123.1263582,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-10-06T04:37:32.000-07:00
+bicycle_parking,49.276876200000004,-123.12648610000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-10-06T04:37:32.000-07:00
+bicycle_parking,49.2767411,-123.1250123,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'type': 'rack', 'capacity': '2'}",2019-11-23T22:35:07.000-08:00
+bicycle_parking,49.276821999999996,-123.1265743,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-10-06T04:37:32.000-07:00
+bicycle_parking,49.253862100000006,-123.2354034,,{'capacity': '4'},2011-04-06T19:00:32.000-07:00
+bicycle_parking,49.255337299999994,-123.2343822,,{'capacity': '5'},2011-04-06T05:55:50.000-07:00
+bicycle_parking,49.2550159,-123.2354561,,{'capacity': '4'},2011-04-06T05:55:49.000-07:00
+bicycle_parking,49.254892100000006,-123.2357989,,{'capacity': '8'},2011-04-06T19:00:27.000-07:00
+bicycle_parking,49.254802000000005,-123.23386299999999,,{},2011-04-06T05:55:48.000-07:00
+bicycle_parking,49.2548855,-123.2354845,,{'capacity': '4'},2015-04-26T08:22:44.000-07:00
+bicycle_parking,49.2547899,-123.23608370000001,,{'capacity': '8'},2011-04-06T19:00:26.000-07:00
+bicycle_parking,49.2553757,-123.2344108,,{'capacity': '5'},2011-04-06T05:55:48.000-07:00
+bicycle_parking,49.2536646,-123.23523940000001,,{'capacity': '3'},2011-04-06T19:00:31.000-07:00
+bicycle_parking,49.2547452,-123.2361014,,{'capacity': '8'},2011-04-06T19:00:27.000-07:00
+bicycle_parking,49.2532448,-123.23348500000002,,"{'covered': 'no', 'capacity': '5'}",2011-04-05T05:00:18.000-07:00
+bicycle_parking,49.2543408,-123.2332728,,"{'covered': 'no', 'capacity': '5'}",2011-04-05T05:00:18.000-07:00
+bicycle_parking,49.25383529999999,-123.2330794,,"{'covered': 'no', 'capacity': '5'}",2011-04-05T05:00:18.000-07:00
+bicycle_parking,49.2543198,-123.2333422,,"{'covered': 'no', 'capacity': '5'}",2011-04-05T05:00:17.000-07:00
+bicycle_parking,49.254234100000005,-123.23277790000002,,"{'covered': 'no', 'capacity': '5'}",2011-04-05T05:00:17.000-07:00
+bicycle_parking,49.2529666,-123.2321098,,"{'covered': 'no', 'capacity': '5'}",2011-04-05T05:00:17.000-07:00
+bicycle_parking,49.254400399999994,-123.23306640000001,,"{'covered': 'no', 'capacity': '5'}",2011-04-05T05:00:16.000-07:00
+bicycle_parking,49.254005,-123.2325673,,"{'covered': 'no', 'capacity': '5'}",2011-04-05T05:00:15.000-07:00
+bicycle_parking,49.253795399999994,-123.2348798,,"{'covered': 'no', 'capacity': '5'}",2011-04-06T19:00:27.000-07:00
+bicycle_parking,49.2544412,-123.23514180000001,,{'capacity': '4'},2011-04-06T05:55:52.000-07:00
+bicycle_parking,49.2548679,-123.2330274,,{},2011-04-06T05:55:52.000-07:00
+bicycle_parking,49.2709695,-123.2585992,,{'capacity': '5'},2011-04-09T00:04:00.000-07:00
+bicycle_parking,49.2757636,-123.1322738,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2019-08-17T05:49:21.000-07:00
+bicycle_parking,49.276932,-123.12639740000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-10-06T04:37:32.000-07:00
+bicycle_parking,49.2768485,-123.1265301,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-10-06T04:37:32.000-07:00
+bicycle_parking,49.2861823,-123.1176152,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2018-05-22T15:50:04.000-07:00
+bicycle_parking,49.2814226,-123.1118494,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '5'}",2018-06-06T15:41:01.000-07:00
+bicycle_parking,49.2812268,-123.1121436,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '10'}",2018-06-06T15:40:45.000-07:00
+bicycle_parking,49.2814523,-123.1195658,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '2'}",2019-11-11T23:55:54.000-08:00
+bicycle_parking,49.2812215,-123.11258659999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '10'}",2018-06-06T15:40:36.000-07:00
+bicycle_parking,49.2775093,-123.12752079999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-09-10T20:10:24.000-07:00
+bicycle_parking,49.2757133,-123.13236090000002,,"{'bicycle_parking': 'stands', 'capacity': '3'}",2019-08-17T05:49:20.000-07:00
+bicycle_parking,49.2543595,-123.23518940000001,,{'capacity': '5'},2017-07-08T22:54:10.000-07:00
+bicycle_parking,49.2771115,-123.1299855,,{},2017-10-03T16:57:57.000-07:00
+bicycle_parking,49.2716095,-123.14651270000002,,{},2016-02-09T00:07:24.000-08:00
+bicycle_parking,49.2682035,-123.1518399,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-09T01:22:52.000-07:00
+bicycle_parking,49.268055600000004,-123.15300790000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:52.000-07:00
+bicycle_parking,49.268177,-123.14995459999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.268257399999996,-123.15530659999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:52.000-07:00
+bicycle_parking,49.2681471,-123.15924960000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:52.000-07:00
+bicycle_parking,49.268142,-123.15889909999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-09T01:22:52.000-07:00
+bicycle_parking,49.2808279,-123.1123914,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2017-08-30T19:47:29.000-07:00
+bicycle_parking,49.2817273,-123.10978940000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:52.000-07:00
+bicycle_parking,49.2808122,-123.11240890000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2017-08-30T19:47:29.000-07:00
+bicycle_parking,49.2614231,-123.06925249999999,,{'capacity': '4'},2017-08-24T03:36:16.000-07:00
+bicycle_parking,49.2824712,-123.11473970000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-06T22:15:49.000-07:00
+bicycle_parking,49.283688500000004,-123.1166693,,{'capacity': '6'},2018-02-10T00:10:33.000-08:00
+bicycle_parking,49.281594899999995,-123.1230281,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-08-02T04:49:26.000-07:00
+bicycle_parking,49.2836065,-123.1204371,,{'capacity': '6'},2019-12-10T04:29:49.000-08:00
+bicycle_parking,49.28602720000001,-123.11652050000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '12'}",2019-12-11T03:32:03.000-08:00
+bicycle_parking,49.28589,-123.1187256,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2018-06-01T14:57:22.000-07:00
+bicycle_parking,49.281558600000004,-123.1174765,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '8'}",2017-09-26T00:35:33.000-07:00
+bicycle_parking,49.280795899999994,-123.12471640000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-11T03:33:17.000-07:00
+bicycle_parking,49.280756200000006,-123.1247857,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2019-09-11T03:33:12.000-07:00
+bicycle_parking,49.2783394,-123.121752,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2019-08-14T01:22:04.000-07:00
+bicycle_parking,49.2784119,-123.12186319999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-14T01:22:04.000-07:00
+bicycle_parking,49.2792734,-123.1170247,,"{'covered': 'yes', 'capacity': '2'}",2018-05-18T01:01:56.000-07:00
+bicycle_parking,49.2793427,-123.11699180000001,,"{'covered': 'no', 'capacity': '3'}",2018-05-18T01:01:55.000-07:00
+bicycle_parking,49.27926110000001,-123.1162919,,{},2017-10-31T01:09:19.000-07:00
+bicycle_parking,49.2790434,-123.11745149999999,,{},2017-10-31T01:16:51.000-07:00
+bicycle_parking,49.28475220000001,-123.12181650000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-04-02T20:59:43.000-07:00
+bicycle_parking,49.089567200000005,-122.04600479999999,,"{'access': 'yes', 'bicycle_parking': 'rack', 'covered': 'no'}",2018-09-19T23:16:39.000-07:00
+bicycle_parking,49.3278196,-122.95044229999999,,"{'bicycle_parking': 'stands', 'capacity': '6'}",2019-04-26T08:08:25.000-07:00
+bicycle_parking,49.2667534,-123.00722820000001,,{},2019-11-30T19:25:32.000-08:00
+bicycle_parking,49.2816583,-123.12361659999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-19T00:13:52.000-07:00
+bicycle_parking,49.283570399999995,-123.11619080000001,,{'capacity': '2'},2018-02-10T00:10:34.000-08:00
+bicycle_parking,49.2822603,-123.1077072,,"{'covered': 'yes', 'capacity': '12'}",2018-03-28T01:25:18.000-07:00
+bicycle_parking,49.278271000000004,-123.1266467,,"{'covered': 'no', 'capacity': '3'}",2018-05-19T00:50:21.000-07:00
+bicycle_parking,49.2239102,-122.98872800000001,,{},2019-06-18T02:53:05.000-07:00
+bicycle_parking,49.2238153,-122.98873429999999,,{},2019-06-18T02:53:05.000-07:00
+bicycle_parking,49.036441499999995,-122.29216459999999,,{},2018-05-22T23:54:35.000-07:00
+bicycle_parking,49.262359000000004,-123.1164457,,{},2019-11-04T18:08:20.000-08:00
+bicycle_parking,49.261545500000004,-123.06823390000001,,{},2019-09-03T04:57:05.000-07:00
+bicycle_parking,49.2620992,-123.06824270000001,,{},2019-09-03T04:57:05.000-07:00
+bicycle_parking,49.2813747,-123.12397179999999,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '4'}",2019-10-07T04:42:06.000-07:00
+bicycle_parking,49.2833843,-123.11864380000002,,{'capacity': '4'},2018-02-09T00:25:08.000-08:00
+bicycle_parking,49.2856636,-123.1145602,,{},2017-09-28T18:55:14.000-07:00
+bicycle_parking,49.2787646,-123.12160949999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-12-08T21:02:58.000-08:00
+bicycle_parking,49.2853447,-123.11568329999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-09T17:48:51.000-07:00
+bicycle_parking,49.2835325,-123.11839979999999,,{'capacity': '4'},2018-02-09T00:25:06.000-08:00
+bicycle_parking,49.282652399999996,-123.1194706,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-12-10T04:33:39.000-08:00
+bicycle_parking,49.281859399999995,-123.12072450000001,,{'capacity': '5'},2018-08-22T20:05:57.000-07:00
+bicycle_parking,49.28004779999999,-123.1236665,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-18T18:42:33.000-07:00
+bicycle_parking,49.2812191,-123.1215246,,{},2017-09-28T18:32:20.000-07:00
+bicycle_parking,49.280249,-123.1233855,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-18T18:42:43.000-07:00
+bicycle_parking,49.2796852,-123.1240539,,"{'covered': 'yes', 'capacity': '4'}",2018-03-02T04:32:38.000-08:00
+bicycle_parking,49.2667674,-123.00643829999999,,{},2019-11-30T19:25:32.000-08:00
+bicycle_parking,49.2669255,-123.0062014,,{},2019-12-09T02:47:13.000-08:00
+bicycle_parking,49.3102739,-123.0815955,,"{'source:location': 'gps', 'source': 'survey'}",2015-12-06T05:03:47.000-08:00
+bicycle_parking,49.2605308,-123.2434997,,{'capacity': '16'},2010-05-08T10:51:42.000-07:00
+bicycle_parking,49.2804482,-123.1309778,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-08-22T22:44:03.000-07:00
+bicycle_parking,49.253080700000005,-123.2345365,,{},2012-05-20T21:00:10.000-07:00
+bicycle_parking,49.2530677,-123.23458049999999,,{},2012-05-20T21:00:10.000-07:00
+bicycle_parking,49.2529771,-123.2348639,,{},2012-05-20T21:00:09.000-07:00
+bicycle_parking,49.2529655,-123.2349113,,{},2012-05-20T21:00:09.000-07:00
+bicycle_parking,49.2728765,-123.0991456,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '14'}",2019-05-18T05:10:47.000-07:00
+bicycle_parking,49.2687838,-123.1185007,,{},2019-05-18T03:29:55.000-07:00
+bicycle_parking,49.2687479,-123.118498,,{},2019-05-18T03:29:55.000-07:00
+bicycle_parking,49.26054310000001,-123.24345929999998,,{'capacity': '16'},2010-05-08T10:51:42.000-07:00
+bicycle_parking,49.281085299999994,-123.13218940000002,,{'capacity': '2'},2017-09-24T00:44:59.000-07:00
+bicycle_parking,49.259786600000005,-123.2466477,,{},2010-05-08T10:51:40.000-07:00
+bicycle_parking,49.2603673,-123.2433489,,{'capacity': '16'},2010-05-08T10:51:39.000-07:00
+bicycle_parking,49.260386700000005,-123.2433112,,{'capacity': '16'},2010-05-08T10:51:39.000-07:00
+bicycle_parking,49.243216499999996,-123.10424450000001,,{},2017-04-20T07:30:55.000-07:00
+bicycle_parking,49.2757383,-123.133176,,{},2019-12-20T22:31:55.000-08:00
+bicycle_parking,49.2758129,-123.13415819999999,,{},2019-12-20T22:31:55.000-08:00
+bicycle_parking,49.2800265,-123.10573490000002,,{},2016-01-21T04:54:41.000-08:00
+bicycle_parking,49.2797794,-123.1061831,,{},2016-01-21T04:54:40.000-08:00
+bicycle_parking,49.2811379,-123.13226470000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-17T20:01:52.000-07:00
+bicycle_parking,49.2815951,-123.1329916,,{'capacity': '2'},2017-09-24T00:44:53.000-07:00
+bicycle_parking,49.272656899999994,-123.1357183,,"{'source:location': 'gps', 'source': 'survey'}",2020-02-27T21:56:22.000-08:00
+bicycle_parking,49.280430100000004,-123.1273545,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-09-10T20:10:29.000-07:00
+bicycle_parking,49.2815021,-123.1229107,,"{'bicycle_parking': 'stands', 'capacity': '8'}",2019-08-19T00:09:14.000-07:00
+bicycle_parking,49.28118920000001,-123.122601,,"{'bicycle_parking': 'stands', 'covered': 'no'}",2019-10-24T00:30:14.000-07:00
+bicycle_parking,49.2634646,-123.12401259999999,,{},2016-07-02T23:09:27.000-07:00
+bicycle_parking,49.0367302,-122.3129009,,{},2016-07-02T19:29:51.000-07:00
+bicycle_parking,49.06241970000001,-122.32460420000001,,{},2016-07-02T16:10:02.000-07:00
+bicycle_parking,49.0481045,-122.26263059999998,,{},2016-06-30T23:37:48.000-07:00
+bicycle_parking,49.277023,-123.12459040000002,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'description': 'Bike Vancouver', 'capacity': '2'}",2019-10-08T00:51:03.000-07:00
+bicycle_parking,49.2781573,-123.1248522,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '4'}",2019-08-21T20:34:24.000-07:00
+bicycle_parking,49.2800499,-123.1273315,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-10T20:10:29.000-07:00
+bicycle_parking,49.2816823,-123.1331172,,{'capacity': '2'},2017-09-24T00:44:54.000-07:00
+bicycle_parking,49.2797128,-123.1279653,,"{'bicycle_parking': 'stands', 'capacity': '8'}",2019-08-21T20:34:03.000-07:00
+bicycle_parking,49.2798114,-123.12377340000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-18T19:37:44.000-07:00
+bicycle_parking,49.2812929,-123.1265162,,"{'bicycle_parking': 'stands', 'capacity': '4'}",2019-09-11T03:33:16.000-07:00
+bicycle_parking,49.2814744,-123.126236,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '10'}",2019-08-19T00:09:17.000-07:00
+bicycle_parking,49.2796282,-123.11726999999999,,"{'covered': 'no', 'capacity': '2'}",2018-05-18T01:01:55.000-07:00
+bicycle_parking,49.2799299,-123.1175153,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-09T22:10:59.000-07:00
+bicycle_parking,49.280057,-123.1176953,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-10-09T22:10:53.000-07:00
+bicycle_parking,49.281410799999996,-123.1330121,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '5'}",2019-07-23T19:29:28.000-07:00
+bicycle_parking,49.053737100000006,-122.32899590000001,,{},2018-03-26T10:31:01.000-07:00
+bicycle_parking,49.287256899999996,-123.13787649999999,,{},2019-07-12T21:02:02.000-07:00
+bicycle_parking,49.2495998,-123.07524640000001,,{'capacity': '8'},2019-05-29T08:33:17.000-07:00
+bicycle_parking,49.268073799999996,-123.1537297,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.268009,-123.1499733,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2682449,-123.1544287,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2679415,-123.1461469,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2682886,-123.15722509999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2681039,-123.15554850000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2681535,-123.1486733,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.268004,-123.14960790000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2682485,-123.15493870000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2681551,-123.1458466,,"{'bicycle_parking': 'wide_stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.26859279999999,-123.15881929999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '8'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2679836,-123.155052,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2681624,-123.1491061,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2679987,-123.14929270000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.268263,-123.1555798,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.2681235,-123.1466929,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.2680799,-123.1540615,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.2681675,-123.14946429999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.2679952,-123.14895779999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.268262799999995,-123.1557172,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.2681719,-123.14821640000001,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '4'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.268115,-123.15616599999998,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.2682843,-123.15712849999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:50.000-07:00
+bicycle_parking,49.268037799999995,-123.1576358,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.2636338,-123.15070800000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.2672716,-123.14608419999999,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '3'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.2635037,-123.13985320000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.263972700000004,-123.15616329999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.26466729999999,-123.1447818,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:50.000-07:00
+bicycle_parking,49.26360510000001,-123.14470120000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:50.000-07:00
+bicycle_parking,49.2638411,-123.14796229999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:50.000-07:00
+bicycle_parking,49.2682833,-123.1569021,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.2682255,-123.1480317,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.2679446,-123.14591499999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.2680239,-123.1511166,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.268318799999996,-123.1527206,,"{'bicycle_parking': 'wide_stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.2679497,-123.14651570000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.2684819,-123.1567564,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.2681185,-123.1567074,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.268142299999994,-123.14818899999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.2680223,-123.15101090000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.268226299999995,-123.1534196,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.268128600000004,-123.1470534,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.268190000000004,-123.15093429999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.2494328,-123.07482209999999,,{'capacity': '4'},2019-05-29T08:33:18.000-07:00
+bicycle_parking,49.267984399999996,-123.1486066,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.2684305,-123.1668293,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:39.000-07:00
+bicycle_parking,49.268271899999995,-123.1675483,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:39.000-07:00
+bicycle_parking,49.2684859,-123.1704355,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:39.000-07:00
+bicycle_parking,49.268245,-123.1657628,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:39.000-07:00
+bicycle_parking,49.268136299999995,-123.17095970000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2684311,-123.16693049999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.268272499999995,-123.16761389999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2684848,-123.1703392,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2682054,-123.16568400000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.268304,-123.16993259999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.268435100000005,-123.16726940000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.268268,-123.1672751,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.26848820000001,-123.17085530000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2682376,-123.16523329999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2683015,-123.16938429999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2684346,-123.1672258,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2682657,-123.16711740000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2683263,-123.17133170000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2682311,-123.1647007,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:38.000-07:00
+bicycle_parking,49.2681825,-123.1662767,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:39.000-07:00
+bicycle_parking,49.26855870000001,-123.17001880000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-09T00:00:39.000-07:00
+bicycle_parking,49.2681917,-123.16819369999999,,"{'bicycle_parking': 'wide_stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:39.000-07:00
+bicycle_parking,49.26819520000001,-123.14783680000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.268268299999995,-123.15588909999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.268350399999996,-123.15952320000001,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '12'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.2681381,-123.14765690000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '3'}",2019-05-09T01:22:49.000-07:00
+bicycle_parking,49.2679316,-123.1526949,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.2682086,-123.15206699999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.2679513,-123.1484068,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.2682695,-123.1561095,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.26813679999999,-123.1585554,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.2680365,-123.15164709999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.2684285,-123.16671640000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:39.000-07:00
+bicycle_parking,49.2682152,-123.15239540000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.267950799999994,-123.1483216,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.2682789,-123.1565406,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.26807120000001,-123.1576348,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.2682117,-123.1478363,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.268030700000004,-123.151472,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.2682821,-123.1527227,,"{'bicycle_parking': 'wide_stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.2679588,-123.1469845,,"{'bicycle_parking': 'wide_stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T01:22:48.000-07:00
+bicycle_parking,49.263760600000005,-123.14280330000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.2639044,-123.14821699999999,,"{'bicycle_parking': 'wide_stands', 'covered': 'no', 'capacity': '1'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.263602299999995,-123.1445193,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.2646681,-123.1448529,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.264497999999996,-123.1447491,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '2'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2634593,-123.14557509999999,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '5'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.263844,-123.1471457,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2637434,-123.14177659999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2637489,-123.1538669,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2670874,-123.14526570000001,,"{'bicycle_parking': 'wide_stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2635589,-123.1417721,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.263969200000005,-123.15172959999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2635286,-123.1575277,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '9'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.264497600000006,-123.14472659999998,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '6'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.26361,-123.1463858,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2638314,-123.14600220000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.2637985,-123.14117920000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.2637525,-123.1540297,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.2670834,-123.1450762,,"{'bicycle_parking': 'wide_stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.2635687,-123.1422971,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.2639595,-123.1510976,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '5'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.263816299999995,-123.1579467,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.264556799999994,-123.1449267,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.263767200000004,-123.15704699999999,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '5'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2639809,-123.1518325,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2634155,-123.1408736,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.263652799999996,-123.1518137,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '4'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.266689899999996,-123.00541869999999,,{'fee': 'no'},2019-10-19T00:48:29.000-07:00
+bicycle_parking,49.249154600000004,-123.1159533,,{'bicycle_parking': 'building'},2019-08-03T07:15:46.000-07:00
+bicycle_parking,49.186532899999996,-122.8507297,,{},2020-04-17T01:19:48.000-07:00
+bicycle_parking,49.1743406,-123.1499713,,"{'covered': 'no', 'capacity': 'Many'}",2017-05-24T05:11:16.000-07:00
+bicycle_parking,49.061369799999994,-122.3800284,,{},2020-05-21T17:45:33.000-07:00
+bicycle_parking,49.0617934,-122.3800253,,{},2020-05-21T17:45:33.000-07:00
+bicycle_parking,49.2769225,-123.12473940000001,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'description': 'bike vancouver', 'capacity': '2'}",2019-10-08T00:51:04.000-07:00
+bicycle_parking,49.263757500000004,-123.14263090000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.2673112,-123.14578519999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.267362899999995,-123.1457831,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:55.000-07:00
+bicycle_parking,49.2635218,-123.1403721,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.2639705,-123.15601240000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.263763299999994,-123.1569201,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '6'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.2645521,-123.1445729,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.2636079,-123.1448662,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.263846,-123.147268,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.2637514,-123.1422874,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.2635648,-123.1520871,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.263651200000005,-123.14782279999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.2640854,-123.1458757,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.263729,-123.1406047,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.2653463,-123.14500490000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '12'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.2638598,-123.14904740000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.2639999,-123.1578344,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.2637898,-123.14463070000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.2636826,-123.14961389999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.266554799999994,-123.1458331,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '3'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.263484999999996,-123.1390257,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.2639792,-123.15659690000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.2637311,-123.15514440000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.2635987,-123.1442877,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.265902600000004,-123.1455049,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '8'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.26384829999999,-123.14837150000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.2640038,-123.15806040000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.2637817,-123.1441236,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.2636849,-123.14973559999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.267067299999994,-123.146009,,"{'bicycle_parking': 'wall_loops', 'covered': 'no', 'capacity': '9'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.263493700000005,-123.1393227,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.263981099999995,-123.15645819999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.263748,-123.1561285,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:51.000-07:00
+bicycle_parking,49.2635005,-123.1440061,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '7'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.263763899999994,-123.15480249999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:52.000-07:00
+bicycle_parking,49.263753200000004,-123.15420359999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.263985600000005,-123.1570787,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.1137763,-123.0697719,,{},2020-04-15T22:02:24.000-07:00
+bicycle_parking,49.2632279,-123.1435486,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.2640315,-123.1501939,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '7'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.2638153,-123.1578852,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2645185,-123.1449365,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.263662700000005,-123.1484013,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2647433,-123.1458447,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2637208,-123.13889979999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2637622,-123.1546253,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.263982,-123.1568025,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.26663370000001,-123.1455055,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2635906,-123.1437778,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2639215,-123.14993989999999,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '12'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2637758,-123.1578845,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2637931,-123.1448057,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2636241,-123.14914850000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.266221200000004,-123.14614809999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.263482200000006,-123.13890500000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-05-09T03:11:53.000-07:00
+bicycle_parking,49.2683034,-123.1694565,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.26843529999999,-123.1673172,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.2682619,-123.16697340000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.274784600000004,-123.0705303,,{},2017-09-09T21:16:14.000-07:00
+bicycle_parking,49.185476,-122.8768702,,{},2019-09-17T09:28:33.000-07:00
+bicycle_parking,49.185524799999996,-122.87686969999999,,{},2019-09-17T09:28:33.000-07:00
+bicycle_parking,49.2689993,-123.11829879999999,,{},2017-10-26T04:48:55.000-07:00
+bicycle_parking,49.2820124,-123.124458,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '68'}",2019-07-24T15:54:52.000-07:00
+bicycle_parking,49.2828849,-123.12002360000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '12'}",2019-10-07T04:42:05.000-07:00
+bicycle_parking,49.2636105,-123.133531,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '2'}",2020-02-15T18:29:25.000-08:00
+bicycle_parking,49.2642158,-123.1337907,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '2'}",2020-02-15T18:29:25.000-08:00
+bicycle_parking,49.2594702,-123.04391740000001,,"{'access': 'permissive', 'bicycle_parking': 'rack', 'covered': 'no', 'surveillance': 'outdoor', 'source': 'survey', 'source:date': '2015-05-11', 'capacity': '5'}",2015-05-11T22:51:15.000-07:00
+bicycle_parking,49.0759456,-122.34615359999998,,{'capacity': '10'},2020-05-11T21:06:13.000-07:00
+bicycle_parking,49.0759723,-122.3462045,,{'capacity': '10'},2020-05-11T21:06:13.000-07:00
+bicycle_parking,49.2646545,-122.9814098,,{},2019-10-14T07:44:04.000-07:00
+bicycle_parking,49.264462200000004,-122.9815125,,{},2019-10-14T19:19:10.000-07:00
+bicycle_parking,49.264714500000004,-122.9814027,,{},2019-10-14T07:44:04.000-07:00
+bicycle_parking,49.0718456,-122.82235590000002,,{'bicycle_parking': 'rack'},2019-07-14T13:53:10.000-07:00
+bicycle_parking,49.0718533,-122.8224166,,{'bicycle_parking': 'rack'},2019-07-14T13:53:10.000-07:00
+bicycle_parking,49.2789734,-123.13807690000002,,{},2019-07-12T23:55:32.000-07:00
+bicycle_parking,49.2839492,-123.13301750000001,,{},2019-07-12T21:02:09.000-07:00
+bicycle_parking,49.2871853,-123.13797959999998,,{},2019-07-12T21:02:03.000-07:00
+bicycle_parking,49.2872157,-123.13793419999999,,{},2019-07-12T21:02:04.000-07:00
+bicycle_parking,49.054275,-122.32878329999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2020-04-11T14:30:11.000-07:00
+bicycle_parking,49.2826066,-123.00066340000001,,{},2015-12-09T04:17:30.000-08:00
+bicycle_parking,49.2869735,-123.1213351,,{},2019-10-09T18:24:23.000-07:00
+bicycle_parking,49.2715186,-123.254223,,{},2011-06-08T03:00:06.000-07:00
+bicycle_parking,49.275152399999996,-123.0693764,,{'capacity': '4'},2017-09-10T02:20:46.000-07:00
+bicycle_parking,49.2776875,-123.12355459999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-12-08T21:05:05.000-08:00
+bicycle_parking,49.2779546,-123.1276354,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-18T16:52:12.000-07:00
+bicycle_parking,49.2793235,-123.12857939999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-20T23:28:06.000-07:00
+bicycle_parking,49.2601526,-123.0305067,Bike rack,{},2020-06-03T03:14:20.000-07:00
+bicycle_parking,49.2406872,-123.0581163,Bike rack,{},2020-06-03T02:52:13.000-07:00
+bicycle_parking,49.269787,-123.2497317,,{'capacity': '10'},2014-04-14T17:10:08.000-07:00
+bicycle_parking,49.265246000000005,-123.24687479999999,,{},2010-10-21T04:09:37.000-07:00
+bicycle_parking,49.2037172,-123.11445379999999,,{},2020-06-07T03:21:38.000-07:00
+bicycle_parking,49.2829535,-122.8692824,,{},2020-04-24T22:26:18.000-07:00
+bicycle_parking,49.04880479999999,-122.2905044,,{'capacity': '3'},2015-06-11T06:08:15.000-07:00
+bicycle_parking,49.275090000000006,-123.1000975,,{},2019-10-10T05:32:59.000-07:00
+bicycle_parking,49.2738594,-123.0938784,,{},2019-10-10T05:33:00.000-07:00
+bicycle_parking,49.2738665,-123.0939095,,{},2019-10-10T05:32:59.000-07:00
+bicycle_parking,49.2231559,-123.07662320000001,,{},2018-11-14T06:52:45.000-08:00
+bicycle_parking,49.1253251,-123.19233670000001,,{},2012-11-12T16:09:29.000-08:00
+bicycle_parking,49.234398399999996,-123.1552852,,{},2020-06-23T19:18:43.000-07:00
+bicycle_parking,49.244086200000005,-122.93540759999999,,{},2010-10-13T02:25:33.000-07:00
+bicycle_parking,49.2871992,-123.13764599999999,,{},2019-07-12T21:02:04.000-07:00
+bicycle_parking,49.2283872,-122.8929632,,{},2018-06-17T19:52:55.000-07:00
+bicycle_parking,49.046748799999996,-122.2933537,,{'bicycle_parking': 'bollard'},2018-11-01T11:33:37.000-07:00
+bicycle_parking,49.22261470000001,-122.98543059999999,,{},2019-07-04T01:12:04.000-07:00
+bicycle_parking,49.262964700000005,-123.1857841,,{'capacity': '6'},2014-08-24T05:21:56.000-07:00
+bicycle_parking,49.2681495,-123.11391499999999,,"{'bicycle_parking': 'rack', 'covered': 'no'}",2015-02-15T23:54:02.000-08:00
+bicycle_parking,49.2629231,-123.0699605,,"{'bicycle_parking': 'stands', 'covered': 'no'}",2019-10-03T06:34:58.000-07:00
+bicycle_parking,49.2686335,-123.0967399,,{},2018-07-25T16:05:54.000-07:00
+bicycle_parking,49.2686919,-123.09685060000001,,{},2018-07-25T16:05:54.000-07:00
+bicycle_parking,49.2846694,-123.11057920000002,,{'capacity': '2'},2014-12-30T00:40:38.000-08:00
+bicycle_parking,49.262705,-123.10303429999999,,{},2014-12-30T00:08:37.000-08:00
+bicycle_parking,49.270325899999996,-123.1017662,,"{'access': 'permissive', 'fee': 'no', 'capacity': '5'}",2019-11-07T17:10:14.000-08:00
+bicycle_parking,49.279958,-123.1164264,,"{'access': 'yes', 'bicycle_parking': 'stands', 'fee': 'no'}",2020-03-08T23:06:19.000-07:00
+bicycle_parking,49.2632811,-123.1860342,,{'capacity': '3'},2016-07-28T07:58:53.000-07:00
+bicycle_parking,49.27682720000001,-123.12499709999999,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '4'}",2019-11-23T22:10:22.000-08:00
+bicycle_parking,49.2612809,-123.0685088,,{},2016-04-22T03:34:24.000-07:00
+bicycle_parking,49.1952643,-122.72802630000001,,{},2018-05-22T00:40:14.000-07:00
+bicycle_parking,49.194565999999995,-122.72898229999998,,{},2018-05-22T00:40:14.000-07:00
+bicycle_parking,49.1944316,-122.72828329999999,,{'leisure': 'picnic_table'},2017-07-15T16:22:22.000-07:00
+bicycle_parking,49.1940743,-122.72831740000001,,{},2018-05-22T00:40:13.000-07:00
+bicycle_parking,49.2496766,-123.0754321,,{'capacity': '4'},2019-05-29T08:33:16.000-07:00
+bicycle_parking,49.2494819,-123.07493810000001,,{'capacity': '4'},2019-05-29T08:33:18.000-07:00
+bicycle_parking,49.2630665,-123.18599429999999,,{'capacity': '3'},2014-08-24T05:21:56.000-07:00
+bicycle_parking,49.263414700000006,-123.18646880000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.0467529,-122.2933616,,{'bicycle_parking': 'bollard'},2018-11-01T11:33:37.000-07:00
+bicycle_parking,49.2669439,-123.09283799999999,,{},2019-09-27T06:43:14.000-07:00
+bicycle_parking,49.2549349,-123.114938,,{},2019-09-12T04:45:09.000-07:00
+bicycle_parking,49.25723120000001,-123.1149479,,{},2019-09-12T04:45:10.000-07:00
+bicycle_parking,49.256335899999996,-123.1149334,,{},2019-09-12T04:45:09.000-07:00
+bicycle_parking,49.276729100000004,-123.12513270000001,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '3'}",2019-11-23T22:10:18.000-08:00
+bicycle_parking,49.277057899999996,-123.1259372,,{},2019-09-10T20:10:50.000-07:00
+bicycle_parking,49.276686600000005,-123.12535859999998,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2019-11-23T22:09:37.000-08:00
+bicycle_parking,49.2770201,-123.12588219999999,,{},2019-09-10T20:10:51.000-07:00
+bicycle_parking,49.2701159,-123.102476,,{},2019-09-27T06:43:12.000-07:00
+bicycle_parking,49.2776536,-123.1076202,,{},2019-09-27T06:43:16.000-07:00
+bicycle_parking,49.26341729999999,-123.18661270000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.2669583,-123.0957991,,{},2019-09-27T06:43:13.000-07:00
+bicycle_parking,49.2669698,-123.09567450000002,,{},2019-09-27T06:43:14.000-07:00
+bicycle_parking,49.2742589,-123.10312920000001,,{},2019-09-27T06:43:15.000-07:00
+bicycle_parking,49.2701447,-123.1029199,,{},2020-04-08T21:28:25.000-07:00
+bicycle_parking,49.2763504,-123.1214587,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no'}",2019-09-25T19:17:21.000-07:00
+bicycle_parking,49.2764031,-123.12137690000002,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no'}",2019-09-25T19:17:21.000-07:00
+bicycle_parking,49.2677188,-123.0909867,,{},2020-04-08T23:16:27.000-07:00
+bicycle_parking,49.2634436,-123.1872405,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.2743903,-123.0706804,,{},2017-09-09T21:16:13.000-07:00
+bicycle_parking,49.2748739,-123.07065449999999,,{},2017-09-09T21:16:15.000-07:00
+bicycle_parking,49.2683302,-123.1714416,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.2638069,-123.06962859999999,,{},2018-09-18T21:19:18.000-07:00
+bicycle_parking,49.2349631,-123.1556562,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.2301468,-123.15583229999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.237241499999996,-123.1558107,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '5'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.233103899999996,-123.15611129999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '18'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.2344615,-123.15659050000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.234564,-123.15918,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.234542499999996,-123.16013229999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.234564299999995,-123.1612078,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2348386,-123.1545267,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2345973,-123.1617206,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2344191,-123.15358529999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2347528,-123.1620186,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2336855,-123.15446920000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '3'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2346974,-123.1587057,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2337031,-123.15354099999999,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '5'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2348864,-123.15765719999999,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2278629,-123.15569140000001,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '8'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.23534,-123.1556751,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '6'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.231213700000005,-123.1557956,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2297195,-123.15508829999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.2349514,-123.15782390000001,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.23368189999999,-123.15370559999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.268421200000006,-123.1661635,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.268405200000004,-123.16513159999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.2682966,-123.1690837,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.26846210000001,-123.1691253,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.268262299999996,-123.16681840000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.2684146,-123.165695,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.268293799999995,-123.16892220000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.268474100000006,-123.16978200000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.2682595,-123.16655690000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.268288899999995,-123.1685216,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.234729200000004,-123.15990179999999,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.268476799999995,-123.16989270000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.2680758,-123.1664705,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:37.000-07:00
+bicycle_parking,49.268426899999994,-123.1666358,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:36.000-07:00
+bicycle_parking,49.268191200000004,-123.16843970000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-09T00:00:36.000-07:00
+bicycle_parking,49.2685594,-123.17006229999998,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-09T00:00:36.000-07:00
+bicycle_parking,49.2679979,-123.1664756,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-09T00:00:36.000-07:00
+bicycle_parking,49.2346067,-123.16235230000001,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.2343701,-123.15490690000001,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:01.000-07:00
+bicycle_parking,49.2379107,-123.15559040000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.233877500000006,-123.1556965,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.234432700000006,-123.1584445,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:45:00.000-07:00
+bicycle_parking,49.2688446,-123.2589344,,{},2014-04-03T03:47:37.000-07:00
+bicycle_parking,49.26371339999999,-123.2457543,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '32'}",2019-05-07T18:53:57.000-07:00
+bicycle_parking,49.2645216,-123.24451,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '26'}",2019-05-07T18:53:57.000-07:00
+bicycle_parking,49.2641875,-123.24531470000001,,"{'access': 'yes', 'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '28'}",2019-05-07T19:54:26.000-07:00
+bicycle_parking,49.2663235,-123.2421179,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '20'}",2019-05-07T17:24:45.000-07:00
+bicycle_parking,49.2862423,-123.1142295,,{'capacity': '8'},2018-02-09T00:24:58.000-08:00
+bicycle_parking,49.26744229999999,-123.0933845,,{},2020-04-08T23:16:27.000-07:00
+bicycle_parking,49.2636774,-123.12232549999999,,{},2018-11-30T01:19:29.000-08:00
+bicycle_parking,49.269075799999996,-123.254727,,{'covered': 'yes'},2014-04-03T03:47:37.000-07:00
+bicycle_parking,49.277485399999996,-123.2229491,,{},2014-04-03T03:47:37.000-07:00
+bicycle_parking,49.2345336,-123.1614324,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:58.000-07:00
+bicycle_parking,49.2253696,-122.9972223,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2019-05-25T01:27:49.000-07:00
+bicycle_parking,49.2264311,-123.00515700000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2019-07-24T22:29:43.000-07:00
+bicycle_parking,49.0685584,-123.07798229999999,,{},2020-05-23T00:49:49.000-07:00
+bicycle_parking,49.033137700000005,-122.8155054,,{},2020-05-20T02:41:41.000-07:00
+bicycle_parking,49.211555600000004,-122.92289879999998,,{},2010-11-23T03:03:39.000-08:00
+bicycle_parking,49.2662637,-123.25124720000001,,{'capacity': '14'},2010-12-14T21:16:16.000-08:00
+bicycle_parking,49.26637879999999,-123.25134779999999,,{'capacity': '14'},2010-12-14T21:16:16.000-08:00
+bicycle_parking,49.2556331,-122.9949291,,"{'bicycle_parking': 'rack', 'capacity': '6'}",2020-05-13T19:25:15.000-07:00
+bicycle_parking,49.2346388,-123.15274790000001,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:58.000-07:00
+bicycle_parking,49.2352098,-123.1546828,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2019-05-07T22:44:58.000-07:00
+bicycle_parking,49.234564299999995,-123.15937759999998,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2346935,-123.1582143,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2345781,-123.16032,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2353916,-123.1546746,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2345196,-123.16126200000001,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.234656099999995,-123.15357949999999,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2346031,-123.1620398,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.234483399999995,-123.15463009999999,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.234728000000004,-123.16079450000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2336773,-123.1541986,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '3'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2320544,-123.1549666,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '3'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2345474,-123.16052649999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-05-07T22:44:58.000-07:00
+bicycle_parking,49.2347591,-123.15766399999998,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.230003,-123.15584070000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2356229,-123.1559007,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.232665600000004,-123.15584469999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-07T22:44:59.000-07:00
+bicycle_parking,49.2381637,-123.15557849999999,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '4'}",2019-05-07T22:44:58.000-07:00
+bicycle_parking,49.2339768,-123.15569099999999,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:58.000-07:00
+bicycle_parking,49.2344262,-123.15861399999999,,"{'bicycle_parking': 'bollard', 'covered': 'no', 'capacity': '2'}",2019-05-07T22:44:58.000-07:00
+bicycle_parking,49.234494899999994,-123.1597585,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '6'}",2019-05-07T22:44:58.000-07:00
+bicycle_parking,49.2531528,-123.23428349999999,,"{'covered': 'no', 'capacity': '12'}",2019-01-24T08:21:23.000-08:00
+bicycle_parking,49.2669389,-123.1454934,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-05-09T03:11:54.000-07:00
+bicycle_parking,49.1742989,-123.1514382,,"{'bicycle_parking': 'rack', 'covered': 'yes'}",2017-05-24T05:11:16.000-07:00
+bicycle_parking,49.2771498,-123.1184767,,{'capacity': '7'},2017-08-11T05:48:09.000-07:00
+bicycle_parking,49.284719,-123.1182175,,{'capacity': '2'},2017-07-27T02:02:12.000-07:00
+bicycle_parking,49.2843826,-123.11742240000001,,{'capacity': '2'},2018-02-09T00:24:56.000-08:00
+bicycle_parking,49.2846778,-123.11687090000001,,{'capacity': '6'},2017-07-17T16:58:03.000-07:00
+bicycle_parking,49.2793389,-123.1290733,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-07T20:09:14.000-07:00
+bicycle_parking,49.28013920000001,-123.12733770000001,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '2'}",2019-09-10T20:10:27.000-07:00
+bicycle_parking,49.2804699,-123.1268553,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-19T00:14:17.000-07:00
+bicycle_parking,49.280846399999994,-123.1263272,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-19T00:14:11.000-07:00
+bicycle_parking,49.2814591,-123.1258057,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-19T00:09:16.000-07:00
+bicycle_parking,49.2819475,-123.1251612,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-08-19T00:09:16.000-07:00
+bicycle_parking,49.1845556,-123.13368559999999,,{},2016-06-05T06:58:46.000-07:00
+bicycle_parking,49.085510600000006,-123.08459950000001,,{'covered': 'yes'},2017-07-24T04:10:55.000-07:00
+bicycle_parking,49.0905411,-123.07801370000001,,{},2018-10-22T02:26:44.000-07:00
+bicycle_parking,49.085337200000005,-123.0855646,,"{'bicycle_parking': 'rack', 'operator': 'Delta Secondary School', 'covered': 'no'}",2017-07-24T04:10:54.000-07:00
+bicycle_parking,49.28253370000001,-123.1250376,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-10-23T03:26:36.000-07:00
+bicycle_parking,49.2819079,-123.1109094,,"{'bicycle_parking': 'stands', 'capacity': '16'}",2018-06-07T20:05:37.000-07:00
+bicycle_parking,49.259838,-123.0002308,,"{'bicycle_parking': 'rack', 'capacity': '6'}",2018-08-26T04:32:43.000-07:00
+bicycle_parking,49.264232799999995,-123.1859878,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.2640453,-123.1838753,,"{'bicycle_parking': 'stands', 'capacity': '4'}",2017-06-08T03:00:02.000-07:00
+bicycle_parking,49.2599322,-123.19361040000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '40'}",2018-09-29T20:40:21.000-07:00
+bicycle_parking,49.283345000000004,-123.12250900000001,,"{'bicycle_parking': 'stands', 'covered': 'no'}",2019-10-23T03:26:36.000-07:00
+bicycle_parking,49.281780600000005,-123.1252982,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-19T00:09:17.000-07:00
+bicycle_parking,49.2813294,-123.1255179,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '8'}",2019-07-24T15:54:51.000-07:00
+bicycle_parking,49.270572200000004,-123.100871,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2017-07-24T00:03:21.000-07:00
+bicycle_parking,49.268753000000004,-123.10282790000001,,{},2020-01-31T03:33:16.000-08:00
+bicycle_parking,49.249427600000004,-123.1006548,,{},2017-04-08T00:45:34.000-07:00
+bicycle_parking,49.2866822,-123.11745060000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2018-05-23T01:25:18.000-07:00
+bicycle_parking,49.226083200000005,-122.9968357,,{},2017-03-22T04:35:44.000-07:00
+bicycle_parking,49.189759499999994,-122.8020013,,{},2017-03-21T05:03:35.000-07:00
+bicycle_parking,49.1921414,-122.9507575,,{},2017-03-19T05:57:18.000-07:00
+bicycle_parking,49.2716689,-123.15516059999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-06-08T22:11:11.000-07:00
+bicycle_parking,49.2702539,-123.10089909999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2020-04-08T21:28:25.000-07:00
+bicycle_parking,49.2713008,-123.1006565,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '4'}",2017-07-24T00:03:21.000-07:00
+bicycle_parking,49.2809014,-123.1262409,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-19T00:14:13.000-07:00
+bicycle_parking,49.271896399999996,-123.1003346,,{},2017-02-17T04:57:12.000-08:00
+bicycle_parking,49.284740299999996,-123.113142,,{'capacity': '4'},2017-07-27T01:28:50.000-07:00
+bicycle_parking,49.260506899999996,-123.03350049999999,,{},2016-06-23T01:04:30.000-07:00
+bicycle_parking,49.2846727,-123.11813049999999,,{'capacity': '2'},2017-07-27T02:02:12.000-07:00
+bicycle_parking,49.2844266,-123.11722730000001,,{'capacity': '4'},2018-02-09T00:24:57.000-08:00
+bicycle_parking,49.2791111,-123.1289409,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-07T20:09:15.000-07:00
+bicycle_parking,49.2800596,-123.1279925,,"{'bicycle_parking': 'stands', 'capacity': '8'}",2019-08-21T20:33:58.000-07:00
+bicycle_parking,49.28021629999999,-123.1272223,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '2'}",2019-09-10T20:10:27.000-07:00
+bicycle_parking,49.2599125,-123.1929868,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '10'}",2018-09-29T20:40:51.000-07:00
+bicycle_parking,49.2595039,-123.1931025,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '16'}",2018-09-29T20:41:06.000-07:00
+bicycle_parking,49.25893610000001,-123.1919483,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '66'}",2018-09-29T17:51:32.000-07:00
+bicycle_parking,49.273892,-123.12089850000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-11-23T21:54:21.000-08:00
+bicycle_parking,49.355227899999996,-123.0136152,,{},2016-08-28T23:14:17.000-07:00
+bicycle_parking,49.266724100000005,-123.2420797,,{'capacity': '42'},2010-01-27T23:43:22.000-08:00
+bicycle_parking,49.2640369,-123.2451618,,"{'access': 'private', 'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '61'}",2019-05-07T18:53:57.000-07:00
+bicycle_parking,49.2745302,-123.1217638,,{'fee': 'no'},2019-11-24T03:36:40.000-08:00
+bicycle_parking,49.2744997,-123.12182279999999,,"{'fee': 'no', 'capacity': '3'}",2019-11-24T03:36:40.000-08:00
+bicycle_parking,49.275942,-123.1262584,,{'capacity': '5'},2019-08-21T20:33:36.000-07:00
+bicycle_parking,49.2765734,-123.128745,,{'capacity': '4'},2017-06-05T04:12:43.000-07:00
+bicycle_parking,49.2639764,-123.1480578,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '12'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.2734508,-123.11907839999999,,{},2016-09-09T02:23:20.000-07:00
+bicycle_parking,49.2569941,-123.2440763,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '4'}",2013-08-04T00:25:08.000-07:00
+bicycle_parking,49.1686591,-122.58679209999998,,"{'access': 'permissive', 'bicycle_parking': 'rack', 'operator': 'Langley Fine Arts School', 'covered': 'no', 'capacity': '8'}",2016-09-07T01:25:47.000-07:00
+bicycle_parking,49.306272,-123.0100242,,"{'access': 'permissive', 'bicycle_parking': 'rack', 'capacity': '4'}",2017-03-17T19:04:37.000-07:00
+bicycle_parking,49.3062344,-123.01180590000001,,"{'access': 'permissive', 'bicycle_parking': 'rack', 'capacity': '4'}",2017-03-17T19:04:37.000-07:00
+bicycle_parking,49.3072703,-123.0016958,,"{'access': 'permissive', 'bicycle_parking': 'rack', 'capacity': '4'}",2017-03-17T19:06:28.000-07:00
+bicycle_parking,49.3062476,-123.0138541,,"{'access': 'permissive', 'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '4'}",2017-03-16T17:49:23.000-07:00
+bicycle_parking,49.0538769,-122.3169274,,"{'level': '0', 'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '6'}",2017-10-14T11:39:01.000-07:00
+bicycle_parking,49.1394823,-122.60136000000001,,{},2016-12-01T00:10:26.000-08:00
+bicycle_parking,49.2804333,-123.11335290000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-10-09T22:20:42.000-07:00
+bicycle_parking,49.2570136,-123.24398909999998,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2013-08-04T00:25:08.000-07:00
+bicycle_parking,49.2632327,-123.23049350000001,,{},2015-05-02T06:00:01.000-07:00
+bicycle_parking,49.258076700000004,-123.18469840000002,,{},2013-08-05T04:21:53.000-07:00
+bicycle_parking,49.2639343,-123.20597,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T04:44:01.000-07:00
+bicycle_parking,49.263949,-123.21192959999999,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T06:16:02.000-07:00
+bicycle_parking,49.263937799999994,-123.21089669999999,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T06:16:02.000-07:00
+bicycle_parking,49.2639208,-123.20999690000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T06:16:02.000-07:00
+bicycle_parking,49.2638916,-123.20933629999999,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T06:16:02.000-07:00
+bicycle_parking,49.263900799999995,-123.2085973,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T06:16:02.000-07:00
+bicycle_parking,49.2638825,-123.20764550000001,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:44:01.000-07:00
+bicycle_parking,49.2638812,-123.20728340000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:44:01.000-07:00
+bicycle_parking,49.2638643,-123.20629450000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:44:01.000-07:00
+bicycle_parking,49.2638497,-123.20539740000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:44:01.000-07:00
+bicycle_parking,49.2659862,-123.24650520000002,,{},2013-08-05T01:55:01.000-07:00
+bicycle_parking,49.263773,-123.2109894,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T02:03:50.000-07:00
+bicycle_parking,49.2638359,-123.20453710000001,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T04:44:01.000-07:00
+bicycle_parking,49.2638321,-123.2043863,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:44:01.000-07:00
+bicycle_parking,49.2637509,-123.2088746,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T02:03:50.000-07:00
+bicycle_parking,49.263744700000004,-123.2093121,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T02:03:50.000-07:00
+bicycle_parking,49.2660903,-123.24595740000001,,{},2013-08-05T01:55:01.000-07:00
+bicycle_parking,49.266079,-123.2460825,,{},2013-08-05T01:55:01.000-07:00
+bicycle_parking,49.2660265,-123.2462996,,{},2013-08-05T01:55:01.000-07:00
+bicycle_parking,49.283010600000004,-123.1285331,,{'capacity': '4'},2017-10-21T01:53:36.000-07:00
+bicycle_parking,49.2775924,-123.11748940000001,,"{'bicycle_parking': 'stands', 'capacity': '5'}",2019-08-14T01:22:01.000-07:00
+bicycle_parking,49.2862959,-123.1369311,,{},2017-04-16T02:39:38.000-07:00
+bicycle_parking,49.2771406,-123.12026019999999,,{'capacity': '3'},2017-08-11T05:48:11.000-07:00
+bicycle_parking,49.0516381,-122.3258798,,"{'covered': 'no', 'capacity': '10'}",2017-10-09T14:21:39.000-07:00
+bicycle_parking,49.267444700000006,-123.1115077,,{},2017-10-07T23:27:55.000-07:00
+bicycle_parking,49.2593686,-123.11477079999999,,{},2017-10-08T01:34:29.000-07:00
+bicycle_parking,49.2808718,-123.1278309,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-07-27T20:13:01.000-07:00
+bicycle_parking,49.2784841,-123.1219885,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-14T01:22:03.000-07:00
+bicycle_parking,49.2794176,-123.1201482,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-24T00:30:08.000-07:00
+bicycle_parking,49.2792602,-123.117507,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '11'}",2019-10-16T20:31:17.000-07:00
+bicycle_parking,49.269689,-123.0702886,,{'capacity': '3'},2017-05-11T04:51:45.000-07:00
+bicycle_parking,49.273824,-123.0981392,,{},2016-07-10T20:10:55.000-07:00
+bicycle_parking,49.2267859,-123.0039525,,{},2017-03-07T04:40:28.000-08:00
+bicycle_parking,49.2267144,-123.00400630000001,,{},2017-03-07T04:40:28.000-08:00
+bicycle_parking,49.226827,-123.00374540000001,,{},2017-03-07T04:40:28.000-08:00
+bicycle_parking,49.2267758,-123.0036365,,{},2017-03-07T04:24:15.000-08:00
+bicycle_parking,49.0502293,-122.3153662,,{},2017-02-11T23:03:48.000-08:00
+bicycle_parking,49.282335700000004,-123.10845619999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-06T22:14:08.000-07:00
+bicycle_parking,49.281618,-123.03429080000001,,{},2017-11-30T06:26:44.000-08:00
+bicycle_parking,49.2813009,-123.03589450000001,,{},2017-11-30T06:26:42.000-08:00
+bicycle_parking,49.1845865,-122.7991558,,{'covered': 'yes'},2017-11-29T18:53:59.000-08:00
+bicycle_parking,49.261232299999996,-123.06966499999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-03-19T01:00:11.000-07:00
+bicycle_parking,49.0499305,-122.32297920000002,,{'capacity': '10'},2017-10-09T14:21:35.000-07:00
+bicycle_parking,49.050998799999995,-122.32682959999998,,"{'covered': 'no', 'capacity': '5'}",2017-10-09T14:21:39.000-07:00
+bicycle_parking,49.051036700000004,-122.3269311,,"{'covered': 'no', 'capacity': '3'}",2017-10-09T14:21:40.000-07:00
+bicycle_parking,49.2677936,-123.1009537,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '3'}",2017-07-24T00:03:19.000-07:00
+bicycle_parking,49.2638247,-123.10108770000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.264134000000006,-123.1010749,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.2643998,-123.10108980000001,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2019-03-25T04:19:09.000-07:00
+bicycle_parking,49.26431470000001,-123.1010723,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:19.000-07:00
+bicycle_parking,49.264352,-123.1010709,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:19.000-07:00
+bicycle_parking,49.2645051,-123.1010845,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2019-03-25T04:19:09.000-07:00
+bicycle_parking,49.2656409,-123.10114569999999,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '3'}",2017-07-24T00:03:19.000-07:00
+bicycle_parking,49.2668307,-123.10094769999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:19.000-07:00
+bicycle_parking,49.2678071,-123.100954,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-24T00:03:19.000-07:00
+bicycle_parking,49.0507249,-122.3275537,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2017-10-09T14:21:43.000-07:00
+bicycle_parking,49.2707595,-123.10088049999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:19.000-07:00
+bicycle_parking,49.271077899999995,-123.10085900000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2017-07-24T00:03:19.000-07:00
+bicycle_parking,49.276832399999996,-123.1194074,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-21T20:34:30.000-07:00
+bicycle_parking,49.2767566,-123.11929640000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-21T20:34:29.000-07:00
+bicycle_parking,49.2767146,-123.11923590000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-21T20:34:28.000-07:00
+bicycle_parking,49.2768761,-123.11948159999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-08-21T20:34:26.000-07:00
+bicycle_parking,49.28369779999999,-123.1141983,,{'capacity': '4'},2018-02-10T00:10:32.000-08:00
+bicycle_parking,49.2766481,-123.1152495,,"{'covered': 'no', 'capacity': '2'}",2018-02-09T06:00:33.000-08:00
+bicycle_parking,49.17788529999999,-122.76119990000001,,{},2017-07-01T22:30:02.000-07:00
+bicycle_parking,49.285773799999994,-123.12427209999998,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-10-09T18:23:51.000-07:00
+bicycle_parking,49.2859131,-123.1224378,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-09T18:23:51.000-07:00
+bicycle_parking,49.281621200000004,-123.1275837,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-08-19T00:13:33.000-07:00
+bicycle_parking,49.2902049,-123.11805220000001,,{},2017-08-11T19:12:04.000-07:00
+bicycle_parking,49.29026270000001,-123.1179365,,{},2017-08-11T19:12:03.000-07:00
+bicycle_parking,49.2901915,-123.1169846,,{},2017-10-21T18:50:58.000-07:00
+bicycle_parking,49.2901679,-123.1169221,,{},2017-10-21T18:50:58.000-07:00
+bicycle_parking,49.299401399999994,-123.13047809999999,,{},2017-02-22T09:22:57.000-08:00
+bicycle_parking,49.299439899999996,-123.13045530000001,,{},2017-02-22T09:22:57.000-08:00
+bicycle_parking,49.2829077,-123.11232849999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-06T22:14:06.000-07:00
+bicycle_parking,49.285962899999994,-123.1230029,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-10-09T18:23:50.000-07:00
+bicycle_parking,49.281329,-123.12955349999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-10-08T05:09:15.000-07:00
+bicycle_parking,49.265738299999995,-123.0792462,,{'capacity': '18'},2017-05-11T04:31:08.000-07:00
+bicycle_parking,49.278639500000004,-123.126297,,"{'covered': 'no', 'capacity': '5'}",2018-05-19T00:50:20.000-07:00
+bicycle_parking,49.257727100000004,-123.16514840000002,,{'capacity': '3'},2010-04-10T01:54:07.000-07:00
+bicycle_parking,49.2676182,-123.1431143,,{},2019-03-03T06:25:15.000-08:00
+bicycle_parking,49.2677404,-123.14311550000001,,{},2019-03-03T06:25:15.000-08:00
+bicycle_parking,49.2606956,-123.11400309999999,,{},2017-09-17T00:59:24.000-07:00
+bicycle_parking,49.2638098,-123.253588,,{'capacity': '5'},2010-10-31T21:37:58.000-07:00
+bicycle_parking,49.2625371,-123.25323190000002,,{'capacity': '7'},2010-02-01T21:18:49.000-08:00
+bicycle_parking,49.277559000000004,-123.1201685,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-10-16T20:36:37.000-07:00
+bicycle_parking,49.0649239,-122.84235859999998,,{},2017-08-14T20:58:22.000-07:00
+bicycle_parking,49.160093100000005,-122.66081809999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '10'}",2019-07-27T00:13:26.000-07:00
+bicycle_parking,49.050083,-122.32537549999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2016-07-07T02:30:41.000-07:00
+bicycle_parking,49.2853529,-123.1161679,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '5'}",2019-10-09T18:23:49.000-07:00
+bicycle_parking,49.050070500000004,-122.31373729999999,,{},2016-06-29T20:18:06.000-07:00
+bicycle_parking,49.057975899999995,-122.37868490000001,,{'level': '0'},2017-05-27T14:24:26.000-07:00
+bicycle_parking,49.051365999999994,-122.3177355,,{},2017-03-04T05:59:56.000-08:00
+bicycle_parking,49.2533965,-123.2333502,,"{'covered': 'no', 'capacity': '5'}",2011-04-05T05:00:27.000-07:00
+bicycle_parking,49.2535836,-123.2336882,,"{'covered': 'no', 'capacity': '6'}",2011-04-06T21:06:24.000-07:00
+bicycle_parking,49.2776812,-123.13113359999998,,{},2016-04-06T01:58:59.000-07:00
+bicycle_parking,49.277930100000006,-123.13122949999999,,{'capacity': '5'},2018-05-18T05:24:44.000-07:00
+bicycle_parking,49.278551799999995,-123.13019440000001,,{'capacity': '5'},2018-05-18T05:25:47.000-07:00
+bicycle_parking,49.285745299999995,-123.11434409999998,,{'capacity': '9'},2017-07-27T01:28:49.000-07:00
+bicycle_parking,49.0499529,-122.3381575,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2016-12-19T16:38:39.000-08:00
+bicycle_parking,49.280795399999995,-123.1223513,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-10-24T00:30:13.000-07:00
+bicycle_parking,49.2584929,-123.2520949,,{'operator': 'Totem Park'},2016-12-19T19:42:41.000-08:00
+bicycle_parking,49.2588956,-123.2514723,,{'operator': 'Totem Park'},2016-12-19T19:38:02.000-08:00
+bicycle_parking,49.2652852,-123.25232240000001,,{'operator': 'Chemistry'},2016-12-19T19:38:01.000-08:00
+bicycle_parking,49.2652023,-123.25257260000001,,{'operator': 'Chemistry'},2016-12-19T19:34:50.000-08:00
+bicycle_parking,49.2585536,-123.2521279,,{'operator': 'Totem Park'},2016-12-19T19:42:40.000-08:00
+bicycle_parking,49.049870299999995,-122.33842879999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2016-12-19T16:45:29.000-08:00
+bicycle_parking,49.0501085,-122.33879420000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2016-12-19T16:40:59.000-08:00
+bicycle_parking,49.286456799999996,-123.1407628,,{},2017-04-16T02:39:31.000-07:00
+bicycle_parking,49.285552100000004,-123.1333685,,{},2017-04-15T00:54:35.000-07:00
+bicycle_parking,49.2637593,-123.1012108,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.2848789,-123.1131111,,{'capacity': '2'},2017-09-26T19:18:38.000-07:00
+bicycle_parking,49.2675755,-123.11922209999999,,{'capacity': '10'},2010-03-04T20:01:06.000-08:00
+bicycle_parking,49.2673199,-123.11933710000001,,{},2010-03-04T20:01:06.000-08:00
+bicycle_parking,49.2764235,-123.14036370000001,,{'capacity': '8'},2010-03-04T06:58:16.000-08:00
+bicycle_parking,49.2731223,-123.15718090000001,,{'capacity': '7'},2010-03-04T06:58:15.000-08:00
+bicycle_parking,49.2731177,-123.1571594,,{'capacity': '7'},2010-03-04T06:58:15.000-08:00
+bicycle_parking,49.2731052,-123.1571331,,{'capacity': '7'},2010-03-04T06:58:14.000-08:00
+bicycle_parking,49.2731286,-123.15708049999999,,{'capacity': '7'},2010-03-04T06:58:14.000-08:00
+bicycle_parking,49.2641945,-123.1675945,,"{'bicycle_parking': 'rack', 'capacity': '10'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.2642099,-123.1666987,,"{'bicycle_parking': 'rack', 'capacity': '9'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.280887799999995,-123.10893370000001,,{'capacity': '12'},2017-08-11T01:37:41.000-07:00
+bicycle_parking,49.049099700000006,-122.28883880000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2018-04-30T13:17:03.000-07:00
+bicycle_parking,49.265279799999995,-123.2503728,,{},2018-07-20T00:34:51.000-07:00
+bicycle_parking,49.259509200000004,-123.25269159999999,,{'covered': 'yes'},2010-03-29T18:24:24.000-07:00
+bicycle_parking,49.2576975,-123.252882,,"{'covered': 'yes', 'capacity': '40'}",2010-04-27T21:47:06.000-07:00
+bicycle_parking,49.2598585,-123.2527955,,"{'covered': 'yes', 'capacity': '40'}",2010-03-29T18:24:24.000-07:00
+bicycle_parking,49.259488899999994,-123.2527332,,{'capacity': '14'},2010-03-29T18:24:24.000-07:00
+bicycle_parking,49.2595601,-123.25275390000002,,{'covered': 'yes'},2010-03-29T18:24:23.000-07:00
+bicycle_parking,49.2585511,-123.2533997,,{},2010-03-29T18:24:22.000-07:00
+bicycle_parking,49.259928,-123.2526345,,{'capacity': '8'},2010-03-29T18:24:21.000-07:00
+bicycle_parking,49.2665308,-123.1159521,Free & Safe Bicycle Parking,{'url': 'http://www.thebicyclevalet.com'},2010-03-04T20:01:07.000-08:00
+bicycle_parking,49.2170841,-123.2121777,,{},2016-08-13T01:12:56.000-07:00
+bicycle_parking,49.272926299999995,-123.0694874,,{},2016-08-14T04:33:30.000-07:00
+bicycle_parking,49.230865,-122.80792659999999,,{},2019-07-06T00:37:12.000-07:00
+bicycle_parking,49.2854684,-123.1142986,,{'capacity': '2'},2017-07-27T01:28:52.000-07:00
+bicycle_parking,49.2865318,-123.1156261,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2018-06-01T14:57:44.000-07:00
+bicycle_parking,49.286466600000004,-123.1173165,,{},2016-07-21T17:50:16.000-07:00
+bicycle_parking,49.2831626,-123.1104101,,{'capacity': '3'},2017-05-18T00:11:12.000-07:00
+bicycle_parking,49.2849652,-123.1132643,,{'capacity': '4'},2017-07-27T01:28:51.000-07:00
+bicycle_parking,49.285126899999995,-123.1134875,,{'capacity': '2'},2017-07-27T01:28:50.000-07:00
+bicycle_parking,49.2862428,-123.11508870000002,,{},2016-07-21T17:50:18.000-07:00
+bicycle_parking,49.2862735,-123.1155541,,{},2016-07-21T17:58:20.000-07:00
+bicycle_parking,49.2756842,-122.751593,,{},2016-08-16T00:29:54.000-07:00
+bicycle_parking,49.264889200000006,-123.06961340000001,,{'capacity': '18'},2018-09-18T21:19:18.000-07:00
+bicycle_parking,49.185669399999995,-122.7574102,,{},2016-08-15T23:05:01.000-07:00
+bicycle_parking,49.282588399999995,-123.1344824,,{},2016-08-15T03:05:50.000-07:00
+bicycle_parking,49.282076,-123.1336913,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-17T20:24:48.000-07:00
+bicycle_parking,49.2692064,-123.0695752,,{'capacity': '3'},2017-05-11T04:50:46.000-07:00
+bicycle_parking,49.282184,-123.0762227,,{},2016-08-14T04:33:41.000-07:00
+bicycle_parking,49.284609100000004,-123.06560049999999,,{},2016-08-14T04:33:35.000-07:00
+bicycle_parking,49.2838386,-123.06431210000001,,{},2016-08-14T04:33:32.000-07:00
+bicycle_parking,49.273067100000006,-123.06925120000001,,{},2016-08-14T04:33:31.000-07:00
+bicycle_parking,49.2588467,-123.2530977,,{'covered': 'yes'},2010-03-29T18:24:21.000-07:00
+bicycle_parking,49.2595177,-123.25273840000001,,{'capacity': '14'},2010-03-29T18:24:20.000-07:00
+bicycle_parking,49.2646891,-123.2534864,,{'capacity': '14'},2010-03-28T21:56:46.000-07:00
+bicycle_parking,49.258756299999995,-123.247832,,{'capacity': '10'},2010-01-13T18:33:50.000-08:00
+bicycle_parking,49.2658271,-123.2538807,,{'capacity': '12'},2011-04-06T23:58:43.000-07:00
+bicycle_parking,49.2662978,-123.2558217,,{'capacity': '14'},2013-12-28T05:59:23.000-08:00
+bicycle_parking,49.2661893,-123.2557815,,{'capacity': '28'},2013-12-28T05:59:23.000-08:00
+bicycle_parking,49.269309,-123.2555081,,{'capacity': '12'},2010-01-25T19:04:07.000-08:00
+bicycle_parking,49.2590461,-123.2461772,,{},2011-04-11T18:45:16.000-07:00
+bicycle_parking,49.259068400000004,-123.2480562,,{'capacity': '10'},2010-01-13T18:33:50.000-08:00
+bicycle_parking,49.2589688,-123.2480068,,{'capacity': '10'},2019-10-06T06:52:38.000-07:00
+bicycle_parking,49.2588928,-123.24792169999999,,{'capacity': '10'},2010-01-13T18:33:50.000-08:00
+bicycle_parking,49.263481899999995,-123.25472620000001,,{'capacity': '24'},2010-05-11T04:06:21.000-07:00
+bicycle_parking,49.265699,-123.24612739999999,,{'capacity': '28'},2017-12-20T07:08:43.000-08:00
+bicycle_parking,49.2673755,-123.2579496,,{'capacity': '12'},2010-01-10T00:54:38.000-08:00
+bicycle_parking,49.2666892,-123.25742369999999,,{'capacity': '28'},2010-01-10T00:54:38.000-08:00
+bicycle_parking,49.258052,-123.24970230000001,,{'capacity': '8'},2010-01-10T00:54:37.000-08:00
+bicycle_parking,49.2672834,-123.1030514,,{},2016-08-20T04:15:40.000-07:00
+bicycle_parking,49.2673013,-123.10398789999999,,{},2016-08-20T04:15:39.000-07:00
+bicycle_parking,49.2673073,-123.104332,,{},2016-08-20T04:15:38.000-07:00
+bicycle_parking,49.2658642,-123.2426102,,{'created_by': 'Potlatch 0.10b'},2008-08-21T00:26:55.000-07:00
+bicycle_parking,49.175051700000004,-123.15312560000001,,{'bicycle_parking': 'rack'},2017-05-24T05:11:16.000-07:00
+bicycle_parking,49.2669779,-123.252124,,{'capacity': '14'},2010-01-26T10:58:23.000-08:00
+bicycle_parking,49.262120700000004,-123.25034860000001,,{'capacity': '28'},2010-01-27T23:43:00.000-08:00
+bicycle_parking,49.2658467,-123.2566355,,{'capacity': '6'},2010-03-28T21:56:45.000-07:00
+bicycle_parking,49.243549,-123.18605190000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-05-06T23:53:07.000-07:00
+bicycle_parking,49.2656804,-123.2564836,,{'capacity': '6'},2010-03-28T21:56:45.000-07:00
+bicycle_parking,49.264700899999994,-123.2534452,,{'capacity': '14'},2010-03-28T21:56:45.000-07:00
+bicycle_parking,49.267112,-123.2567374,,{'capacity': '16'},2010-03-28T21:56:45.000-07:00
+bicycle_parking,49.2661222,-123.25687490000001,,{'capacity': '6'},2010-03-28T21:56:45.000-07:00
+bicycle_parking,49.2659391,-123.2566999,,{'capacity': '6'},2010-03-28T21:56:45.000-07:00
+bicycle_parking,49.2436905,-123.18554250000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-05-06T23:53:07.000-07:00
+bicycle_parking,49.2435011,-123.1861136,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-05-06T23:53:07.000-07:00
+bicycle_parking,49.2571055,-123.235836,,{'capacity': '6'},2010-03-28T11:09:24.000-07:00
+bicycle_parking,49.243672100000005,-123.18551370000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-05-06T23:53:07.000-07:00
+bicycle_parking,49.2594166,-123.2491213,,{'capacity': '7'},2010-01-27T23:43:01.000-08:00
+bicycle_parking,49.204535899999996,-122.87558359999998,,"{'bicycle_parking': 'lockers', 'operator': 'Translink'}",2017-10-21T22:35:16.000-07:00
+bicycle_parking,49.2610831,-123.2480765,,{'capacity': '14'},2019-03-11T18:52:03.000-07:00
+bicycle_parking,49.26093579999999,-123.2484134,,{'capacity': '14'},2019-03-09T20:03:27.000-08:00
+bicycle_parking,49.2603705,-123.2475371,,{'capacity': '14'},2010-01-27T23:43:06.000-08:00
+bicycle_parking,49.260392100000004,-123.2474824,,{'capacity': '14'},2010-01-27T23:43:06.000-08:00
+bicycle_parking,49.2603476,-123.2476098,,{'capacity': '14'},2010-01-27T23:43:06.000-08:00
+bicycle_parking,49.2611673,-123.24945079999999,,{'capacity': '28'},2010-12-24T06:51:14.000-08:00
+bicycle_parking,49.2610052,-123.2493243,,{'capacity': '28'},2010-12-24T06:51:14.000-08:00
+bicycle_parking,49.2849862,-123.11330530000001,,{'capacity': '2'},2017-07-27T01:28:54.000-07:00
+bicycle_parking,49.2848203,-123.11302040000001,,{'capacity': '2'},2017-09-26T19:18:38.000-07:00
+bicycle_parking,49.2730886,-123.12016609999999,,{},2017-04-14T16:31:37.000-07:00
+bicycle_parking,49.2842177,-123.11209540000002,,"{'covered': 'no', 'capacity': '9'}",2018-08-30T22:43:42.000-07:00
+bicycle_parking,49.261447100000005,-123.2395297,,"{'access': 'permissive', 'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '16'}",2015-09-04T06:05:11.000-07:00
+bicycle_parking,49.261415500000005,-123.2401458,,{'capacity': '14'},2010-04-22T08:15:45.000-07:00
+bicycle_parking,49.2665917,-123.2591346,,{'capacity': '5'},2010-04-22T08:15:40.000-07:00
+bicycle_parking,49.2794309,-122.8486666,,{},2016-10-10T21:30:39.000-07:00
+bicycle_parking,49.2752659,-122.7988044,,{},2016-10-11T04:06:59.000-07:00
+bicycle_parking,49.2754129,-122.79869199999999,,{},2016-10-10T20:31:04.000-07:00
+bicycle_parking,49.2756276,-122.7985284,,{},2016-10-10T20:31:03.000-07:00
+bicycle_parking,49.280651399999996,-123.1317557,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2020-03-14T19:34:44.000-07:00
+bicycle_parking,49.2250761,-122.9970446,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-25T07:01:00.000-07:00
+bicycle_parking,49.139160499999996,-123.1874262,,{},2012-02-19T02:25:21.000-08:00
+bicycle_parking,49.2659566,-123.25566459999999,,{'capacity': '28'},2012-02-14T23:23:29.000-08:00
+bicycle_parking,49.265956,-123.2559693,,{'capacity': '28'},2019-03-01T20:38:18.000-08:00
+bicycle_parking,49.265676299999996,-123.25529850000001,,{},2012-02-14T23:23:28.000-08:00
+bicycle_parking,49.262269,-123.24838179999999,,{},2012-02-14T23:23:26.000-08:00
+bicycle_parking,49.2618305,-123.24865449999999,,{},2012-02-14T23:23:25.000-08:00
+bicycle_parking,49.05705220000001,-122.4472814,,{},2018-04-20T09:02:45.000-07:00
+bicycle_parking,49.0029184,-122.48472240000001,,{},2016-09-25T05:04:17.000-07:00
+bicycle_parking,49.1404419,-122.60354939999999,,{'capacity': '5'},2016-09-22T03:26:14.000-07:00
+bicycle_parking,49.140554200000004,-122.6016402,,{'capacity': '12'},2016-09-21T18:10:29.000-07:00
+bicycle_parking,49.2607895,-123.23953610000001,,{'capacity': '14'},2010-04-22T08:15:51.000-07:00
+bicycle_parking,49.2608646,-123.23872779999999,,{'capacity': '8'},2010-04-22T08:15:52.000-07:00
+bicycle_parking,49.2631612,-123.10768629999998,,{'capacity': '6'},2018-03-16T00:17:02.000-07:00
+bicycle_parking,49.2797351,-123.10719909999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-10-31T00:54:39.000-07:00
+bicycle_parking,49.28107120000001,-123.1079261,,{'capacity': '3'},2017-07-06T03:42:34.000-07:00
+bicycle_parking,49.2621557,-123.1052054,,{},2016-09-05T20:50:48.000-07:00
+bicycle_parking,49.262677399999994,-123.1374638,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-11T21:22:28.000-07:00
+bicycle_parking,49.2627464,-123.13739299999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-11T21:22:28.000-07:00
+bicycle_parking,49.045367799999994,-122.3056354,,{'capacity': '9'},2016-09-07T00:52:40.000-07:00
+bicycle_parking,49.3098826,-123.08270929999999,,{},2016-09-05T01:33:53.000-07:00
+bicycle_parking,49.264041399999996,-123.1527991,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.050760700000005,-122.31547150000002,,{},2016-09-11T20:46:35.000-07:00
+bicycle_parking,49.225901799999995,-123.00177430000001,,{},2017-03-12T06:13:18.000-07:00
+bicycle_parking,49.2630312,-123.10889840000002,,"{'bicycle_parking': 'wall_loops', 'covered': 'yes', 'capacity': '16'}",2019-10-21T21:30:24.000-07:00
+bicycle_parking,49.2620245,-123.251897,,{},2010-04-27T21:47:04.000-07:00
+bicycle_parking,49.2574949,-123.2525,,{},2010-04-27T21:47:03.000-07:00
+bicycle_parking,49.2628119,-123.25234280000001,,{},2010-04-27T21:47:03.000-07:00
+bicycle_parking,49.09645020000001,-122.04406110000001,,{},2018-03-13T17:05:01.000-07:00
+bicycle_parking,49.2630312,-123.1088,,"{'bicycle_parking': 'wall_loops', 'covered': 'yes', 'capacity': '16'}",2019-10-21T21:30:27.000-07:00
+bicycle_parking,49.263034600000005,-123.1091212,,"{'bicycle_parking': 'wall_loops', 'covered': 'yes', 'capacity': '16'}",2019-10-21T21:30:26.000-07:00
+bicycle_parking,49.263034600000005,-123.10902800000001,,"{'bicycle_parking': 'wall_loops', 'covered': 'yes', 'capacity': '16'}",2019-10-21T21:30:25.000-07:00
+bicycle_parking,49.2631597,-123.107598,,{'capacity': '6'},2018-03-16T00:17:02.000-07:00
+bicycle_parking,49.28523870000001,-123.1341426,,{},2016-07-20T04:28:58.000-07:00
+bicycle_parking,49.2843062,-123.13554509999999,,{},2016-07-20T04:29:00.000-07:00
+bicycle_parking,49.2802343,-123.12556509999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-18T16:43:48.000-07:00
+bicycle_parking,49.276949200000004,-123.1147905,,{'capacity': '2'},2017-08-11T01:40:05.000-07:00
+bicycle_parking,49.2822828,-123.10956399999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:53.000-07:00
+bicycle_parking,49.281133200000006,-123.1083003,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-12-13T04:11:55.000-08:00
+bicycle_parking,49.2812192,-123.1078608,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-12-13T04:11:27.000-08:00
+bicycle_parking,49.0582277,-122.33565130000001,,{},2016-10-24T03:08:48.000-07:00
+bicycle_parking,49.141326899999996,-122.59806029999999,,{},2016-10-18T18:05:01.000-07:00
+bicycle_parking,49.2769449,-123.11502820000001,,{'capacity': '2'},2017-08-11T01:39:39.000-07:00
+bicycle_parking,49.2771799,-123.11471100000001,,{'capacity': '2'},2017-08-11T01:40:05.000-07:00
+bicycle_parking,49.2768294,-123.11520320000001,,{'capacity': '2'},2017-08-11T01:39:25.000-07:00
+bicycle_parking,49.264781799999994,-123.1065081,,{},2016-08-11T22:24:23.000-07:00
+bicycle_parking,49.2822043,-123.10959469999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:53.000-07:00
+bicycle_parking,49.266472799999995,-123.1155452,,{},2016-08-11T22:24:25.000-07:00
+bicycle_parking,49.2648203,-123.10696580000001,,{},2016-08-11T22:24:23.000-07:00
+bicycle_parking,49.0180196,-122.65525749999999,,{},2016-08-11T00:19:44.000-07:00
+bicycle_parking,49.007657200000004,-123.0898163,,{},2019-08-19T22:39:04.000-07:00
+bicycle_parking,49.2828279,-123.110277,,{'capacity': '4'},2017-05-18T00:11:14.000-07:00
+bicycle_parking,49.2828105,-123.1102014,,{'capacity': '4'},2017-05-18T00:11:13.000-07:00
+bicycle_parking,49.2837046,-123.11118359999999,,{'capacity': '2'},2017-07-24T02:08:14.000-07:00
+bicycle_parking,49.2840053,-123.1117163,,{'capacity': '2'},2017-07-08T02:32:33.000-07:00
+bicycle_parking,49.2818471,-123.1097547,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:53.000-07:00
+bicycle_parking,49.2701427,-123.106899,,{},2016-09-18T03:32:16.000-07:00
+bicycle_parking,49.280450200000004,-123.12522959999998,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2019-09-11T03:33:15.000-07:00
+bicycle_parking,49.278220000000005,-123.1276602,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '3'}",2019-09-10T20:10:28.000-07:00
+bicycle_parking,49.282056299999994,-123.12278470000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-07T04:41:48.000-07:00
+bicycle_parking,49.2823122,-123.12235690000001,,"{'bicycle_parking': 'stands', 'capacity': '3'}",2019-09-11T03:33:14.000-07:00
+bicycle_parking,49.282360499999996,-123.12228219999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-07T04:41:48.000-07:00
+bicycle_parking,49.2824253,-123.1221817,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2019-09-11T03:33:13.000-07:00
+bicycle_parking,49.2827789,-123.1216534,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '2'}",2019-10-01T18:39:37.000-07:00
+bicycle_parking,49.2838563,-123.11984640000001,,{'capacity': '30'},2018-08-23T22:31:23.000-07:00
+bicycle_parking,49.279566700000004,-123.1262715,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2019-09-10T20:10:17.000-07:00
+bicycle_parking,49.2799838,-123.125628,,{},2016-07-20T02:59:09.000-07:00
+bicycle_parking,49.2778502,-123.1274398,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-10T20:10:28.000-07:00
+bicycle_parking,49.27036470000001,-123.1071504,,{},2016-09-18T03:32:16.000-07:00
+bicycle_parking,49.2769679,-123.1257916,,{'bicycle_parking': 'stands'},2019-09-10T20:10:16.000-07:00
+bicycle_parking,49.2768219,-123.1258088,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-10T20:10:19.000-07:00
+bicycle_parking,49.276120899999995,-123.1236803,,{},2016-07-19T05:46:54.000-07:00
+bicycle_parking,49.2766569,-123.12338970000002,,"{'bicycle_parking': 'stands', 'covered': 'no'}",2019-10-21T20:00:21.000-07:00
+bicycle_parking,49.280820299999995,-123.11690290000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-06T23:21:31.000-07:00
+bicycle_parking,49.276157500000004,-123.12406340000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-11-14T02:58:13.000-08:00
+bicycle_parking,49.2762059,-123.12355990000002,,{},2016-07-19T05:46:53.000-07:00
+bicycle_parking,49.280467,-123.1174287,,{'capacity': '8'},2017-07-08T02:41:32.000-07:00
+bicycle_parking,49.2637584,-123.1011731,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.2796988,-123.12606699999999,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2019-09-10T20:10:16.000-07:00
+bicycle_parking,49.2636505,-123.1012128,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.2644366,-123.185024,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.2642331,-123.172575,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2645039,-123.1713123,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.26428789999999,-123.17132,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.264318100000004,-123.16808859999999,,{'capacity': '6'},2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.264233399999995,-123.16458859999999,,"{'bicycle_parking': 'rack', 'capacity': '7'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.26425089999999,-123.1736752,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2642461,-123.17347020000001,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2642205,-123.1720219,,"{'bicycle_parking': 'rack', 'capacity': '7'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2643806,-123.17113570000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2642029,-123.17084059999999,,"{'bicycle_parking': 'rack', 'capacity': '6'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2641989,-123.17066670000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.264182,-123.16957859999998,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2641833,-123.169676,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2641691,-123.1692691,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2641705,-123.1690082,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.264126700000006,-123.1662805,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.26412,-123.16585800000001,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T04:43:57.000-07:00
+bicycle_parking,49.2641128,-123.16546969999999,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T04:43:57.000-07:00
+bicycle_parking,49.264109399999995,-123.165314,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T04:43:57.000-07:00
+bicycle_parking,49.2642325,-123.17279860000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.264322899999996,-123.1740611,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.2642701,-123.17482679999999,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:58.000-07:00
+bicycle_parking,49.264335700000004,-123.17890700000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2644348,-123.1847718,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.264634,-123.18388829999999,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.264446500000005,-123.1833649,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2644308,-123.18248829999999,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2643817,-123.1815655,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.264366700000004,-123.1807222,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2643639,-123.18056229999999,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.26444,-123.1796522,,"{'bicycle_parking': 'rack', 'capacity': '7'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2643646,-123.17852679999999,,"{'bicycle_parking': 'rack', 'capacity': '6'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.264275,-123.1750206,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.264327,-123.178425,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2644122,-123.17775729999998,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2643159,-123.1775723,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2643128,-123.1774425,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.264302,-123.17672179999998,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2642989,-123.1764207,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2643474,-123.175843,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.264281700000005,-123.1754007,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:59.000-07:00
+bicycle_parking,49.2641027,-123.1642578,,"{'bicycle_parking': 'rack', 'capacity': '6'}",2017-06-08T04:43:57.000-07:00
+bicycle_parking,49.2641005,-123.1641004,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:57.000-07:00
+bicycle_parking,49.2640943,-123.16384640000001,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:57.000-07:00
+bicycle_parking,49.2641115,-123.1766241,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.264053000000004,-123.17270079999999,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.264055299999995,-123.1728325,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2640631,-123.1733371,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2640346,-123.17358940000001,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2640486,-123.1740486,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.264086,-123.17472859999998,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2640971,-123.1752798,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2639954,-123.1759885,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2641335,-123.17760619999999,,"{'bicycle_parking': 'rack', 'capacity': '7'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2640491,-123.1725101,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2640968,-123.17791709999999,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2641414,-123.1781553,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:59:59.000-07:00
+bicycle_parking,49.264145299999996,-123.1783965,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:59:59.000-07:00
+bicycle_parking,49.264011700000005,-123.1795206,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T02:59:59.000-07:00
+bicycle_parking,49.2641819,-123.1803274,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:59:59.000-07:00
+bicycle_parking,49.2641841,-123.18056429999999,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:59:59.000-07:00
+bicycle_parking,49.264193799999994,-123.18120220000002,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T02:59:59.000-07:00
+bicycle_parking,49.2640544,-123.181739,,"{'bicycle_parking': 'stands', 'capacity': '8'}",2017-06-08T02:59:59.000-07:00
+bicycle_parking,49.2640469,-123.1723604,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2639476,-123.172168,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.264086,-123.16332129999999,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:43:57.000-07:00
+bicycle_parking,49.2639565,-123.1659144,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.264075399999996,-123.1629206,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:43:57.000-07:00
+bicycle_parking,49.2639007,-123.1632307,,"{'bicycle_parking': 'rack', 'capacity': '6'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.2638549,-123.1639268,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.2638655,-123.16428,,"{'bicycle_parking': 'stands', 'capacity': '9'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.2638304,-123.1647992,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.263861600000006,-123.1647992,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.2639364,-123.1649591,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.2639392,-123.16530290000001,,"{'bicycle_parking': 'rack', 'capacity': '7'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.263961,-123.16635320000002,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.264033500000004,-123.17156840000001,,"{'bicycle_parking': 'stands', 'capacity': '4'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.2639749,-123.1670322,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.2639855,-123.1678327,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.263986100000004,-123.16788319999999,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.263991100000005,-123.16950390000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.263993299999996,-123.1696912,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T03:00:01.000-07:00
+bicycle_parking,49.2639024,-123.17026329999999,,"{'bicycle_parking': 'rack', 'capacity': '6'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.264008399999994,-123.17058490000002,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.264027899999995,-123.1709937,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T03:00:00.000-07:00
+bicycle_parking,49.264436200000006,-123.1849043,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.2644394,-123.18518490000001,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.263476700000005,-123.20371999999999,,"{'bicycle_parking': 'wall_loops', 'capacity': '7'}",2017-06-08T02:03:50.000-07:00
+bicycle_parking,49.2646104,-123.1862749,,"{'bicycle_parking': 'rack', 'capacity': '9'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.2606112,-123.1387976,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2599156,-123.13841609999999,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '6'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2608694,-123.1391663,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '2'}",2019-09-12T23:38:15.000-07:00
+bicycle_parking,49.259061100000004,-123.1385709,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2616742,-123.13926200000002,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.258047499999996,-123.13830379999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2644511,-123.1388243,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2579535,-123.1390294,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2662614,-123.13959540000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2584321,-123.13889109999998,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.2625804,-123.13816090000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.2591919,-123.13884850000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.261283500000005,-123.1385111,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.2608665,-123.13899709999998,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '2'}",2019-09-12T23:38:15.000-07:00
+bicycle_parking,49.2593578,-123.1385834,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.261634,-123.13884099999999,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '5'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.2585938,-123.13861580000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.262575399999996,-123.13883059999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.2575367,-123.1389138,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.2621972,-123.138476,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2586659,-123.1388659,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2654254,-123.1382558,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.173969899999996,-123.19864550000001,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-05-24T05:05:49.000-07:00
+bicycle_parking,49.2635625,-123.1010967,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.170078100000005,-123.18326429999999,,{'bicycle_parking': 'rack'},2017-05-24T05:11:16.000-07:00
+bicycle_parking,49.1701745,-123.1829438,,{'bicycle_parking': 'rack'},2017-05-24T05:05:50.000-07:00
+bicycle_parking,49.170205200000005,-123.18264599999999,,{'bicycle_parking': 'rack'},2017-05-24T05:05:50.000-07:00
+bicycle_parking,49.170627,-123.18166570000001,,{'bicycle_parking': 'rack'},2017-05-24T05:05:50.000-07:00
+bicycle_parking,49.170922499999996,-123.1824623,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-05-24T05:05:49.000-07:00
+bicycle_parking,49.1708953,-123.1828311,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-05-24T05:05:49.000-07:00
+bicycle_parking,49.17336470000001,-123.1990114,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-05-24T05:05:49.000-07:00
+bicycle_parking,49.1625802,-123.13582009999999,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '4'}",2017-05-24T05:05:49.000-07:00
+bicycle_parking,49.2634155,-123.13843329999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2606887,-123.13893119999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:28.000-07:00
+bicycle_parking,49.259749400000004,-123.13835559999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-11T21:22:28.000-07:00
+bicycle_parking,49.2608687,-123.13911470000001,,"{'access': 'yes', 'bicycle_parking': 'stands', 'covered': 'no', 'fee': 'no', 'capacity': '2'}",2019-09-12T23:38:15.000-07:00
+bicycle_parking,49.258839200000004,-123.13840520000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-11T21:22:28.000-07:00
+bicycle_parking,49.262496999999996,-123.138737,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:28.000-07:00
+bicycle_parking,49.2571395,-123.1390882,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2647635,-123.13864869999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.2580491,-123.13922509999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-11T21:22:27.000-07:00
+bicycle_parking,49.266117,-123.1393382,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.258288799999995,-123.1388945,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.262980799999994,-123.13845090000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.263880799999995,-123.20709599999999,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.2680186,-123.154946,,"{'bicycle_parking': 'rack', 'covered': 'no', 'fee': 'no', 'capacity': '18'}",2019-05-09T01:22:51.000-07:00
+bicycle_parking,49.202928299999996,-122.9135024,,{},2017-05-01T00:51:29.000-07:00
+bicycle_parking,49.1776354,-122.7454405,,{},2017-04-30T20:46:38.000-07:00
+bicycle_parking,49.26323789999999,-123.14327800000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.264191,-123.2119828,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T06:16:02.000-07:00
+bicycle_parking,49.2640689,-123.21194720000001,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-06-08T06:16:02.000-07:00
+bicycle_parking,49.2638896,-123.2078818,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T06:16:02.000-07:00
+bicycle_parking,49.26387929999999,-123.2070384,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.263983700000004,-123.1943186,,"{'bicycle_parking': 'rack', 'capacity': '10'}",2018-10-07T18:22:33.000-07:00
+bicycle_parking,49.0960854,-122.0451994,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '9'}",2018-03-13T17:04:56.000-07:00
+bicycle_parking,49.263584200000004,-123.1875977,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.2635819,-123.1875072,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.263597100000005,-123.18723229999999,,"{'bicycle_parking': 'rack', 'capacity': '9'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.2635956,-123.1871716,,"{'bicycle_parking': 'rack', 'capacity': '11'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.26357539999999,-123.18705190000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.263575,-123.1865793,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.263571999999996,-123.1864716,,"{'bicycle_parking': 'rack', 'capacity': '4'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.264126,-123.1860206,,"{'bicycle_parking': 'stands', 'capacity': '1'}",2017-06-08T04:44:00.000-07:00
+bicycle_parking,49.0444494,-122.22181450000001,,{},2018-03-12T09:24:31.000-07:00
+bicycle_parking,49.278611100000006,-123.10666859999999,,{},2018-03-14T03:41:38.000-07:00
+bicycle_parking,49.258941799999995,-123.13897309999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.058054399999996,-122.38004860000001,,"{'bicycle_parking': 'stands', 'layer': '2', 'capacity': '4'}",2019-02-16T00:17:11.000-08:00
+bicycle_parking,49.2614626,-123.13836359999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2019-05-11T21:22:26.000-07:00
+bicycle_parking,49.2904967,-123.1405051,,{},2016-05-25T05:34:31.000-07:00
+bicycle_parking,49.299762,-123.1342433,,{},2016-05-25T05:34:31.000-07:00
+bicycle_parking,49.2854083,-123.12412890000002,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '12'}",2019-08-23T03:26:01.000-07:00
+bicycle_parking,49.2813066,-123.11582250000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-06T22:14:08.000-07:00
+bicycle_parking,49.2706446,-123.10136809999999,,"{'access': 'yes', 'bicycle_parking': 'ground_slots', 'fee': 'no', 'capacity': '3'}",2019-03-31T17:14:54.000-07:00
+bicycle_parking,49.2702775,-123.1012259,,"{'access': 'yes', 'bicycle_parking': 'anchors', 'fee': 'no', 'capacity': '4'}",2019-03-31T17:14:53.000-07:00
+bicycle_parking,49.2638039,-123.1435409,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '5'}",2019-05-09T03:11:56.000-07:00
+bicycle_parking,49.057570899999995,-122.37650409999999,,"{'bicycle_parking': 'stands', 'layer': '2', 'covered': 'no', 'capacity': '6'}",2019-03-25T21:19:04.000-07:00
+bicycle_parking,49.2805604,-123.124568,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-09-11T03:33:17.000-07:00
+bicycle_parking,49.0580792,-122.37689979999999,,"{'layer': '0', 'capacity': '8'}",2019-04-04T02:01:06.000-07:00
+bicycle_parking,49.0501023,-122.3249001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2016-07-07T02:30:40.000-07:00
+bicycle_parking,49.3029291,-123.15578559999999,,{},2016-07-04T23:43:43.000-07:00
+bicycle_parking,49.302951799999995,-123.15575859999998,,{},2016-07-04T23:43:43.000-07:00
+bicycle_parking,49.2821206,-123.13432009999998,,"{'source': 'survey', 'capacity': '2'}",2013-05-26T17:35:08.000-07:00
+bicycle_parking,49.2834251,-123.12567279999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-08-21T03:32:31.000-07:00
+bicycle_parking,49.278946999999995,-123.122368,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-10-06T19:39:55.000-07:00
+bicycle_parking,49.279987,-123.11014850000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-10T05:26:37.000-07:00
+bicycle_parking,49.263409700000004,-123.1862822,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:59:59.000-07:00
+bicycle_parking,49.275788399999996,-123.11694320000001,,{'capacity': '6'},2018-02-09T05:59:27.000-08:00
+bicycle_parking,49.2636768,-123.20387859999998,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T02:03:50.000-07:00
+bicycle_parking,49.2870401,-123.1327442,,{},2017-10-15T03:36:15.000-07:00
+bicycle_parking,49.282603,-123.109427,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-06T22:14:07.000-07:00
+bicycle_parking,49.2631988,-123.1103963,,{'capacity': '6'},2012-04-20T00:05:35.000-07:00
+bicycle_parking,49.2757036,-123.1243916,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-07-30T04:00:31.000-07:00
+bicycle_parking,49.2757595,-123.12417849999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-07-30T04:00:30.000-07:00
+bicycle_parking,49.194907,-122.92728840000001,,{},2017-07-29T06:25:55.000-07:00
+bicycle_parking,49.2241348,-122.9997018,,{},2017-07-29T04:05:24.000-07:00
+bicycle_parking,49.2636667,-123.1016439,,{},2017-07-28T04:21:57.000-07:00
+bicycle_parking,49.280905100000005,-123.11076979999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:55.000-07:00
+bicycle_parking,49.2805751,-123.11124380000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:55.000-07:00
+bicycle_parking,49.281408,-123.1102374,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:54.000-07:00
+bicycle_parking,49.2813309,-123.11035420000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:54.000-07:00
+bicycle_parking,49.281032200000006,-123.11081000000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:54.000-07:00
+bicycle_parking,49.2809295,-123.1109665,,{'capacity': '2'},2017-05-16T19:17:14.000-07:00
+bicycle_parking,49.2806679,-123.11109029999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:54.000-07:00
+bicycle_parking,49.261251,-123.07026880000001,,{'capacity': '4'},2017-08-24T03:36:17.000-07:00
+bicycle_parking,49.2688474,-123.189793,,"{'bicycle_parking': 'rack', 'capacity': '3'}",2017-07-10T05:16:49.000-07:00
+bicycle_parking,49.268789700000006,-123.1886865,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2017-07-10T05:16:49.000-07:00
+bicycle_parking,49.268705100000005,-123.1853925,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:49.000-07:00
+bicycle_parking,49.268704,-123.1852298,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2017-07-10T05:16:49.000-07:00
+bicycle_parking,49.2824325,-123.1091243,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-10-11T03:27:55.000-07:00
+bicycle_parking,49.282737299999994,-123.10957140000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:55.000-07:00
+bicycle_parking,49.279093700000004,-122.90623959999999,,{},2016-06-09T21:33:09.000-07:00
+bicycle_parking,49.26348839999999,-123.099877,,{},2017-05-03T02:23:48.000-07:00
+bicycle_parking,49.29062570000001,-123.1343459,,{},2017-10-15T01:26:36.000-07:00
+bicycle_parking,49.288826799999995,-123.1315033,,{},2017-10-15T18:35:15.000-07:00
+bicycle_parking,49.276970299999995,-123.1350328,,{'capacity': '16'},2017-05-20T04:45:32.000-07:00
+bicycle_parking,49.2767698,-123.1348371,,{'capacity': '10'},2017-05-20T04:45:40.000-07:00
+bicycle_parking,49.2771693,-123.135231,,{'capacity': '8'},2017-05-20T04:45:53.000-07:00
+bicycle_parking,49.2803958,-122.977928,,"{'bicycle_parking': 'stands', 'capacity': '8'}",2018-12-25T06:06:58.000-08:00
+bicycle_parking,49.264173,-123.1003936,,{},2017-05-03T02:23:53.000-07:00
+bicycle_parking,49.2638438,-123.10020459999998,,{},2017-05-03T02:23:51.000-07:00
+bicycle_parking,49.2637375,-123.09981850000001,,{},2017-05-03T02:23:50.000-07:00
+bicycle_parking,49.2110699,-123.1405403,,{},2016-06-13T00:55:43.000-07:00
+bicycle_parking,49.263588,-123.09984579999998,,{},2017-05-03T02:23:47.000-07:00
+bicycle_parking,49.263743700000006,-123.1004527,,{'capacity': '3'},2018-02-22T06:37:19.000-08:00
+bicycle_parking,49.277770399999994,-123.1240596,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-09-10T20:10:23.000-07:00
+bicycle_parking,49.2775192,-123.12345069999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-09-10T20:10:23.000-07:00
+bicycle_parking,49.277361600000006,-123.1234087,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-10T20:10:22.000-07:00
+bicycle_parking,49.277492200000005,-123.123874,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '8'}",2019-09-10T20:10:22.000-07:00
+bicycle_parking,49.277408,-123.1232858,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-14T20:48:14.000-07:00
+bicycle_parking,49.2776479,-123.1238847,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-09-10T20:10:21.000-07:00
+bicycle_parking,49.2686973,-123.18481709999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.268687299999996,-123.1840695,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2686814,-123.18387240000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2888377,-123.13985819999999,,{},2017-07-07T05:06:28.000-07:00
+bicycle_parking,49.268142299999994,-123.18646770000001,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '8'}",2017-07-10T05:16:46.000-07:00
+bicycle_parking,49.2683779,-123.1866121,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '7'}",2017-07-10T05:16:46.000-07:00
+bicycle_parking,49.2680452,-123.186601,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2017-07-10T05:16:46.000-07:00
+bicycle_parking,49.268569799999995,-123.1867528,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-07-06T06:07:19.000-07:00
+bicycle_parking,49.3093855,-123.03241070000001,,"{'image': 'https://gateway.ipfs.io/ipfs/QmaBgTpzRJ2jKgXwahKAPSzTDAytBs3ZsrrsFRC39cnhBi', 'bicycle_parking': 'stands', 'capacity': '0'}",2019-05-08T00:42:13.000-07:00
+bicycle_parking,49.2802512,-123.11776090000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2018-05-18T01:02:00.000-07:00
+bicycle_parking,49.280401899999994,-123.11754170000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2018-05-18T01:02:00.000-07:00
+bicycle_parking,49.288954,-123.1391382,,{},2017-07-07T05:20:16.000-07:00
+bicycle_parking,49.085843700000005,-123.0831611,,"{'bicycle_parking': 'rack', 'operator': 'Delta Secondary School', 'covered': 'no'}",2017-07-24T04:10:54.000-07:00
+bicycle_parking,49.267936999999996,-123.18585619999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:46.000-07:00
+bicycle_parking,49.2630378,-123.10230940000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2017-07-24T00:03:21.000-07:00
+bicycle_parking,49.2630128,-123.10121219999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:21.000-07:00
+bicycle_parking,49.2630117,-123.1011878,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.263145,-123.1011365,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.2631599,-123.1011365,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.26326029999999,-123.10113,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '10'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.263690600000004,-123.20452179999998,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T02:03:50.000-07:00
+bicycle_parking,49.263354799999995,-123.1011081,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2017-07-24T00:03:20.000-07:00
+bicycle_parking,49.26787,-123.18586040000001,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:46.000-07:00
+bicycle_parking,49.268017900000004,-123.18585,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:46.000-07:00
+bicycle_parking,49.2688179,-123.1835096,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2687184,-123.1778094,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '3'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.2688001,-123.1835096,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2686727,-123.1832731,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2686749,-123.1834586,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2686662,-123.1826932,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2686633,-123.1824888,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2686972,-123.1823004,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '6'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2685998,-123.1785375,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.268595399999995,-123.1783507,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:48.000-07:00
+bicycle_parking,49.2684855,-123.18218119999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.2684131,-123.1855203,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '5'}",2017-07-10T05:16:46.000-07:00
+bicycle_parking,49.2684973,-123.18302959999998,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.2685023,-123.1833395,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.26840670000001,-123.1835506,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.2685089,-123.18379499999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '5'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.2685089,-123.18394939999999,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.2685167,-123.1846578,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '3'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.268518,-123.1847649,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.2683529,-123.18552240000001,,"{'bicycle_parking': 'rack', 'covered': 'yes', 'capacity': '4'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.289733500000004,-123.1368745,,{},2017-10-15T03:36:11.000-07:00
+bicycle_parking,49.2685885,-123.1778627,,"{'bicycle_parking': 'rack', 'covered': 'no', 'capacity': '4'}",2017-07-10T05:16:47.000-07:00
+bicycle_parking,49.278018599999996,-123.1193374,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '5'}",2019-10-16T20:35:35.000-07:00
+bicycle_parking,49.2901653,-123.1358149,,{},2017-12-03T01:57:56.000-08:00
+bicycle_parking,49.2816549,-123.13330359999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2018-08-23T19:20:33.000-07:00
+bicycle_parking,49.2796373,-123.1319895,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-09-20T20:07:43.000-07:00
+bicycle_parking,49.2713293,-123.1067281,,{},2017-09-24T00:26:31.000-07:00
+bicycle_parking,49.27960220000001,-123.13192920000002,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '7'}",2019-09-20T20:08:22.000-07:00
+bicycle_parking,49.2633126,-123.11528020000002,,{},2017-09-24T00:25:17.000-07:00
+bicycle_parking,49.2657121,-123.1156287,,{},2017-09-23T23:57:08.000-07:00
+bicycle_parking,49.263670399999995,-123.11500330000001,,{},2017-09-23T23:57:01.000-07:00
+bicycle_parking,49.2657302,-123.11534640000002,,{},2017-09-23T23:57:07.000-07:00
+bicycle_parking,49.260996899999995,-123.11323119999999,,{},2017-09-23T23:15:34.000-07:00
+bicycle_parking,49.2623855,-123.1153076,,{},2017-09-23T23:16:16.000-07:00
+bicycle_parking,49.260957299999994,-123.115443,,{},2017-09-23T23:15:35.000-07:00
+bicycle_parking,49.26111420000001,-123.1140392,,{},2017-09-23T19:54:00.000-07:00
+bicycle_parking,49.2664744,-123.115698,,{},2017-09-22T15:39:27.000-07:00
+bicycle_parking,49.0481748,-122.2430328,,{},2017-07-04T23:58:27.000-07:00
+bicycle_parking,49.249680100000006,-123.10111950000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-06-15T01:50:38.000-07:00
+bicycle_parking,49.249570500000004,-123.10112020000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-06-15T01:50:44.000-07:00
+bicycle_parking,49.282819700000005,-123.13306659999999,,{'capacity': '4'},2017-05-18T03:44:15.000-07:00
+bicycle_parking,49.2814274,-123.0848743,,{},2018-09-10T05:23:48.000-07:00
+bicycle_parking,49.1375896,-122.28741780000001,,"{'bicycle_parking': 'rack', 'covered': 'no'}",2017-01-23T18:40:07.000-08:00
+bicycle_parking,49.2115443,-122.50779409999998,,"{'covered': 'no', 'capacity': '8'}",2017-09-24T05:44:42.000-07:00
+bicycle_parking,49.2766419,-123.12481740000001,,"{'access': 'yes', 'bicycle_parking': 'rack', 'covered': 'no', 'fee': 'no', 'capacity': '6'}",2019-09-29T18:29:15.000-07:00
+bicycle_parking,49.2793251,-123.1207163,,"{'bicycle_parking': 'stands', 'covered': 'yes', 'capacity': '5'}",2019-12-08T21:01:23.000-08:00
+bicycle_parking,49.263769700000005,-123.2102158,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.263699200000005,-123.2050994,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.263695500000004,-123.20491709999999,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.0500439,-122.3127693,,{},2016-11-17T05:16:49.000-08:00
+bicycle_parking,49.263707399999994,-123.2068581,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.263710700000004,-123.20741940000002,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.2637175,-123.20791509999998,,"{'bicycle_parking': 'rack', 'capacity': '5'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.263745799999995,-123.20852020000001,,"{'bicycle_parking': 'rack', 'capacity': '7'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.2637432,-123.209911,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.2637711,-123.21034209999999,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.30573,-123.03460359999998,,{},2019-06-10T02:12:42.000-07:00
+bicycle_parking,49.263771899999995,-123.21037890000001,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.2637881,-123.2115675,,"{'bicycle_parking': 'rack', 'capacity': '7'}",2017-06-08T02:03:49.000-07:00
+bicycle_parking,49.0148002,-123.0400249,,{},2016-05-08T03:59:34.000-07:00
+bicycle_parking,49.014755,-123.0409709,,{},2016-05-08T03:59:34.000-07:00
+bicycle_parking,49.0146145,-123.04113810000001,,{},2016-05-08T03:59:34.000-07:00
+bicycle_parking,49.2804631,-122.96495159999998,,{},2019-06-22T10:56:45.000-07:00
+bicycle_parking,49.277836,-122.8452132,,{},2017-08-28T01:16:05.000-07:00
+bicycle_parking,49.2177473,-122.90228880000001,,{},2018-04-29T03:48:27.000-07:00
+bicycle_parking,49.31244,-123.1427438,,{},2017-12-03T01:57:52.000-08:00
+bicycle_parking,49.2624877,-123.0658263,,{'operator': 'Bike Vancouver'},2017-08-27T22:46:55.000-07:00
+bicycle_parking,49.2903755,-123.13614369999999,,{},2017-12-03T01:57:56.000-08:00
+bicycle_parking,49.2839152,-123.1135881,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '3'}",2019-10-09T17:26:31.000-07:00
+bicycle_parking,49.2835488,-123.11305530000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '6'}",2019-10-06T22:14:39.000-07:00
+bicycle_parking,49.259662899999995,-123.1148479,,{'capacity': '4'},2017-10-01T00:20:33.000-07:00
+bicycle_parking,49.2764415,-123.1215997,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-09-14T20:48:15.000-07:00
+bicycle_parking,49.277049600000005,-123.11650949999999,,"{'covered': 'no', 'capacity': '2'}",2018-02-09T06:00:37.000-08:00
+bicycle_parking,49.2784059,-123.1151064,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '4'}",2019-12-29T20:58:16.000-08:00
+bicycle_parking,49.2810175,-123.1086956,,{},2017-09-29T18:33:56.000-07:00
+bicycle_parking,49.28067670000001,-123.10921880000001,,{},2017-09-29T18:33:54.000-07:00
+bicycle_parking,49.280947600000005,-123.1088031,,{},2017-09-29T18:33:55.000-07:00
+bicycle_parking,49.282437,-123.10919299999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-11T03:27:50.000-07:00
+bicycle_parking,49.267612,-123.0935347,,{},2017-09-28T23:11:26.000-07:00
+bicycle_parking,49.2647706,-123.1125966,,{},2017-06-17T03:40:52.000-07:00
+bicycle_parking,49.322286299999995,-123.07243009999999,,{},2017-08-25T04:25:33.000-07:00
+bicycle_parking,49.322010600000006,-123.0726237,,{},2017-08-25T04:21:28.000-07:00
+bicycle_parking,49.3723227,-123.09890209999999,,{},2017-08-25T04:21:26.000-07:00
+bicycle_parking,49.3221046,-123.07206550000001,,{},2017-08-25T04:25:35.000-07:00
+bicycle_parking,49.2900926,-123.137794,,{},2017-11-26T00:12:38.000-08:00
+bicycle_parking,49.3222182,-123.0722383,,{},2017-08-25T04:25:34.000-07:00
+bicycle_parking,49.283961700000006,-123.1256905,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-09T18:23:52.000-07:00
+bicycle_parking,49.0500438,-122.312747,,{},2016-11-17T05:16:49.000-08:00
+bicycle_parking,49.283245799999996,-123.11258090000001,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-06T22:14:39.000-07:00
+bicycle_parking,49.2636938,-123.2047645,,"{'bicycle_parking': 'stands', 'capacity': '2'}",2017-06-08T02:03:50.000-07:00
+bicycle_parking,49.283332200000004,-123.11270959999999,,"{'bicycle_parking': 'stands', 'covered': 'no', 'capacity': '2'}",2019-10-06T22:14:40.000-07:00
+bicycle_parking,49.2494844,-123.00134399999999,,{},2017-08-21T18:10:43.000-07:00
+bicycle_parking,49.2536751,-123.000451,,{},2017-08-21T18:10:44.000-07:00
+bicycle_parking,49.252909499999994,-123.0008163,,{},2017-08-21T18:10:44.000-07:00
+bicycle_parking,49.2901253,-123.1378368,,{},2017-11-26T00:12:37.000-08:00
+bicycle_parking,49.2692458,-123.11653940000001,,{},2017-08-21T06:45:25.000-07:00
+bicycle_parking,49.2530268,-122.9994537,,{},2017-08-21T18:10:44.000-07:00
+bicycle_parking,49.2536668,-123.0016436,,{},2017-08-21T18:10:44.000-07:00
+bicycle_parking,49.2543521,-123.00084309999998,,{},2017-08-21T18:10:43.000-07:00
+bicycle_parking,49.2807674,-123.0392381,,"{'bicycle_parking': 'stands', 'capacity': '8'}",2019-11-07T17:22:38.000-08:00
+bicycle_parking,49.2537766,-123.00164740000001,,{},2017-08-21T18:10:43.000-07:00
+bicycle_parking,49.2497964,-123.00115430000001,,{},2017-08-21T18:10:43.000-07:00
+bicycle_parking,49.2511795,-123.00347920000002,,{},2017-08-21T16:44:41.000-07:00
+bicycle_parking,49.2518945,-122.9990648,,{},2017-08-21T16:44:41.000-07:00
+bicycle_parking,49.2513686,-123.00244409999999,,{},2017-08-21T18:10:43.000-07:00
+bicycle_parking,49.2501321,-123.00279259999999,,{},2017-08-21T16:44:41.000-07:00
+bicycle_parking,49.24902879999999,-123.00082809999999,,{},2017-08-21T18:10:43.000-07:00
+bicycle_parking,49.2485336,-123.00084709999999,,{},2017-08-21T18:10:43.000-07:00

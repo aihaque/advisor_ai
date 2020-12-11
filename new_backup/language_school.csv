@@ -1,0 +1,6 @@
+amenity,lat,lon,name,tags,timestamp
+language_school,49.2839782,-122.8280576,Kumon Learning,{},2019-08-21T22:20:22.000-07:00
+language_school,49.260300799999996,-123.0695134,Mosaic Language Centre,"{'addr:housenumber': '2710', 'language:en': 'main', 'website': 'https://www.mosaicbc.org', 'phone': '+1-604-684-8825', 'level': '3', 'addr:street': 'Commercial Drive', 'fax': '+1-604-684-8859', 'addr:unit': '304'}",2019-07-17T21:24:14.000-07:00
+language_school,49.090549100000004,-123.06573,China Canadian Education Exchange Center Ltd.,{},2019-06-09T22:11:16.000-07:00
+language_school,49.2804285,-123.1060251,International House Vancouver,"{'website': 'https://ihvancouver.com/', 'level': '1', 'addr:unit': '2001', 'operator': 'Net Pacific Group'}",2019-03-22T02:53:46.000-07:00
+language_school,49.2883111,-123.1225453,International Language Academy of Canada,"{'addr:housenumber': '1199', 'addr:street': 'West Pender Street'}",2019-10-09T20:42:50.000-07:00

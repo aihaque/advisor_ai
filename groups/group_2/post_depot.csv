@@ -1,0 +1,3 @@
+amenity,lat,lon,name,tags,timestamp
+post_depot,49.184021,-123.1384133,Richmond Delivery Facility,"{'addr:housenumber': '7680', 'addr:street': 'River Road', 'addr:postcode': 'V6X 1X0', 'operator': 'Canada Post'}",2020-05-02T14:32:12.000-07:00
+post_depot,49.265283200000006,-123.069465,Canada Post Sorting Station,{},2019-11-14T21:45:57.000-08:00

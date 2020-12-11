@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+office_financial,49.2299383,-123.00284920000001,Raymond James Ltd,"{'contact:facebook': 'facebook.com/raymondjamescdn', 'addr:housenumber': '4720', 'alt_name': 'Raymond James Ltd', 'contact:phone': '+1-604-451-3100', 'opening_hours': 'Mo-Fr:08:00-16:00; Sa-Su:off', 'addr:street': 'Kingsway ', 'addr:postcode': 'V5H 4N2', 'contact:linkedin': 'linkedin.com/company/raymond-james-ltd.', 'contact:website': 'raymondjames.ca/en_ca/', 'contact:twitter': 'twitter.com/raymondjamescdn', 'addr:city': 'Burnaby'}",2019-11-26T19:58:08.000-08:00

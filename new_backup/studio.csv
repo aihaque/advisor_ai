@@ -1,0 +1,7 @@
+amenity,lat,lon,name,tags,timestamp
+studio,49.2664805,-123.1110397,The Beaumont Studios,"{'addr:housenumber': '316', 'addr:street': '316 W 5th Ave', 'addr:postcode': 'V5Y 1J0', 'addr:city': 'Vancouver'}",2019-09-13T13:57:05.000-07:00
+studio,49.0498282,-122.33939840000002,Country 107.1,"{'studio': 'radio', 'website': 'https://www.country1071.com/', 'addr:unit': '318'}",2019-02-18T15:16:52.000-08:00
+studio,49.264951399999994,-123.10866340000001,The Embassy,"{'addr:housenumber': '177', 'addr:street': 'West 7th Avenue', 'addr:postcode': 'V5Y 1L8', 'addr:city': 'Vancouver'}",2019-09-13T13:57:05.000-07:00
+studio,49.134036,-122.30389469999999,downbeat music studios,"{'addr:housenumber': '33235', 'website': 'http://www.downbeatmusicstudios.ca', 'addr:street': 'North Railway Avenue', 'phone': '+1-604-287-3696', 'addr:postcode': 'V2V 1E4'}",2018-04-11T14:17:52.000-07:00
+studio,49.09850479999999,-122.70629890000001,Linus Media Group,"{'addr:province': 'BC', 'studio': 'video', 'addr:housenumber': '18643', 'website': 'https://www.linusmediagroup.com/', 'addr:flats': '104', 'addr:street': '52 Avenue', 'wikipedia': 'en:Linus Media Group', 'office': 'media', 'addr:postcode': 'V3S 8E5', 'email': 'info@linusmediagroup.com', 'addr:city': 'Surrey'}",2020-02-23T03:35:19.000-08:00
+studio,49.3266828,-122.94959270000001,Room 6,"{'addr:housenumber': '4389', 'website': 'https://www.room6.com', 'shop': 'art', 'addr:street': 'Gallant Avenue', 'level': '0'}",2019-12-21T20:00:30.000-08:00

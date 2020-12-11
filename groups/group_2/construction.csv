@@ -1,0 +1,6 @@
+amenity,lat,lon,name,tags,timestamp
+construction,49.0498024,-122.3117717,Sy's Vegan Bistro,"{'addr:housenumber': '32900', 'website': 'http://sysveganbistro.com', 'level': '0', 'construction': 'fast_food', 'indoor': 'yes', 'addr:street': 'South Fraser Way', 'addr:postcode': 'V2S 5A1', 'addr:unit': '406', 'operator': 'Sy Mytting'}",2019-12-15T14:47:03.000-08:00
+construction,49.0577015,-122.3152304,Cora,"{'addr:housenumber': '3068', 'website': 'https://www.chezcora.com/en/breakfast-restaurants/british-columbia/cora-abbotsford', 'level': '0', 'construction': 'restaurant', 'name:fr': 'Chez Cora', 'addr:street': 'Gladwin Road', 'brand': 'Cora', 'operator': 'Coramark Inc.'}",2019-12-05T13:53:29.000-08:00
+construction,49.058713299999994,-122.38038870000001,Go-Grill,"{'construction': 'fast_food', 'website': 'http://www.go-grill.com', 'level': '2', 'addr:unit': 'D115', 'layer': '2'}",2019-05-04T22:17:33.000-07:00
+construction,49.0469009,-122.30706,,{'construction': 'bench'},2016-11-09T04:03:58.000-08:00
+construction,49.057777,-122.31462690000001,AfterThoughts,"{'addr:housenumber': '3050', 'alt_name': 'AfterThoughts A Gourmet Dessert Restaurant', 'level': '0', 'construction': 'restaurant', 'cuisine': 'dessert', 'addr:street': 'Gladwin Road', 'addr:unit': '110'}",2019-08-07T01:30:54.000-07:00

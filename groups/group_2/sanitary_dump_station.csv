@@ -1,0 +1,5 @@
+amenity,lat,lon,name,tags,timestamp
+sanitary_dump_station,49.0331564,-122.0026665,,{'sanitary_dump_station:round_drain': 'yes'},2015-04-11T05:24:53.000-07:00
+sanitary_dump_station,49.2417545,-122.3854082,,"{'access': 'customers', 'fee': 'yes'}",2018-06-04T00:16:22.000-07:00
+sanitary_dump_station,49.0550049,-122.17935609999999,,{},2016-04-24T20:08:23.000-07:00
+sanitary_dump_station,49.07930379999999,-122.43250159999998,,{},2016-04-24T19:41:09.000-07:00

@@ -1,0 +1,3 @@
+amenity,lat,lon,name,tags,timestamp
+conference_centre,49.288331799999995,-123.11256850000001,Vancouver Convention Centre East,"{'toilets:wheelchair': 'yes', 'wheelchair': 'yes', 'addr:housenumber': '999', 'website': 'https://www.vancouverconventioncentre.com/', 'phone': '+1-604-689-8232', 'name:en': 'Vancouver Convention Centre East', 'addr:street': 'Canada Place', 'email': 'info@vancouverconventioncentre.com'}",2020-01-04T06:58:55.000-08:00
+conference_centre,49.2746638,-123.10894409999999,Harbour Convention Centre,"{'addr:housenumber': '750', 'addr:street': 'Pacific Boulevard', 'addr:postcode': 'V6B5E7'}",2019-11-09T00:09:11.000-08:00

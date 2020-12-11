@@ -1,0 +1,140 @@
+amenity,lat,lon,name,tags,timestamp
+recycling,49.008387299999995,-123.1301394,,{'recycling_type': 'container'},2019-02-04T00:35:49.000-08:00
+recycling,49.3143782,-123.07850810000001,Return-It,{'recycling_type': 'centre'},2017-11-16T02:52:57.000-08:00
+recycling,49.0573181,-122.35394109999999,,{'recycling_type': 'container'},2018-04-01T06:35:52.000-07:00
+recycling,49.0518846,-122.3651618,,{'recycling_type': 'container'},2018-04-01T18:04:25.000-07:00
+recycling,49.0508627,-122.36306259999999,,{'recycling_type': 'container'},2018-04-01T18:45:31.000-07:00
+recycling,49.2631121,-123.25594939999999,,"{'recycling:clothes': 'yes', 'colour': 'white', 'level': '0', 'recycling:shoes': 'yes', 'recycling:books': 'yes', 'operator': 'Developmental Disabilities Association'}",2018-12-28T08:10:13.000-08:00
+recycling,49.0082718,-123.12998020000002,,{'recycling_type': 'container'},2019-02-04T00:35:48.000-08:00
+recycling,49.2795077,-122.79668170000001,,{'recycling_type': 'container'},2016-05-12T23:05:51.000-07:00
+recycling,49.008349100000004,-123.1301909,,{'recycling_type': 'container'},2019-02-04T00:35:52.000-08:00
+recycling,49.2791696,-122.8006159,,{'recycling_type': 'container'},2016-05-12T23:05:50.000-07:00
+recycling,49.0443523,-122.28390139999999,,"{'description': 'Drop off centre', 'recycling:clothes': 'yes', 'recycling_type': 'centre', 'entrance': 'service'}",2018-03-04T15:50:03.000-08:00
+recycling,49.2796735,-122.7999212,,{'recycling_type': 'container'},2016-05-12T23:05:51.000-07:00
+recycling,49.2797868,-122.79721880000001,,{'recycling_type': 'container'},2016-05-12T23:05:51.000-07:00
+recycling,49.2801258,-122.79985009999999,,{'recycling_type': 'container'},2016-05-12T23:05:51.000-07:00
+recycling,49.280702399999996,-122.79970390000001,,{'recycling_type': 'container'},2016-05-12T23:05:52.000-07:00
+recycling,49.058813799999996,-122.29371869999999,,"{'recycling_type': 'container', 'operator': 'discoverbooks.com'}",2016-03-26T07:39:31.000-07:00
+recycling,49.1958638,-123.07800879999999,Regional Recycling,"{'addr:housenumber': '13300', 'addr:street': 'Vulcan Way', 'phone': '+1-855-701-7171', 'addr:postcode': 'V6V 1K2', 'addr:city': 'Richmond'}",2018-06-20T15:11:46.000-07:00
+recycling,49.046078,-122.2864362,,"{'recycling:clothes': 'yes', 'website': 'http://iaff2864.org', 'operator': 'Abbotsford Fire Fights Association'}",2015-12-13T01:13:49.000-08:00
+recycling,49.26016,-123.10321809999999,,"{'wheelchair': 'limited', 'recycling:clothes': 'yes', 'colour': 'red', 'recycling:shoes': 'yes', 'description': 'In bags please', 'recycling_type': 'container', 'operator': 'Vancouver Firefighter Charities'}",2018-12-31T23:30:54.000-08:00
+recycling,49.130968100000004,-122.3201433,Changes Recycling Centres,"{'opening_hours': '08:00-22:00', 'website': 'http://www.changesrecyclingcentre.com/locations.htm', 'recycling_type': 'centre', 'phone': '+1-604-820-6632', 'addr:unit': '410'}",2018-02-11T18:38:46.000-08:00
+recycling,49.258360700000004,-123.02737009999998,,"{'recycling:clothes': 'yes', 'colour': 'green'}",2018-12-30T23:41:42.000-08:00
+recycling,49.111659,-122.67882279999999,Willowbrook Recycling Inc.,"{'recycling:small_appliances': 'yes', 'website': 'https://willowbrookrecycling.com', 'opening_hours': 'Mo-Su 09:00-16:45', 'recycling:beverage_cartons': 'yes', 'recycling_type': 'centre', 'recycling:cans': 'yes'}",2020-02-12T04:57:55.000-08:00
+recycling,49.1376986,-122.28629690000001,,{'recycling_type': 'container'},2017-01-22T06:31:45.000-08:00
+recycling,49.257050899999996,-123.1095865,,"{'recycling:clothes': 'yes', 'colour': 'lime', 'recycling:shoes': 'yes', 'recycling:hazardous_waste': 'no', 'description': 'In bags please', 'recycling_type': 'container', 'operator': 'Big Brothers of Greater Vancouver Clothing Donation'}",2018-08-12T23:51:20.000-07:00
+recycling,49.243526,-123.11794350000001,,"{'recycling:clothes': 'yes', 'colour': 'blue', 'recycling_type': 'container', 'operator': 'Cerebral Palsy Association of BC'}",2018-08-12T23:51:12.000-07:00
+recycling,49.237359399999995,-123.1163115,,"{'recycling:clothes': 'yes', 'colour': 'blue', 'recycling_type': 'container', 'operator': 'Cerebral Palsy Association of BC'}",2018-08-12T23:51:16.000-07:00
+recycling,49.0569701,-122.2736071,,"{'recycling:clothes': 'yes', 'recycling_type': 'container'}",2017-01-11T03:52:11.000-08:00
+recycling,49.2570361,-123.10958529999999,,"{'recycling:clothes': 'yes', 'colour': 'purple', 'recycling:shoes': 'yes', 'description': 'For clothing, shoes, accessories, bedding and towels', 'operator': 'inclusionBC', 'direction': '270'}",2018-08-12T23:51:20.000-07:00
+recycling,49.0488306,-122.31285859999998,Comingled recycling,{'recycling_type': 'container'},2019-11-09T14:23:33.000-08:00
+recycling,49.0515316,-122.3299941,,"{'recycling:clothes': 'yes', 'recycling_type': 'container', 'operator': 'Developmental Disabilities Association'}",2016-02-12T17:25:47.000-08:00
+recycling,49.058076,-122.33697930000001,,"{'recycling:clothes': 'yes', 'recycling_type': 'container', 'operator': 'Canadian Diabetes Association'}",2016-02-12T18:21:57.000-08:00
+recycling,49.0672005,-122.32690190000001,,"{'recycling_type': 'container', 'recycling:cans': 'yes'}",2016-02-13T17:37:12.000-08:00
+recycling,49.280877399999994,-122.79737240000001,,{'recycling_type': 'container'},2016-05-12T23:05:53.000-07:00
+recycling,49.2808476,-122.7996543,,{'recycling_type': 'container'},2016-05-12T23:05:53.000-07:00
+recycling,49.281121899999995,-122.79768419999999,,{'recycling_type': 'container'},2016-05-12T23:05:54.000-07:00
+recycling,49.2808826,-122.7974703,,{'recycling_type': 'container'},2016-05-12T23:05:53.000-07:00
+recycling,49.060677,-122.83498600000001,White Rock Return-It Depot,"{'addr:housenumber': '3221', 'website': 'https://www.return-it.ca/locations/white-rock-return-it-depot', 'phone': '+1-778-294-9919', 'opening_hours': 'Mo-Sa 09:00-18:00; Su 10:00-17:00; PH off', 'recycling_type': 'centre', 'addr:street': '140 Street'}",2019-09-02T22:08:26.000-07:00
+recycling,49.308471399999995,-123.0399362,North Vancouver Bottle & Return-It Depot,"{'addr:province': 'BC', 'addr:housenumber': '310', 'recycling_type': 'centre', 'addr:street': 'Brooksbank Avenue', 'building': 'commercial', 'addr:city': 'North Vancouver'}",2020-02-09T03:52:05.000-08:00
+recycling,49.108857,-122.66477150000001,Langley Bottle Depot,"{'opening_hours': 'Mo-Fr 08:30-17:15, Sa 08:00-16:15, Su 09:00-16:15', 'website': 'https://langleybottledepot.business.site', 'recycling_type': 'centre', 'operator': 'Encorp'}",2020-02-12T05:05:06.000-08:00
+recycling,49.1083939,-122.67530790000002,West Coast Metal Recycling,"{'recycling:scrap_metal': 'yes', 'opening_hours': 'Tu-Fr 08:00-17:00', 'website': 'https://www.westcoastmetalrecycling.com', 'recycling_type': 'centre'}",2020-02-12T04:57:55.000-08:00
+recycling,49.0435029,-122.2785936,Thrift Store,"{'collection_times': 'Mo-Fr 09:00-16:00; Sa 09:00-15:00', 'recycling:clothes': 'yes', 'shop': 'charity', 'phone': '+1-604-852-9305', 'opening_hours': 'Mo-Sa 09:00-17:00', 'recycling_type': 'container', 'operator': 'Salvation Army'}",2018-06-20T15:11:34.000-07:00
+recycling,49.2085484,-123.1148544,Vancouver Zero Waste Centre,{},2019-08-25T21:51:22.000-07:00
+recycling,49.050349700000005,-122.2896023,,{},2015-06-05T12:28:22.000-07:00
+recycling,49.0479604,-122.3385491,Recycling Centre,{},2015-05-05T05:50:18.000-07:00
+recycling,49.1327619,-122.32153819999999,,"{'recycling:clothes': 'yes', 'recycling_type': 'container'}",2019-05-10T04:42:43.000-07:00
+recycling,49.2570139,-122.97771440000001,Regional Recycling Bottle Depot & Return It,"{'addr:housenumber': '2961', 'recycling:glass': 'yes', 'recycling:paper': 'yes', 'addr:street': 'Norland Avenue', 'addr:postcode': 'V5B 3A9', 'recycling:cans': 'yes', 'addr:city': 'Burnaby'}",2019-09-13T13:56:49.000-07:00
+recycling,49.216438700000005,-122.9779781,Lee's Bottle Depot,"{'recycling:glass_bottles': 'yes', 'recycling:plastic_bags': 'yes', 'recycling:plastic_bottles': 'yes', 'recycling:low_energy_bulbs': 'yes', 'recycling:batteries': 'yes', 'phone': '+1-604-435-3432', 'recycling:paper': 'yes', 'recycling_type': 'centre', 'recycling:plastic': 'yes', 'operator': 'Encorp Return-It', 'recycling:cans': 'yes'}",2020-04-05T18:55:29.000-07:00
+recycling,49.19356810000001,-122.94101470000001,Recycle-It,"{'recycling_type': 'centre', 'recycling:glass': 'yes', 'recycling:cans': 'yes'}",2019-01-17T17:12:16.000-08:00
+recycling,49.1352653,-122.85455060000001,Stericycle,"{'recycling_type': 'centre', 'operator': 'OCL'}",2020-03-28T04:12:53.000-07:00
+recycling,49.2160346,-122.9304858,,{},2010-12-22T23:36:46.000-08:00
+recycling,49.14515,-122.0145756,Pick-A-Part,"{'recycling_type': 'centre', 'shop': 'car_parts', 'recycling:cars': 'yes'}",2019-02-24T18:40:19.000-08:00
+recycling,49.024515799999996,-123.0675933,Bottle Depot,"{'recycling_type': 'centre', 'operator': 'Encorp', 'building': 'yes'}",2019-08-18T20:56:16.000-07:00
+recycling,49.24907,-123.0568711,,"{'recycling:clothes': 'yes', 'colour': 'green', 'recycling:shoes': 'yes', 'recycling_type': 'container', 'location': 'overground', 'operator': 'Big Brothers of Greater Vancouver Clothing Donation', 'direction': '90'}",2019-02-28T18:38:52.000-08:00
+recycling,49.102979299999994,-122.6529054,,{'waste': 'cigarettes'},2018-08-09T11:34:22.000-07:00
+recycling,49.250779,-123.0445607,,"{'recycling:clothes': 'yes', 'ref': '483', 'recycling_type': 'container', 'location': 'overground', 'operator': 'Developmental Disabilities Association'}",2018-06-23T01:43:17.000-07:00
+recycling,49.2508419,-123.0494818,,"{'recycling:clothes': 'yes', 'recycling_type': 'container', 'location': 'overground', 'operator': 'Big Brothers of Greater Vancouver Clothing Donations'}",2019-04-23T07:39:57.000-07:00
+recycling,49.2509196,-123.04947890000001,,"{'recycling:clothes': 'yes', 'recycling_type': 'container', 'location': 'overground', 'operator': 'inclusionBC'}",2018-06-23T01:43:16.000-07:00
+recycling,49.26502070000001,-123.1045463,Return-It,{},2020-05-02T13:24:39.000-07:00
+recycling,49.017025399999994,-122.2664074,,"{'recycling_type': 'container', 'quantity': '2'}",2015-12-27T04:12:15.000-08:00
+recycling,49.019988399999995,-122.2657625,,"{'recycling:clothes': 'yes', 'website': 'https://diabetes.ca/', 'recycling_type': 'container', 'operator': 'Canadian Diabetes Association'}",2019-02-18T15:20:05.000-08:00
+recycling,49.2795886,-122.9690189,Kensington Depot,"{'opening_hours': 'Mo-Su 10:00-05:00', 'addr:housenumber': '6518', 'recycling_type': 'centre', 'addr:street': 'Hastings Street', 'addr:city': 'Burnaby'}",2020-05-24T23:54:02.000-07:00
+recycling,49.26082279999999,-123.25381029999998,E-Waste Drop-off,"{'indoor': 'no', 'recycling_type': 'container', 'recycling:electrical_items': 'yes', 'operator': 'UBC Waste Management', 'covered': 'yes'}",2019-09-15T05:38:01.000-07:00
+recycling,49.2801564,-123.1181021,,"{'recycling:paper': 'yes', 'recycling:beverage_cartons': 'yes', 'recycling_type': 'container'}",2019-09-13T21:07:21.000-07:00
+recycling,49.250811999999996,-122.81656329999998,,"{'recycling:paper': 'yes', 'recycling_type': 'container', 'recycling:glass': 'yes', 'recycling:cans': 'yes'}",2011-08-03T05:38:35.000-07:00
+recycling,49.0334367,-122.005371,,{},2010-05-20T01:31:16.000-07:00
+recycling,49.0325495,-122.01105990000002,,{},2010-05-20T01:31:14.000-07:00
+recycling,49.0325511,-122.0061706,,{},2010-05-20T01:31:11.000-07:00
+recycling,49.033515799999996,-122.00739540000002,,{},2010-05-20T01:31:05.000-07:00
+recycling,49.2703091,-123.25472979999999,,"{'recycling:paper': 'yes', 'source': 'survey/bing'}",2011-04-06T23:47:16.000-07:00
+recycling,49.058812200000006,-122.2937507,,"{'recycling_type': 'container', 'operator': 'Transtextile.com'}",2016-03-26T07:39:31.000-07:00
+recycling,49.0500998,-122.32452140000001,,"{'recycling:glass_bottles': 'yes', 'recycling:paper': 'yes', 'recycling_type': 'container', 'amenity:waste_basket': 'yes', 'recycling:cans': 'yes'}",2017-10-09T14:21:38.000-07:00
+recycling,49.2609152,-123.2387777,,{'recycling:clothes': 'yes'},2011-03-01T19:04:34.000-08:00
+recycling,49.0465266,-122.31198049999999,,"{'recycling_type': 'container', 'recycling:glass': 'no', 'recycling:cans': 'no'}",2016-07-20T14:17:21.000-07:00
+recycling,49.0462172,-122.313126,,"{'recycling_type': 'container', 'recycling:glass': 'no', 'recycling:cans': 'no'}",2016-07-20T14:17:22.000-07:00
+recycling,49.0462375,-122.31195190000001,,"{'recycling_type': 'container', 'recycling:glass': 'no', 'recycling:cans': 'no'}",2016-07-20T14:17:26.000-07:00
+recycling,49.0431071,-122.3178791,,"{'recycling:glass_bottles': 'yes', 'recycling_type': 'container', 'recycling:cans': 'yes'}",2017-09-23T22:20:31.000-07:00
+recycling,49.0449024,-122.30600559999999,,"{'recycling:glass_bottles': 'yes', 'recycling_type': 'container', 'recycling:cans': 'yes'}",2017-09-23T22:20:31.000-07:00
+recycling,49.1994453,-122.81456979999999,Bottle Return Depot,"{'wheelchair': 'yes', 'website': 'http://www.bcbottledepot.com/', 'recycling_type': 'centre', 'addr:unit': '100', 'addr:city': 'Surrey', 'recycling:glass_bottles': 'yes', 'recycling:plastic_bottles': 'yes', 'addr:housenumber': '14727', 'phone': '+1-604-588-4489', 'opening_hours': 'Mo-Su 09:00-18:00', 'recycling:beverage_cartons': 'yes', 'addr:street': '108 Avenue', 'recycling:cans': 'yes'}",2016-11-24T04:54:56.000-08:00
+recycling,49.037565,-122.2386635,,{'recycling_type': 'container'},2016-08-24T19:25:49.000-07:00
+recycling,49.2692162,-123.0461267,,"{'recycling:clothes': 'yes', 'recycling_type': 'container'}",2018-05-06T04:44:28.000-07:00
+recycling,49.0377457,-122.2375156,,{'recycling_type': 'container'},2016-08-24T19:25:49.000-07:00
+recycling,49.038661600000005,-122.240401,,{'recycling_type': 'container'},2016-08-24T19:25:49.000-07:00
+recycling,49.0386376,-122.24088130000001,,{'recycling_type': 'container'},2016-08-24T19:25:50.000-07:00
+recycling,49.037296399999995,-122.24230159999998,,{'recycling_type': 'container'},2016-08-24T19:25:50.000-07:00
+recycling,49.054544299999996,-122.3170192,,"{'recycling:clothes': 'yes', 'recycling_type': 'container', 'recycling:books': 'yes', 'level': '0', 'recycling:shoes': 'yes'}",2017-10-14T11:39:06.000-07:00
+recycling,49.3833411,-123.3507453,Bowen Island Recycling Depot,{'recycling_type': 'centre'},2019-11-16T15:56:12.000-08:00
+recycling,49.047059499999996,-122.30722050000001,,"{'recycling_type': 'container', 'recycling:glass': 'no', 'recycling:cans': 'no'}",2016-07-20T14:17:40.000-07:00
+recycling,49.2577427,-123.0440842,,"{'recycling:belts': 'yes', 'recycling:clothes': 'yes', 'colour': 'green', 'recycling_type': 'container', 'recycling:gas_bottles': 'no'}",2018-05-06T04:56:27.000-07:00
+recycling,49.045128600000005,-122.315428,,"{'recycling:glass_bottles': 'yes', 'recycling_type': 'container', 'recycling:cans': 'yes'}",2017-09-23T22:20:30.000-07:00
+recycling,49.0453825,-122.3057007,,{'recycling_type': 'container'},2016-07-27T22:08:58.000-07:00
+recycling,49.0434612,-122.31724369999999,,"{'recycling:glass_bottles': 'yes', 'recycling_type': 'container', 'recycling:cans': 'yes'}",2017-09-23T22:20:30.000-07:00
+recycling,49.0439737,-122.31685279999999,,"{'recycling:glass_bottles': 'yes', 'recycling_type': 'container', 'recycling:cans': 'yes'}",2017-09-23T22:20:30.000-07:00
+recycling,49.0438697,-122.3171047,,"{'recycling:glass_bottles': 'yes', 'recycling_type': 'container', 'recycling:cans': 'yes'}",2017-09-23T22:20:31.000-07:00
+recycling,49.043414899999995,-122.30966969999999,,{'recycling_type': 'container'},2016-08-24T01:38:45.000-07:00
+recycling,49.03878579999999,-122.2400307,,{'recycling_type': 'container'},2016-08-24T07:24:34.000-07:00
+recycling,49.0388778,-122.24011770000001,,{'recycling_type': 'container'},2016-08-24T07:24:46.000-07:00
+recycling,49.0426219,-122.3095017,,{'recycling_type': 'container'},2016-07-27T23:03:15.000-07:00
+recycling,49.049834600000004,-122.32394529999999,,"{'recycling:glass_bottles': 'yes', 'recycling:paper': 'yes', 'recycling_type': 'container', 'amenity:waste_basket': 'yes', 'recycling:cans': 'yes'}",2017-09-23T22:20:30.000-07:00
+recycling,49.042903499999994,-122.3098023,,{'recycling_type': 'container'},2016-07-27T23:03:15.000-07:00
+recycling,49.0428033,-122.31074650000001,,{'recycling_type': 'container'},2016-07-27T23:03:18.000-07:00
+recycling,49.2844219,-123.06642409999999,Return-It,{},2016-08-14T02:07:34.000-07:00
+recycling,49.24791870000001,-122.37774569999999,,{'recycling_type': 'container'},2016-08-15T19:03:54.000-07:00
+recycling,49.044607,-122.319152,,{'recycling_type': 'container'},2016-12-10T20:06:25.000-08:00
+recycling,49.0623403,-122.3790913,,{'recycling_type': 'container'},2018-05-05T00:58:22.000-07:00
+recycling,49.0443341,-122.3051473,,{'recycling_type': 'container'},2016-09-07T00:52:42.000-07:00
+recycling,49.2510098,-123.04147479999999,,"{'recycling:clothes': 'yes', 'recycling_type': 'container', 'operator': 'Vancouver Fire Fighters’ Charitable Society'}",2018-06-15T02:59:36.000-07:00
+recycling,49.0431209,-122.3157612,,"{'recycling:glass_bottles': 'yes', 'recycling_type': 'container', 'recycling:cans': 'yes'}",2017-09-23T22:20:30.000-07:00
+recycling,49.069025200000006,-122.33709009999998,,{'recycling_type': 'container'},2017-01-08T02:21:11.000-08:00
+recycling,49.1378304,-122.2857173,,{'recycling_type': 'container'},2018-02-12T22:08:46.000-08:00
+recycling,49.140771,-122.2841919,,{'recycling_type': 'container'},2017-01-23T05:54:51.000-08:00
+recycling,49.1373974,-122.28772509999999,,{'recycling_type': 'container'},2017-01-23T18:40:06.000-08:00
+recycling,49.1405402,-122.2858635,,{'recycling_type': 'container'},2017-01-23T18:39:52.000-08:00
+recycling,49.330305200000005,-122.9499755,,{'recycling_type': 'container'},2019-04-27T23:29:17.000-07:00
+recycling,49.069508899999995,-122.3363645,,{'recycling_type': 'container'},2017-01-08T02:21:08.000-08:00
+recycling,49.275723299999996,-123.1241219,,"{'recycling:paper': 'yes', 'recycling_type': 'container'}",2019-06-08T20:16:17.000-07:00
+recycling,49.044576299999996,-122.3490193,R & T Recyclables,"{'opening_hours:url': 'http://www.rtrecyclingcentre.com', 'website': 'http://www.rtrecyclingcentre.com', 'recycling:glass': 'yes', 'phone': '+1-604-996-1076', 'opening_hours': 'Mo-Sa 09:00-17:30; Su 10:00-16:00', 'recycling_type': 'centre', 'recycling:electronics': 'yes', 'recycling:cardboard': 'yes', 'addr:unit': '23', 'operator': 'Encorp Return-It Depot', 'recycling:paint': 'yes'}",2019-09-02T22:08:26.000-07:00
+recycling,49.282881599999996,-123.06753959999999,Free Geek Vancouver,"{'wheelchair': 'no', 'website': 'https://freegeekvancouver.org/', 'payment:credit_cards': 'yes', 'payment:bitcoin': 'yes', 'level': '3', 'payment:cash': 'yes', 'recycling_type': 'centre', 'recycling:electronics': 'yes', 'addr:city': 'Vancouver', 'addr:housenumber': '1820', 'phone': '+1-604-879-GEEK', 'opening_hours': 'Tu-Sa 11:00-18:00', 'addr:street': 'Pandora Street', 'payment:debit_cards': 'yes', 'email': 'info@freegeekvancouver.org'}",2019-10-28T15:41:35.000-07:00
+recycling,49.0479195,-122.2854031,,"{'recycling:clothes': 'yes', 'recycling_type': 'centre', 'recycling:books': 'yes', 'recycling:furniture': 'yes'}",2017-06-06T13:36:11.000-07:00
+recycling,49.0574062,-122.4634398,Aldergrove Return-It Depot,"{'addr:housenumber': '27482', 'website': 'https://www.return-it.ca/locations/aldergrove-return-it/?', 'phone': '+1-604-856-2992', 'opening_hours': 'Mo-Sa 09:00-18:00; Su,PH 11:00-17:00', 'addr:street': 'Fraser Highway', 'brand': 'Return-It Depot'}",2019-09-02T22:08:26.000-07:00
+recycling,49.2620937,-123.0912585,,"{'recycling_type': 'centre', 'recycling:cans': 'no'}",2015-09-27T18:56:55.000-07:00
+recycling,49.0432503,-122.31660659999999,,"{'recycling:glass_bottles': 'yes', 'recycling_type': 'container', 'recycling:cans': 'yes'}",2017-09-23T22:20:31.000-07:00
+recycling,49.050095,-122.32534620000001,,"{'recycling:glass_bottles': 'yes', 'recycling:paper': 'yes', 'recycling_type': 'container', 'amenity:waste_basket': 'yes', 'recycling:cans': 'yes'}",2017-09-23T22:20:31.000-07:00
+recycling,49.145242200000006,-122.275044,,{'recycling_type': 'container'},2017-01-22T16:45:11.000-08:00
+recycling,49.069252399999996,-122.3364325,,{'recycling_type': 'container'},2017-01-08T02:21:08.000-08:00
+recycling,49.0748119,-122.81451640000002,,{'recycling_type': 'container'},2016-12-28T10:36:01.000-08:00
+recycling,49.045184000000006,-122.31690230000001,,{'recycling_type': 'container'},2018-01-06T18:07:57.000-08:00
+recycling,49.232753499999994,-123.01975949999999,Collingwood Bottle Exchange,"{'addr:housenumber': '3805', 'recycling_type': 'centre', 'addr:street': 'Kingsway', 'addr:postcode': 'V5H 1Y4', 'addr:city': 'Burnaby'}",2017-11-20T09:53:14.000-08:00
+recycling,49.3230937,-122.9721653,,{'recycling_type': 'container'},2017-07-16T17:29:24.000-07:00
+recycling,49.2360674,-122.8669871,Return-It,{},2014-04-28T20:57:34.000-07:00
+recycling,49.0499304,-122.3229953,,"{'recycling:glass_bottles': 'yes', 'amenity:recycling': 'yes', 'recycling:paper': 'yes', 'recycling_type': 'container', 'amenity:waste_basket': 'yes', 'recycling:cans': 'yes'}",2017-10-09T14:21:36.000-07:00
+recycling,49.045538799999996,-122.3095033,,"{'recycling_type': 'container', 'recycling:glass': 'no', 'recycling:cans': 'no'}",2016-09-02T00:29:59.000-07:00
+recycling,49.2391595,-123.0514543,Vancouver Central Return-It Depot,"{'addr:housenumber': '2639', 'recycling_type': 'centre', 'addr:street': 'Kingsway', 'addr:city': 'Vancouver'}",2019-09-13T13:57:03.000-07:00
+recycling,49.1122659,-122.66072549999998,Maple leaf disposal,{},2018-08-04T13:15:17.000-07:00
+recycling,49.3100347,-123.03226399999998,,{'recycling:clothes': 'yes'},2018-07-15T06:48:42.000-07:00
+recycling,49.265108399999995,-123.0807407,,"{'recycling:clothes': 'yes', 'colour': 'green', 'recycling:shoes': 'yes', 'operator': 'Green Inspiration BC', 'direction': '0'}",2019-04-20T05:09:33.000-07:00
+recycling,49.0658838,-122.3155173,,"{'recycling_type': 'container', 'recycling:glass': 'no'}",2016-06-12T14:46:15.000-07:00
+recycling,49.0658994,-122.3155175,,"{'recycling:clothes': 'yes', 'recycling_type': 'container'}",2016-06-12T14:46:14.000-07:00
+recycling,49.1887963,-123.14591399999999,,{'recycling_type': 'container'},2015-09-21T07:00:34.000-07:00
+recycling,49.2296343,-122.347342,,{'recycling_type': 'container'},2017-09-19T04:47:49.000-07:00
