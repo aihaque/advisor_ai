@@ -2,6 +2,7 @@ from GPSPhoto import gpsphoto
 import pandas as pd
 import numpy as np
 import math
+import mplleaflet
 from geopy import Nominatim
 import matplotlib.pyplot as plt
 from statsmodels.nonparametric.smoothers_lowess import lowess
@@ -73,6 +74,56 @@ def distance(dataframe):   # https://www.movable-type.co.uk/scripts/latlong.html
     d = R * c
     return d
 
+def user_input(data):
+    df = pd.read_csv('categories.csv')
+    print('Please choose what type of amenity you are interested in: ')
+    print('0. In general')
+    print('1. Financial')
+    print('2. Vehicles')
+    print('3. Recreation')
+    print('4. Food')
+    print('5. Work')
+    print('6. Pray')
+    print('7. Trash')
+    print('8. Repair')
+    print('9. Work')
+    print('10. Clock')
+    print('11. Landmark')
+    print('12. transport')
+
+    value = input("")
+    value = int(value)
+    category = "N/A"
+    if(value == 1):
+        category = "money"
+    elif(value == 2):
+        category = "vehicles"
+    elif(value == 3):
+        category = "health"
+    elif(value == 4):
+        category = "recreation"
+    elif(value == 5):
+        category = "food"
+    elif(value == 6):
+        category = "work"
+    elif(value == 7):
+        category = "pray"
+    elif(value == 8):
+        category = "trash"
+    elif(value == 9):
+        category = "repair"
+    elif(value == 10):
+        category = "clock"
+    elif(value == 11):
+        category = "landmarks"
+    elif(value == 12):
+        category = "transports"
+    if(category!="N/A"):
+        df_category = df[category].dropna()
+        print(df_category)
+        data = data[data['amenity'].isin(df_category)]
+    return data
+
 def main():
     # Get the data from image file and return a dictionary
     data = {}
@@ -96,7 +147,7 @@ def main():
     )
 
     model.fit(np.stack([df['Latitude']], axis=1), df['Longitude'])
-    x = np.linspace(df['Latitude'].max(), df['Latitude'].min(),100, dtype=np.longfloat)
+    x = np.linspace(df['Latitude'].max(), df['Latitude'].min(),10, dtype=np.longfloat)
     y = model.predict(np.stack([x], axis=1))
 
     plt.scatter(x,y)
@@ -112,7 +163,8 @@ def main():
 
     create_gpx(avg_latlon)
 
-    amenities = pd.read_csv('group_withcity/group1_1.csv')
+    amenities = pd.read_csv('cities/Burnaby.csv')
+    amenities = user_input(amenities)
 
     avg_latlon = avg_latlon.apply(set_city,axis=1)
 
@@ -128,15 +180,33 @@ def main():
 
     all_possible_amenities['amenity'] = joined['amenity']
     all_possible_amenities['city'] = joined['city']
+    all_possible_amenities['address'] = joined['address']
 
     all_possible_amenities = all_possible_amenities.groupby(['lat','lon']).min()
 
     suggested = all_possible_amenities[all_possible_amenities['distance']>10]
-    suggested = all_possible_amenities[all_possible_amenities['distance']<6000]
+    suggested = all_possible_amenities[all_possible_amenities['distance']<2000]
 
     print()
     print("I suggest you could go ")
-    print(suggested)
+    
+    suggested = suggested.reset_index()
+    p = suggested.drop(columns=['lat','lon'])
+    print(p)
+
+    plt.figure(figsize=(8,6))
+    fig = plt.figure()
+    #x = suggested[suggested['amenity'] == 'atm']
+    #x = x.reset_index()
+    #plt.scatter(x['lon'],x['lat'])
+
+    plt.scatter(suggested['lon'],suggested['lat'])
+
+    filtered = lowess(suggested['lat'],suggested['lon'], frac=0.2)
+    plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
+
+    #plt.plot(x,y, 'r-', linewidth=3)
+    mplleaflet.show(fig=fig)
     #joined.to_csv('joined.csv', index=False)
 
 if __name__ == '__main__':
