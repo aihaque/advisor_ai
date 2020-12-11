@@ -1,0 +1,2 @@
+address,amenity,city,lat,lon,name,tags,timestamp
+"{'road': 'Salish Drive', 'city_district': 'Dunbar-Southlands', 'city': 'Musqueam Nation', 'county': 'Metro Vancouver Regional District', 'state': 'British Columbia', 'postcode': 'V6N 2C4', 'country': 'Canada', 'country_code': 'ca'}",post_box,Musqueam Nation,49.23616320000001,-123.2020631,,{},2012-03-15T01:15:39.000-07:00
