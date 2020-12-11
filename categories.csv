@@ -6,7 +6,7 @@ bank,chargin_station,doctor,social_facility,vending_machine,school,monastery,san
 ,driving_school,chiropractor,cinema,food_court,conference_centre,,waste_disposal,,,police,
 ,motorcycle_rental,first_aid,events_venue,juice_bar,courthouse,,waste_transfer_station,,,post_depot,
 ,bicycle_rental,healthcare,family_centre,marketplace,cram_school,,,,,ranger_station,
-,,hospital,fountain,café,dojo,,,,,safety,
+,,hospital,fountain,cafe,dojo,,,,,safety,
 ,,pharmacy,gambling,fast_food,housing co-op,,,,,shelter,
 ,,dentist,gym,restaurant,internet_cafe,,,,,shower,
 ,,,hunting_stand,biergarten,kindergarten,,,,,smoking_area,
@@ -28,4 +28,3 @@ bank,chargin_station,doctor,social_facility,vending_machine,school,monastery,san
 ,,,bar,,training,,,,,post_box,
 ,,,pub,,university,,,,,,
 ,,,,,workshop,,,,,,
-,,,,,bank,,,,,,
