@@ -1,0 +1,2 @@
+address,amenity,city,lat,lon,name,tags,timestamp
+"{'road': 'Bonson Road', 'city': 'Katzie No. 1', 'municipality': 'Langley Township', 'county': 'Metro Vancouver Regional District', 'state': 'British Columbia', 'postcode': 'V3Y 2S3', 'country': 'Canada', 'country_code': 'ca'}",waste_basket,Katzie No. 1,49.2006201,-122.6785186,,{},2017-06-26T21:57:04.000-07:00
