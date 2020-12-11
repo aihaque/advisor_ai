@@ -18,13 +18,13 @@ def set_city(df):
 
 geolocator = Nominatim(user_agent = 'test_1')
 big_df = []
-for filename in os.listdir('grouped_new'):
-    df = pd.read_csv('grouped_new/'+filename)
+for filename in os.listdir('groups/group_4'):
+    df = pd.read_csv('groups/group_4/'+filename)
     df = df.apply(set_city,axis=1)
     big_df.append(df)
 
 concat_df = pd.concat(big_df)    
-concat_df.to_csv('test.csv', index=False)
+concat_df.to_csv('groupwithcity_4.csv', index=False)
 
 #avg_df = pd.read_csv('avg_latlon.csv')
 #avg_df = avg_df .apply(set_city,axis=1)
