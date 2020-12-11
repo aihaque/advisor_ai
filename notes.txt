@@ -1,2 +1,3 @@
 1. made modifications to data.csv to remove '|'
 2. files dont seem to be saved as csv ( cant open with excel) but can open with python normally. 
+3. deleted biergarten adn ATLAS, EVSE, loading dock, public building
