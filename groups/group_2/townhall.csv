@@ -1,0 +1,10 @@
+amenity,lat,lon,name,tags,timestamp
+townhall,49.1913251,-122.8492686,,"{'addr:province': 'BC', 'addr:housenumber': '13450', 'addr:country': 'CA', 'addr:street': '104 Avenue', 'addr:postcode': 'V3T 1V8', 'townhall:type': 'city', 'addr:city': 'Surrey'}",2020-03-19T18:04:53.000-07:00
+townhall,49.282316200000004,-122.82998,Port Moody City Hall,"{'addr:housenumber': '100', 'website': 'http://www.portmoody.ca', 'addr:street': 'Newport Drive', 'wikipedia': 'en:Port Moody', 'addr:postcode': 'V3H 5C3', 'wikidata': 'Q776261'}",2019-08-12T23:13:48.000-07:00
+townhall,49.2431999,-122.9724754,,"{'addr:province': 'BC', 'addr:housenumber': '4949', 'addr:country': 'CA', 'addr:street': 'Canada Way', 'addr:postcode': 'V5G 1M2', 'townhall:type': 'city', 'addr:city': 'burnaby'}",2020-03-19T17:53:47.000-07:00
+townhall,49.0380546,-123.0978325,Tsawwassen First Nation Administration Offices,"{'addr:housenumber': '1926', 'website': 'http://tsawwassenfirstnation.com', 'addr:street': 'Tsawwassen Drive North'}",2019-01-14T06:22:28.000-08:00
+townhall,49.3361935,-123.07801770000002,District of North Vancouver Municipal Hall,"{'addr:housenumber': '355', 'addr:street': 'West Queens Road', 'source': 'www.dnv.org', 'addr:postcode': 'V7N 4N5'}",2014-11-07T06:05:20.000-08:00
+townhall,49.2252941,-123.00115579999999,Metro Vancouver,"{'addr:housenumber': '4730', 'alt_name': 'Metro Vancouver Regional District', 'website': 'http://www.metrovancouver.org/', 'old_name': 'Greater Vancouver Regional District', 'phone': '+1-604-432-6200', 'addr:street': 'Kingsway', 'office': 'government', 'addr:city': 'Burnaby'}",2018-06-20T15:09:53.000-07:00
+townhall,49.3207115,-123.07370449999999,North Vancouver City Hall,"{'addr:housenumber': '141', 'addr:street': 'West 14th Street', 'source': 'www.cnv.org', 'addr:postcode': 'V7M 1H9'}",2014-11-07T06:05:27.000-08:00
+townhall,49.2289224,-122.68912590000001,Pitt Meadows Heritage Hall,"{'addr:housenumber': '12460', 'addr:street': 'Harris Road', 'addr:city': 'Pitt Meadows'}",2020-02-22T07:44:26.000-08:00
+townhall,49.1039579,-122.657255,Langley City Hall,"{'addr:housenumber': '20399', 'addr:street': 'Douglas Crescent'}",2017-07-30T06:00:04.000-07:00

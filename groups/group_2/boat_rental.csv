@@ -1,0 +1,10 @@
+amenity,lat,lon,name,tags,timestamp
+boat_rental,49.2710737,-123.13651100000001,Vancouver Boat Rentals,{'phone': '+1-604-428-2628'},2019-12-29T22:39:51.000-08:00
+boat_rental,49.276403,-123.1524904,Vancouver Water Adventures,"{'website': 'https://www.vancouverwateradventures.com', 'fee': 'yes'}",2019-07-03T23:42:44.000-07:00
+boat_rental,49.275572600000004,-123.201351,Windsure Adventure Watersports,"{'website': 'https://windsure.com/', 'fee': 'yes'}",2019-07-03T23:42:44.000-07:00
+boat_rental,49.274995200000006,-123.1992955,Jericho Beach Kayak Centre,"{'old_website': 'https://www.ecomarine.com/', 'website': 'https://jerichobeachkayak.com/', 'old_name': 'Ecomarine Paddlesport Centres', 'fee': 'yes'}",2020-02-22T04:26:05.000-08:00
+boat_rental,49.280713,-122.84951159999999,Rocky Point Kayak,"{'note': 'Rafting/Kayaking', 'addr:housenumber': '2770', 'website': 'https://www.rockypointkayak.com/', 'addr:street': 'Esplanade Street', 'phone': '+1-604-936-1112'}",2019-07-22T17:24:22.000-07:00
+boat_rental,49.285840500000006,-123.14309540000002,,{'seasonal': 'summer'},2015-07-08T20:53:39.000-07:00
+boat_rental,49.2722956,-123.136955,Bonnie Lee Charters,"{'addr:housenumber': '104 1676', 'website': 'http://www.bonnielee.com', 'addr:street': 'Duranleau Street', 'phone': '+1-604-290-7447'}",2018-02-10T16:17:37.000-08:00
+boat_rental,49.271705600000004,-123.1366328,Vancouver Water Adventures,"{'addr:housenumber': '1812', 'website': 'https://vancouverwateradventures.com/', 'phone': '+1-604-736-5155', 'addr:street': 'Boatlift Lane', 'addr:postcode': 'V6H 3Y2', 'guide': 'boat', 'rental': 'jetski;kayak;paddleboard'}",2020-04-23T06:25:21.000-07:00
+boat_rental,49.264337899999994,-122.6910749,Pitt Meadows Paddle Club (PMPC),{'payment:cash': 'yes'},2018-08-05T19:21:10.000-07:00

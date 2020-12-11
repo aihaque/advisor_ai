@@ -1,0 +1,4 @@
+amenity,lat,lon,name,tags,timestamp
+workshop,49.247133700000006,-123.2284396,Detector Facility,{},2018-03-20T21:38:26.000-07:00
+workshop,49.247513299999994,-123.23045549999999,Scintillator Shop,{},2018-03-20T21:38:27.000-07:00
+workshop,49.2462606,-123.2294836,Electronics Assembly,{},2018-03-20T21:38:27.000-07:00

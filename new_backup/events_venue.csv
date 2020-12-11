@@ -1,0 +1,10 @@
+amenity,lat,lon,name,tags,timestamp
+events_venue,49.2689758,-123.14064520000001,Indian Summer Festival,"{'addr:province': 'BC', 'addr:housenumber': '1880', 'addr:country': 'CA', 'addr:street': 'Fir Street', 'addr:postcode': 'V6J 3B1', 'addr:unit': '#201', 'addr:city': 'Vancouver'}",2020-03-05T00:22:56.000-08:00
+events_venue,49.1512003,-122.86671650000001,Bollywood Banquet Halls & Convention Centre,"{'addr:housenumber': '8166', 'website': 'https://bollywoodbanquethalls.ca/', 'phone': '+1-604-503-6700', 'addr:street': '128 Street', 'addr:unit': '201', 'email': 'info@bollywoodhalls.ca'}",2020-01-12T19:27:05.000-08:00
+events_venue,49.14182879999999,-122.003803,Chilliwack Heritage Park,"{'addr:housenumber': '44140', 'addr:street': 'Luckakuck Way', 'addr:postcode': 'V2R 4A7', 'addr:city': 'Chilliwack'}",2019-10-27T17:08:25.000-07:00
+events_venue,49.0486525,-122.28918540000001,Banquet Room,"{'website': 'https://www.newpassagetoindia.com/', 'phone': '+1-604-855-7100', 'level': '0', 'description': 'Banquet Hall entrance', 'entrance': 'yes', 'operator': 'New Passage to India'}",2019-02-19T15:37:48.000-08:00
+events_venue,49.089949600000004,-123.08359650000001,Royal Ocean Events,{},2019-08-19T03:36:36.000-07:00
+events_venue,49.162591600000006,-122.88960829999999,Crown Palace,"{'addr:housenumber': '12025', 'website': 'http://www.crownpalace.ca/', 'addr:street': 'Nordel Way', 'phone': '+1-604-591-8100', 'addr:unit': '201'}",2020-01-12T19:32:13.000-08:00
+events_venue,49.208850899999995,-122.6987311,West Coast Flying Trapeze,"{'addr:housenumber': '19055', 'addr:street': 'Airport Way', 'addr:postcode': 'V3Y 2B4', 'addr:city': 'Pitt Meadows'}",2019-10-27T17:08:25.000-07:00
+events_venue,49.2095101,-123.08448759999999,South Hall Banquet and Wedding Palace,"{'addr:housenumber': '8273', 'website': 'https://www.southhall.ca/', 'addr:street': 'Ross Street', 'phone': '+1-604-323-8273'}",2019-04-20T08:36:27.000-07:00
+events_venue,49.0616867,-122.3244631,Kiwanis Banquet Hall,"{'website': 'https://www.abbotsfordkiwanis.com/', 'phone': '+1-604-859-3134', 'level': '0', 'operator': 'Kiwanis Club of Abbotsford'}",2019-02-18T15:16:03.000-08:00

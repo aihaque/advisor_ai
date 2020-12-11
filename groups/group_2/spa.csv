@@ -1,0 +1,6 @@
+amenity,lat,lon,name,tags,timestamp
+spa,49.25802279999999,-123.10138970000001,Main Wellness Centre,"{'addr:housenumber': '3041', 'addr:street': 'Main Street', 'addr:city': 'Vancouver'}",2014-06-26T06:44:18.000-07:00
+spa,49.2663063,-123.1380996,Miraj Hammam Spa,"{'opening_hours': 'Tu-We 11:00-19:00, Th 12:00-15:00, Fr 12:00-20:00, Sa 10:00-18:00 ""women""; Th 16:00-20:00, Su 14:00-18:00 ""men""', 'addr:housenumber': '1495', 'addr:street': 'West 6th Avenue'}",2019-09-02T22:08:25.000-07:00
+spa,49.3069372,-122.9537426,Fruition Day Spa,{},2019-05-29T10:13:32.000-07:00
+spa,49.26399310000001,-123.1718054,Footworks Relaxology,{},2012-04-19T07:55:18.000-07:00
+spa,49.1682974,-122.57968989999999,Su Casa Spa,{},2016-11-03T18:55:21.000-07:00

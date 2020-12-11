@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+Observation Platform,49.3875515,-123.0740994,,"{'generator:method': 'wind_turbine', 'power': 'generator', 'building': 'wind turbine', 'generator:source': 'wind'}",2020-02-06T20:15:10.000-08:00

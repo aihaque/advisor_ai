@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+monastery,49.040366999999996,-122.30424170000002,St Ann's Convent,"{'addr:housenumber': '2108', 'monastery:type': 'convent', 'phone': '+1-604-756-8882', 'community:gender': 'female', 'addr:street': 'Ware Street', 'addr:postcode': 'V2S 3C2', 'operator': 'Carmelite Missionary Sisters of St. Therese of the Child Jesus', 'building': 'detached', 'denomination': 'roman_catholic', 'religion': 'christian'}",2018-06-20T15:11:39.000-07:00

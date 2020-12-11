@@ -1,0 +1,11 @@
+amenity,lat,lon,name,tags,timestamp
+clock,49.1060122,-122.66185700000001,,"{'support': 'pole', 'display': 'analog'}",2019-10-12T05:06:36.000-07:00
+clock,49.2420274,-123.1129332,Lions Clock,"{'date': 'yes', 'visibility': 'street', 'display': 'analog', 'faces': '2', 'support': 'pole', 'start_date': '1995'}",2019-12-14T06:55:14.000-08:00
+clock,49.0961547,-122.0447308,,{'display': 'sundial'},2018-03-13T17:04:58.000-07:00
+clock,49.257371299999996,-123.10095990000002,,{},2014-10-21T05:25:32.000-07:00
+clock,49.024752899999996,-122.80133149999999,,"{'description': ""50' high clock tower"", 'visibility': 'area', 'faces': '4', 'support': 'tower', 'display': 'analog'}",2019-01-18T03:29:17.000-08:00
+clock,49.0509418,-122.3085382,,"{'inscription': 'Time to Eat', 'description': 'inaccurate', 'support': 'pole', 'display': 'digital'}",2016-06-22T01:04:56.000-07:00
+clock,49.285144700000004,-123.1140076,Birks Clock,"{'visibility': 'street', 'old_name': 'Trorey', 'display': 'analog', 'tourism': 'attraction', 'faces': '4', 'support': 'pole', 'operator': 'Birks'}",2019-01-21T19:15:04.000-08:00
+clock,49.2641386,-123.10091470000002,Mount Pleasant Clock,"{'date': 'no', 'visibility': 'street', 'support': 'pole', 'display': 'analog'}",2019-03-25T04:19:09.000-07:00
+clock,49.284384100000004,-123.10889009999998,Gastown Steam Clock,"{'wheelchair': 'yes', 'addr:housenumber': '305', 'historic': 'monument', 'visibility': 'street', 'display': 'analog', 'tourism': 'attraction', 'addr:street': 'Water Street', 'wikipedia': 'en:Steam clock#Gastown steam clock', 'wikidata': 'Q477663', 'support': 'ground'}",2018-02-01T22:41:54.000-08:00
+clock,49.0495751,-122.33856840000001,,{},2016-12-19T16:26:05.000-08:00

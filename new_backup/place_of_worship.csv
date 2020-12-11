@@ -1,0 +1,117 @@
+amenity,lat,lon,name,tags,timestamp
+place_of_worship,49.1220586,-122.72924099999999,Cloverdale Christian Fellowship,"{'addr:housenumber': '17802', 'website': 'https://www.cloverdalechurch.ca/', 'service_times': 'Su 10:30', 'phone': '+1-604-574-1725', 'addr:street': '66 Avenue', 'fax': '+1-604-574-1728', 'addr:postcode': 'V3S 7X1', 'addr:unit': '102a', 'email': 'office@Cloverdalechurch.ca', 'addr:city': 'Surrey', 'religion': 'christian'}",2019-10-28T15:41:35.000-07:00
+place_of_worship,49.0497291,-122.3367982,Jesus Rock of Ages Ministries,"{'website': 'http://www.jesusrockofages.com/services/BC/abbotsford', 'phone': '+1-604-719-3840', 'religion': 'christian'}",2018-06-20T15:11:12.000-07:00
+place_of_worship,49.2195913,-122.9270527,,"{'addr:housenumber': '7925', 'addr:street': 'Tenth Avenue', 'religion': 'christian'}",2017-11-05T01:21:01.000-08:00
+place_of_worship,49.040082899999994,-123.0976937,,{'religion': 'christian'},2019-08-15T05:39:14.000-07:00
+place_of_worship,49.332978000000004,-123.105134,,{},2015-12-25T04:32:52.000-08:00
+place_of_worship,49.0554092,-122.2720858,,"{'alt_name': 'Liberated Reformed Church at Abbotsford', 'website': 'http://www.lrcabbotsford.com', 'level': '2', 'addr:unit': '201', 'denomination': 'reformed', 'religion': 'christian'}",2015-12-26T16:11:28.000-08:00
+place_of_worship,49.0752034,-122.6420625,,{'religion': 'christian'},2018-02-20T22:27:35.000-08:00
+place_of_worship,49.2132529,-122.8278038,Vancouver Life Church,"{'addr:housenumber': '11565', 'website': 'https://canadalifechurch.com/', 'addr:street': '142 Street', 'religion': 'christian'}",2018-06-08T07:02:58.000-07:00
+place_of_worship,49.279936600000006,-123.11653000000001,Westside Church,"{'addr:province': 'BC', 'website': 'https://www.wchurch.ca/', 'internet_access': 'wlan', 'description': 'We exist to make Jesus known.', 'addr:postcode': 'V6B 2W1', 'denomination': 'mennonite_bretheren', 'addr:city': 'Vancouver', 'religion': 'christian', 'addr:housenumber': '777', 'service_times': 'Su 09:00,11:00', 'phone': '+1-604-263-2314', 'opening_hours': 'Mo-Fr 09:00-17:00', 'addr:street': 'Homer Street'}",2020-03-08T23:06:19.000-07:00
+place_of_worship,49.046263700000004,-122.29385400000001,Tabernacle House of Prayer,{},2016-01-11T14:13:22.000-08:00
+place_of_worship,49.288929700000004,-123.1318469,Kingdom Hall of Jehovah's Witnesses,"{'addr:housenumber': '1526', 'denomination': 'jehovahs_witness'}",2019-03-20T03:05:39.000-07:00
+place_of_worship,49.0488385,-122.29533300000001,River Kid's Church,"{'service_times': 'Su 11:30-12:30', 'old_name': 'Clothes To Go;MWB Family Thrifty Center', 'level': '1', 'addr:unit': '3', 'denomination': 'Partners in Harvest', 'religion': 'christian'}",2016-11-02T12:26:26.000-07:00
+place_of_worship,49.0487165,-122.2953328,The River Community Church,"{'website': 'https://www.rivercc.net/', 'service_times': 'Su 10:30', 'phone': '+1-604-807-5132', 'level': '0', 'addr:unit': '14', 'url': 'http://www.partnersinharvest.org', 'denomination': 'Partners In Harvest', 'religion': 'christian'}",2019-02-20T02:50:34.000-08:00
+place_of_worship,49.208099100000005,-122.93000990000002,,{'religion': 'christian'},2012-03-20T05:26:54.000-07:00
+place_of_worship,49.1992211,-122.8146369,Divine Dharma Meditation,{},2018-10-09T05:59:10.000-07:00
+place_of_worship,49.1991228,-122.8169054,Connecting Community Church,"{'addr:housenumber': '14625', 'website': 'http://www.connectingsurrey.com/', 'addr:street': '108 Avenue', 'religion': 'christian'}",2018-10-10T04:00:29.000-07:00
+place_of_worship,49.1021237,-122.6578541,Southgate Church,{'religion': 'christian'},2015-05-25T09:32:10.000-07:00
+place_of_worship,49.283001500000005,-122.8076695,Eagle Ridge United Church,"{'denomination': 'united', 'religion': 'christian'}",2014-03-20T21:04:13.000-07:00
+place_of_worship,49.2370973,-123.12180690000001,Oakridge Adventist Chruch,"{'addr:housenumber': '5350', 'website': 'http://churchinvancouver.ca/', 'phone': '+1-604-266-6727', 'addr:street': 'Baillie Street', 'addr:postcode': 'V5Z 3M5', 'denomination': 'seventh_day_adventist', 'addr:city': 'Vancouver', 'religion': 'christian'}",2019-09-13T13:56:49.000-07:00
+place_of_worship,49.2361619,-122.8968372,St. Michael Parish,{'religion': 'christian'},2011-08-10T23:27:41.000-07:00
+place_of_worship,49.221862200000004,-122.6599878,Maple Ridge Christian Reformed Church,"{'addr:housenumber': '20245', 'website': 'http://www.mapleridgecrc.com/', 'addr:street': 'Dewdney Trunk Road', 'addr:postcode': 'V2X 3C9', 'denomination': 'christian', 'addr:city': 'Maple Ridge'}",2019-09-13T13:57:04.000-07:00
+place_of_worship,49.0575934,-122.466806,United Church,"{'denomination': 'united', 'religion': 'christian'}",2017-05-31T13:52:55.000-07:00
+place_of_worship,49.0580204,-122.46756380000001,Aldergrove Vineyard Church,"{'website': 'http://aldergrovevineyard.com', 'service_times': 'Su 09:30+', 'addr:street': 'Fraser Highway', 'addr:postcode': 'V4W 2V1', 'religion': 'christian'}",2018-03-09T00:40:48.000-08:00
+place_of_worship,49.3393185,-123.2551803,Saint Francis in the Woods,{},2011-08-26T23:38:14.000-07:00
+place_of_worship,49.23307929999999,-123.01430069999999,Kingsway Church,"{'addr:housenumber': '4061', 'phone': '+1-604-437-3748', 'addr:street': 'Kingsway', 'addr:postcode': 'V5H 1Z1', 'addr:city': 'Burnaby', 'religion': 'christian'}",2018-06-20T15:11:43.000-07:00
+place_of_worship,49.0533036,-122.33829329999999,New Hope Christian Centre,"{'website': 'http://www.newhopechristiancentre.org', 'phone': '+1-604-859-0571', 'addr:unit': '105', 'religion': 'christian'}",2018-02-09T05:00:03.000-08:00
+place_of_worship,49.05336320000001,-122.33845359999998,Abbotsford Community Church,"{'website': 'https://www.abbotsfordcommunitychurch.org/', 'level': '1', 'addr:unit': '206A', 'denomination': 'mennonite', 'religion': 'christian'}",2019-02-20T07:25:10.000-08:00
+place_of_worship,49.2656591,-123.20621729999999,St Helens Anglican Church,"{'denomination': 'anglican', 'religion': 'christian'}",2010-02-18T03:54:34.000-08:00
+place_of_worship,49.271606899999995,-122.9916818,Brentwood Park Alliance Church,{'religion': 'christian'},2013-06-06T07:30:05.000-07:00
+place_of_worship,49.2816298,-123.1036995,Potters Place Mission,"{'wheelchair': 'yes', 'addr:housenumber': '21', 'website': 'http://pottersplacemission.com/', 'phone': '+1-604-688-2968', 'addr:street': 'East Hastings Street', 'addr:postcode': 'V6A 1M9', 'denomination': 'evangelical', 'addr:city': 'Vancouver', 'religion': 'christian'}",2018-10-26T20:30:15.000-07:00
+place_of_worship,49.226887,-122.9208031,Christian Reformed Church,"{'denomination': 'reformed', 'religion': 'christian'}",2020-06-28T00:41:54.000-07:00
+place_of_worship,49.1986946,-122.84851709999998,Iglesia de Jesucristo Palabra Miel,"{'addr:housenumber': '13486', 'surrey:addrid': '13995', 'addr:street': '108 Avenue', 'source': 'City of Surrey 2010 GIS Data', 'surrey:date': '19851205', 'addr:city': 'Surrey', 'religion': 'christian'}",2018-03-26T17:13:05.000-07:00
+place_of_worship,49.222555,-122.65873359999999,St Luke's Catholic Church,"{'addr:housenumber': '20285', 'addr:street': 'Dewdney Trunk Road', 'addr:postcode': 'V2X 3C9', 'addr:city': 'Maple Ridge'}",2019-09-13T13:56:49.000-07:00
+place_of_worship,49.2647408,-122.8418615,St Laurence,"{'denomination': 'anglican', 'religion': 'christian'}",2011-12-11T09:30:42.000-08:00
+place_of_worship,49.038518700000004,-122.3048616,Milal Methodist Church,"{'description': 'Korean Methodist', 'website': 'http://kmcamericas.org', 'phone': '+1-778-955-9182', 'denomination': 'methodist', 'religion': 'christian'}",2018-06-20T15:12:04.000-07:00
+place_of_worship,49.155609999999996,-122.9095119,North Delta Evangelical Free Church,"{'addr:housenumber': '11300', 'addr:street': '84 Avenue', 'religion': 'christian'}",2017-05-30T03:16:43.000-07:00
+place_of_worship,49.1287107,-123.1759851,,{},2020-04-03T17:59:35.000-07:00
+place_of_worship,49.0400498,-122.2612353,Saint Matthew's Anglican Church,"{'opening_hours': 'Mo-Fr 08:00-16:00; Su 08:45-10:15', 'wheelchair': 'yes', 'website': 'http://www.saintmatthewsanglicanchurch.ca', 'denomination': 'anglican', 'religion': 'christian'}",2018-07-18T21:10:59.000-07:00
+place_of_worship,49.2150165,-122.9332378,,"{'building': 'yes', 'source': 'CanVec 6.0 - NRCan'}",2010-10-18T21:31:19.000-07:00
+place_of_worship,49.2068115,-122.91423449999999,Olivet Baptist Church,"{'source': 'CanVec 6.0 - NRCan', 'religion': 'christian'}",2016-01-13T03:52:42.000-08:00
+place_of_worship,49.2109625,-122.9162642,,"{'building': 'yes', 'source': 'CanVec 6.0 - NRCan'}",2010-10-18T21:31:08.000-07:00
+place_of_worship,49.2148799,-122.9219814,Mt. Calvary Lutheran Church,"{'source': 'CanVec 6.0 - NRCan', 'building': 'yes', 'religion': 'christian'}",2010-10-23T17:09:13.000-07:00
+place_of_worship,49.169157,-122.77947809999999,Good Shepard CRC,"{'addr:housenumber': '9165', 'phone': '+1-604-700-9734', 'description': 'Korean church', 'addr:street': '160 Street', 'addr:postcode': 'V4N 2X7', 'denomination': 'christina_reformed_chruch', 'addr:city': 'Surrey', 'religion': 'christian'}",2019-10-28T15:41:35.000-07:00
+place_of_worship,49.0918261,-122.9545369,St. Stephen's United Church,"{'addr:housenumber': '9696', 'website': 'https://www.ladnerunited.org/static_content.php?id=8', 'service_times': 'Su 10:00', 'addr:street': 'Ladner Trunk Road', 'addr:city': 'Delta', 'religion': 'united'}",2019-09-13T13:57:05.000-07:00
+place_of_worship,49.277043,-123.1247982,Trinity Central,"{'addr:housenumber': '1188', 'website': 'http://www.trinitycentral.org', 'service_times': 'Su 10:30', 'addr:street': 'Seymour Street', 'addr:postcode': 'V6B 3M7', 'email': 'info@trinitycentral.org', 'addr:city': 'Vancouver', 'religion': 'christian'}",2019-09-18T23:00:49.000-07:00
+place_of_worship,49.03806470000001,-122.79438359999999,Church of Jesus Christ and the Latterday Saints,"{'addr:housenumber': '15450', 'addr:street': '20 Avenue', 'denomination': 'mormon', 'addr:city': 'Surrey', 'religion': 'christian'}",2020-04-11T19:03:42.000-07:00
+place_of_worship,49.2287667,-123.1955005,,{},2015-02-19T06:20:50.000-08:00
+place_of_worship,49.0884195,-122.59339569999999,SouthRidge Fellowship Church,"{'addr:housenumber': '22756', 'addr:street': '48 Avenue', 'addr:postcode': 'V2Z 2T6', 'addr:city': 'Langley'}",2019-09-13T13:57:05.000-07:00
+place_of_worship,49.2478329,-122.96746940000001,Burnaby Christ Church of China,{'religion': 'christian'},2020-01-15T12:02:28.000-08:00
+place_of_worship,49.2810499,-123.13048729999998,Central Presbyterian Church,"{'addr:housenumber': '1155', 'addr:street': 'Thurlow Street', 'religion': 'christian'}",2019-02-27T01:09:11.000-08:00
+place_of_worship,49.110893100000006,-122.7123527,Gurudwara Guru Teg Bahadur Sahib-Cloverdale,"{'addr:housenumber': '5988', 'surrey:addrid': '53396', 'addr:street': '184 Street', 'source': 'City of Surrey 2010 GIS Data', 'surrey:date': '19851023', 'denomination': 'Sikhism', 'addr:city': 'Surrey', 'religion': 'sikh'}",2019-01-23T22:25:23.000-08:00
+place_of_worship,49.0152674,-122.31561770000002,Grace Tabernacle,"{'addr:housenumber': '721', 'website': 'http://live.gracetabernacle.ca', 'service_times': 'We 19:30; Su 10:30', 'addr:street': 'Gladwin Road', 'denomination': 'christian', 'addr:city': 'Abbosford', 'religion': 'christian'}",2019-09-13T13:57:05.000-07:00
+place_of_worship,49.2749222,-122.97057609999999,Korean Baptist Church of Vancouver,{},2020-01-19T21:20:01.000-08:00
+place_of_worship,49.2703805,-122.991699,Holy Cross Roman Catholic Church,"{'denomination': 'roman_catholic', 'religion': 'christian'}",2013-06-26T11:01:41.000-07:00
+place_of_worship,49.2356476,-123.0441064,Fu-Niu Buddhist Temple,"{'addr:street': 'Bursill Street', 'denomination': 'buddhist', 'addr:city': 'Vancouver', 'religion': 'buddhist'}",2019-12-17T20:46:19.000-08:00
+place_of_worship,49.2504899,-122.91041129999999,New Life Community Church,{},2013-10-13T07:30:12.000-07:00
+place_of_worship,49.0350298,-123.0679521,,{'religion': 'christian'},2019-09-05T03:29:31.000-07:00
+place_of_worship,49.2824284,-123.09719640000002,St. James',"{'denomination': 'anglican', 'religion': 'christian'}",2013-02-20T20:25:41.000-08:00
+place_of_worship,49.265853,-123.2114567,Allan Kardec Vancouver Society,"{'website': 'http://allankardec.ca/', 'short_name': 'AKVS', 'level': '1', 'denomination': 'spiritist', 'religion': 'christian'}",2016-10-16T15:18:03.000-07:00
+place_of_worship,49.204144899999996,-122.88101509999998,,{},2018-08-11T06:58:46.000-07:00
+place_of_worship,49.3362027,-123.12453980000001,Kingdom Hall of Jehova's Witnesses,{'religion': 'christian'},2017-04-09T20:56:27.000-07:00
+place_of_worship,49.089837,-122.647255,Langley Evangelical Free Church,"{'denomination': 'free_evangelical', 'religion': 'christian'}",2011-05-18T13:02:05.000-07:00
+place_of_worship,49.27041,-123.0690156,Chinese Grace Mennonite Church,"{'addr:housenumber': '1720', 'phone': '+1-604-254-2772', 'addr:street': 'Graveley Street', 'addr:postcode': 'V5L 3B1', 'denomination': 'mennonite', 'addr:city': 'Vancouver', 'religion': 'christian'}",2019-09-13T13:57:00.000-07:00
+place_of_worship,49.0596005,-122.3166213,Cedar Brook Church,"{'website': 'http://www.cedarbrookchurch.ca', 'phone': '+1-604-853-4546', 'denomination': 'baptist', 'religion': 'christian'}",2018-02-09T05:00:04.000-08:00
+place_of_worship,49.1484842,-122.7554679,,{'religion': 'christian'},2016-12-22T23:35:08.000-08:00
+place_of_worship,49.0462119,-122.34454709999999,Freshwind Christian Fellowship,"{'website': 'https://freshwindabbotsford.wordpress.com', 'office': 'association', 'religion': 'christian'}",2016-12-21T14:01:34.000-08:00
+place_of_worship,49.2150574,-123.0058297,,"{'addr:housenumber': '4383', 'addr:street': 'Rumble Street', 'religion': 'christian'}",2016-12-06T09:26:07.000-08:00
+place_of_worship,49.0344637,-122.2494433,Cascade Community Church,"{'website': 'http://www.cascadechurch.ca', 'service_times': 'Su 10:00,18:00', 'phone': '+1-604-556-7000', 'denomination': 'salvation_army', 'religion': 'christian'}",2018-06-20T15:11:58.000-07:00
+place_of_worship,49.2796065,-123.0988652,Evergreen Taoist Church Of Canada,"{'addr:housenumber': '233', 'addr:street': 'Keefer Street', 'phone': '+1-604-681-6166', 'addr:city': 'Vancouver', 'religion': 'taoist'}",2019-09-13T13:56:59.000-07:00
+place_of_worship,49.1625042,-122.8287439,Gurdwara Nanaksar Surrey,"{'addr:housenumber': '14210', 'website': 'http://www.gurdwarananaksar.com/', 'addr:street': '88 Avenue', 'phone': '+1-604-591-2613', 'religion': 'sikh'}",2018-07-27T23:39:27.000-07:00
+place_of_worship,49.2416768,-123.00255,Willingdon Church,"{'addr:housenumber': '4812', 'addr:street': 'Willingdon Avenue', 'denomination': 'mennonite', 'addr:city': 'Vancouver', 'religion': 'christian'}",2019-09-13T13:56:49.000-07:00
+place_of_worship,49.0429517,-122.6660326,,{'religion': 'christian'},2017-04-10T03:29:28.000-07:00
+place_of_worship,49.0897414,-122.6257615,Sharon United Church,"{'addr:housenumber': '21562', 'addr:street': 'Old Yale Road', 'addr:postcode': 'V3A 4M8', 'denomination': 'united', 'addr:city': 'Langley', 'religion': 'christian'}",2019-09-13T13:57:00.000-07:00
+place_of_worship,49.1858124,-123.0990044,Fraserview Mennonite Brethren Church,"{'addr:housenumber': '11295', 'addr:street': 'Mellis Drive', 'denomination': 'mennonite', 'religion': 'christian'}",2016-11-21T20:51:30.000-08:00
+place_of_worship,49.1698912,-123.10202849999999,Kingdom Hall Of Jehovah's Witnesses,"{'denomination': 'jehovahs_witness', 'religion': 'christian'}",2012-03-13T18:44:37.000-07:00
+place_of_worship,49.089572499999996,-123.08197820000001,All Saints Ladner Anglican Church,"{'website': 'https://www.vancouver.anglican.ca', 'service_times': 'Su 8:30, Su 10:30', 'denomination': 'anglican', 'religion': 'christian'}",2019-06-23T00:36:43.000-07:00
+place_of_worship,49.0890526,-123.0658533,Saviour Lutheran Church,"{'denomination': 'lutheran', 'religion': 'christian'}",2019-06-23T00:36:43.000-07:00
+place_of_worship,49.0895514,-123.067012,Ladner Baptist Church,"{'website': 'http://www.ladnerbaptist.ca/', 'denomination': 'baptist', 'religion': 'christian'}",2019-06-23T00:36:43.000-07:00
+place_of_worship,49.2218277,-122.655869,Maple Ridge Alliance Church,{'name:en': 'Maple Ridge Alliance Church'},2020-06-02T17:27:53.000-07:00
+place_of_worship,49.0891294,-122.59719140000001,Christ the King Church,"{'addr:housenumber': '22630', 'description': 'Traditional Roman Catholic Latin Mass', 'addr:street': '48 Avenue', 'addr:postcode': 'V2Z 2T6', 'denomination': 'catholic', 'addr:city': 'Langley', 'religion': 'christian'}",2019-09-13T13:57:00.000-07:00
+place_of_worship,49.3192885,-122.95319609999999,,{},2010-04-28T22:29:46.000-07:00
+place_of_worship,49.12705379999999,-123.18381200000002,Steveston Community Church,{'religion': 'christian'},2012-02-19T02:25:17.000-08:00
+place_of_worship,49.1697163,-122.66713429999999,,{},2016-11-22T03:21:48.000-08:00
+place_of_worship,49.262525200000006,-123.19438170000001,Point Grey Inter-Mennonite Fellowship (PGIMF),"{'denomination': 'mennonite', 'religion': 'christian'}",2009-08-25T06:01:47.000-07:00
+place_of_worship,49.0750325,-123.07785700000001,Sacred Heart,"{'toilets:wheelchair': 'yes', 'wheelchair': 'yes', 'religion': 'christian'}",2016-02-10T04:23:28.000-08:00
+place_of_worship,49.3708976,-123.28044779999999,St. Monica's Anglican Church,"{'addr:housenumber': '6404', 'addr:street': 'Wellington Avenue', 'denomination': 'anglican', 'religion': 'christian'}",2015-05-03T00:42:25.000-07:00
+place_of_worship,49.2049477,-122.88239820000001,,{},2018-08-11T06:58:46.000-07:00
+place_of_worship,49.0753664,-122.40311509999998,"Church of God in Christ, Mennonite","{'denomination': 'mennonite', 'religion': 'christian'}",2016-12-16T02:50:03.000-08:00
+place_of_worship,49.0899671,-123.08628759999999,Ladner United Church,"{'addr:housenumber': '4960', 'website': 'https://www.ladnerunited.org/', 'addr:street': '48 Avenue', 'denomination': 'united', 'religion': 'christian'}",2019-07-06T08:29:15.000-07:00
+place_of_worship,49.226194799999995,-122.89450910000001,New West Community Church,"{'addr:housenumber': '322', 'addr:street': 'Hospital Street'}",2018-09-24T16:44:00.000-07:00
+place_of_worship,49.0893484,-123.06497399999999,Pneuma Church,{'religion': 'christian'},2019-06-23T00:36:43.000-07:00
+place_of_worship,49.2497263,-122.9765437,Kingdom Hall of Jehovah's Witnesses,{},2017-09-23T05:35:23.000-07:00
+place_of_worship,49.0159102,-122.3259012,Abbotsford Punjabi Church,"{'opening_hours': 'Su 10:30-12:30', 'website': 'https://facebook.com/AbbotsfordPunjabiChurch', 'phone': '+1-604-853-2663', 'url': 'http://abbotsfordpunjabichurch.com', 'religion': 'christian'}",2018-06-20T15:12:02.000-07:00
+place_of_worship,49.2453958,-123.1528163,St. George’s Greek Orthodox Church,{},2018-07-09T04:07:56.000-07:00
+place_of_worship,49.246551200000006,-123.04734930000001,Vancouver Amen Church,"{'name:ko': '밴쿠버 아멘 교회', 'addr:housenumber': '2791', 'website': 'http://www.amenchurch.ca/', 'addr:street': 'East 27th Avenue', 'addr:postcode': 'V5R 1N4', 'religion': 'christian'}",2018-07-08T05:19:14.000-07:00
+place_of_worship,49.246485899999996,-123.04734669999999,First Hungarian Presbyterian Church,"{'name:hu': 'Első Magyar Református Egyház', 'denomination': 'presbyterian', 'religion': 'christian'}",2018-07-08T05:19:15.000-07:00
+place_of_worship,49.2162667,-122.9888517,,{},2010-07-21T23:22:37.000-07:00
+place_of_worship,49.251177399999996,-122.86164850000002,United Church,"{'denomination': 'united', 'religion': 'christian'}",2013-09-12T23:45:18.000-07:00
+place_of_worship,49.0617818,-122.31536270000001,The Open Church,"{'website': 'https://m.facebook.com/Open-Door-Church-104275249657581', 'service_times': 'Sa 11:00', 'phone': '+1-778-908-1082', 'url': 'http://theopendoorchurch.com', 'denomination': 'seventh_day_adventist', 'religion': 'christian'}",2018-06-20T15:12:03.000-07:00
+place_of_worship,49.0426591,-122.28772479999999,,"{'opening_hours': 'Su 10:00+', 'website': 'http://www.connectchurch.ca', 'religion': 'christian'}",2015-08-03T09:20:22.000-07:00
+place_of_worship,49.3467408,-123.1626763,doug tree,"{'denomination': 'baptist', 'religion': 'jewish'}",2018-03-12T01:03:53.000-07:00
+place_of_worship,49.2792607,-123.0931409,PTT Buddhist Temple,"{'addr:housenumber': '514', 'website': 'http://www.pttvan.org', 'phone': '+1-604-255-3811', 'addr:street': 'Keefer Street', 'addr:postcode': 'V6A 1Y3', 'addr:city': 'Vancouver', 'religion': 'buddhist'}",2019-07-17T21:24:14.000-07:00
+place_of_worship,49.0840124,-123.08551100000001,Ladner Gospel Assembly,"{'website': 'https://www.ladnergospelassembly.com/', 'religion': 'christian'}",2019-06-23T00:36:43.000-07:00
+place_of_worship,49.2569526,-122.85178959999999,korean church,{},2010-09-23T02:54:02.000-07:00
+place_of_worship,49.0827377,-123.07641809999998,Cedar Park Church,"{'website': 'https://cedarparkchurch.org/', 'denomination': 'mennonite', 'religion': 'christian'}",2019-06-23T00:36:43.000-07:00
+place_of_worship,49.0552844,-122.33736329999999,Shabbat Shel Shalom Messianic Fellowship,"{'website': 'https://m.facebook.com/ShabbatShelShalomMessianicFellowship', 'service_times': 'Sa 14:00', 'phone': '+1-604-996-8722', 'url': 'http://shabbat-shel-shalom-messianic-fellowship.webs.com', 'denomination': 'messianic_jewish', 'religion': 'christian'}",2018-02-02T18:56:58.000-08:00
+place_of_worship,49.2582457,-123.13965590000001,Pentecostal Tabernacle,"{'addr:housenumber': '1531', 'addr:street': 'West 15th Avenue', 'denomination': 'pentecostal', 'religion': 'christian'}",2012-07-21T23:16:32.000-07:00
+place_of_worship,49.0907889,-123.06951770000002,Lighthouse Church,"{'website': 'https://www.ladnerlife.com/', 'religion': 'christian'}",2019-06-23T00:36:43.000-07:00
+place_of_worship,49.1688298,-122.5775199,St. George's Anglican Church,"{'addr:street': 'Church Street', 'denomination': 'anglican', 'addr:city': 'Township of Langley', 'religion': 'christian'}",2019-09-13T13:56:49.000-07:00
+place_of_worship,49.1677709,-122.58099240000001,Living Waters Church,"{'building:levels': '1', 'addr:housenumber': '9095', 'addr:street': 'Glover Road', 'addr:city': 'Township of Langley', 'religion': 'christian'}",2019-09-13T13:56:58.000-07:00
+place_of_worship,49.2961385,-122.81796680000001,Sam Yuk Recreation and Cultural Centre,{'url': 'http://everlastinggospelcentre.com/'},2010-06-04T06:08:51.000-07:00
+place_of_worship,49.2960125,-122.81760200000001,Cornerstone Seventh Day Adventist Church,"{'url': 'http://www.cornerstonecommunity.ca', 'denomination': 'seventh_day_adventist', 'religion': 'christian'}",2010-06-04T06:08:51.000-07:00
+place_of_worship,49.2443891,-122.9087262,Cariboo Road Christian Fellowship,"{'denomination': 'pentecostal', 'religion': 'christian'}",2011-03-31T08:11:54.000-07:00
+place_of_worship,49.2208995,-122.60798249999999,Golden Ears United,"{'building': 'church', 'denomination': 'united', 'religion': 'christian'}",2017-09-22T04:39:25.000-07:00
+place_of_worship,49.24655,-123.12709939999999,Congregation Beth Israel,"{'addr:housenumber': '989', 'addr:street': 'West 28th Avenue', 'wikipedia': 'en:Congregation_Beth_Israel_(Vancouver)', 'addr:postcode': 'V5Z 0E8', 'wikidata': 'Q5160626', 'addr:city': 'Vancouver', 'religion': 'jewish'}",2019-09-13T13:57:03.000-07:00
+place_of_worship,49.144360799999994,-122.6182525,The King's Community Church,"{'website': 'http://tkc.com/', 'denomination': 'protestant', 'religion': 'christian'}",2016-04-14T20:31:01.000-07:00

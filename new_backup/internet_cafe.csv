@@ -1,0 +1,3 @@
+amenity,lat,lon,name,tags,timestamp
+internet_cafe,49.280476799999995,-123.13161129999999,Vista Digital,"{'addr:housenumber': '1104', 'addr:street': 'Davie Street'}",2016-07-16T03:18:10.000-07:00
+internet_cafe,49.2833999,-123.1145203,5FiftyGame,"{'opening_hours': 'Mo-Su 10:00-01:00', 'addr:housenumber': '550', 'website': 'http://www.vancouverstudentstore.ca', 'addr:street': 'Seymour Street'}",2018-07-10T22:15:55.000-07:00

@@ -1,0 +1,34 @@
+amenity,lat,lon,name,tags,timestamp
+car_rental,49.022937899999995,-122.38057020000001,Hertz,{'brand': 'Hertz'},2019-12-15T05:09:16.000-08:00
+car_rental,49.2439603,-123.0630041,Mr. Rent-A-Car,"{'addr:housenumber': '2138', 'addr:street': 'Kingsway', 'phone': '+1-604-876-7777', 'addr:city': 'Vancouver'}",2018-06-20T15:11:36.000-07:00
+car_rental,49.0230083,-122.3805313,National,"{'official_name': 'National Car Rental', 'brand': 'National'}",2019-12-15T05:09:16.000-08:00
+car_rental,49.0229865,-122.3805313,Enterprise,"{'official_name': 'Enterprise Rent-A-Car', 'brand': 'Enterprise'}",2019-12-15T05:09:16.000-08:00
+car_rental,49.0229584,-122.3805712,Thrifty,{'brand': 'Thrifty'},2019-12-15T05:09:16.000-08:00
+car_rental,49.0229139,-122.38060320000001,Budget,"{'official_name': 'Budget Rent a Car', 'brand': 'Budget'}",2019-12-15T05:09:16.000-08:00
+car_rental,49.113659000000006,-122.6613582,Traveland RV Rentals,{'website': 'http://travelandrvcanada.com'},2011-06-21T18:31:31.000-07:00
+car_rental,49.288129100000006,-123.1160492,Hertz,"{'brand:wikidata': 'Q1543874', 'name:fr': 'Hertz', 'brand': 'Hertz', 'brand:wikipedia': 'en:The Hertz Corporation'}",2019-08-29T17:32:53.000-07:00
+car_rental,49.2831781,-123.12132240000001,Avis,"{'brand:wikidata': 'Q791136', 'addr:province': 'BC', 'addr:housenumber': '757', 'brand:wikipedia': 'en:Avis Car Rental', 'opening_hours': 'Sa-We 07:00-18:00; Th 07:00-19:00; Fr 07:00-20:00', 'addr:street': 'Hornby Street', 'brand': 'Avis', 'operator': 'Avis', 'addr:city': 'Vancouver'}",2020-03-11T04:43:09.000-07:00
+car_rental,49.2734181,-123.0981066,Hertz,"{'brand:wikidata': 'Q1543874', 'brand': 'Hertz', 'brand:wikipedia': 'en:The Hertz Corporation'}",2019-02-25T19:25:00.000-08:00
+car_rental,49.2765386,-123.12685590000001,Enterprise,"{'brand:wikidata': 'Q17085454', 'official_name': 'Enterprise Rent-A-Car', 'addr:housenumber': '1250', 'brand:wikipedia': 'en:Enterprise Rent-A-Car', 'addr:street': 'Granville Street', 'addr:postcode': 'V6Z 1M4', 'brand': 'Enterprise', 'addr:unit': '2', 'addr:city': 'Vancouver'}",2019-08-29T18:06:16.000-07:00
+car_rental,49.0621506,-122.38955990000002,enterprise rent-a-car,"{'opening_hours': 'Mo-Fr 08:00-17:30; Sa 09:00-12:00', 'website': 'http://www.enterpriserentacar.ca', 'addr:unit': '103'}",2019-04-14T20:59:36.000-07:00
+car_rental,49.270464000000004,-123.143024,Enterprise,"{'brand:wikidata': 'Q17085454', 'opening_hours': 'Mo-Fr 08:00-06:00; Sa 09:00-24:00', 'official_name': 'Enterprise Rent-A-Car', 'brand': 'Enterprise', 'brand:wikipedia': 'en:Enterprise Rent-A-Car'}",2019-08-29T18:25:42.000-07:00
+car_rental,49.050880299999996,-122.30245149999999,Hertz,"{'opening_hours': 'Mo-Fr 07:30-18:00; Sa 09:00-12:00', 'website': 'https://www.hertz.ca', 'phone': '+1-604-851-3190', 'addr:unit': 'B', 'url': 'https://www.hertz.ca/rentacar/location/YXXC01'}",2019-09-02T22:08:25.000-07:00
+car_rental,49.192637899999994,-123.10135030000001,Enterprise Rent-A-Car (Canada),{'addr:unit': '128'},2015-12-17T07:38:20.000-08:00
+car_rental,49.1297625,-123.0229882,Escape Campervans,"{'website': 'https://www.escapecampervans.com', 'internet_access': 'wlan', 'phone': '+1-310-672-9909', 'opening_hours': 'Mo-Su 08:30-16:30', 'name:fr': 'Escape Campervans Vancouver Depot', 'name:en': 'Escape Campervans Vancouver Depot', 'addr:postcode': 'V4G 1H8'}",2019-09-02T17:44:42.000-07:00
+car_rental,49.2048501,-123.12911740000001,Enterprise,"{'brand:wikidata': 'Q17085454', 'official_name': 'Enterprise Rent-A-Car', 'brand': 'Enterprise', 'brand:wikipedia': 'en:Enterprise Rent-A-Car'}",2019-08-11T00:05:00.000-07:00
+car_rental,49.1932787,-123.1795173,Hertz,"{'brand:wikidata': 'Q1543874', 'brand': 'Hertz', 'brand:wikipedia': 'en:The Hertz Corporation'}",2019-09-14T05:00:22.000-07:00
+car_rental,49.1121881,-122.6559996,Enterprise,"{'brand:wikidata': 'Q17085454', 'official_name': 'Enterprise Rent-A-Car', 'brand': 'Enterprise', 'brand:wikipedia': 'en:Enterprise Rent-A-Car'}",2019-12-22T06:00:03.000-08:00
+car_rental,49.2763415,-123.1271096,Hertz,"{'brand:wikidata': 'Q1543874', 'addr:housenumber': '1274', 'brand:wikipedia': 'en:The Hertz Corporation', 'addr:street': 'Granville Street', 'brand': 'Hertz', 'addr:city': 'Vancouver'}",2019-08-29T18:06:16.000-07:00
+car_rental,49.28141289999999,-123.1161159,Pacific Car Rentals,"{'opening_hours': 'Mo-Sa 08:00-18:00; Su 09:00-17:00', 'addr:housenumber': '501', 'addr:street': 'West Georgia Street'}",2019-12-09T03:39:16.000-08:00
+car_rental,49.1911581,-122.84494070000001,Enterprise,"{'brand:wikidata': 'Q17085454', 'official_name': 'Enterprise Rent-A-Car', 'addr:housenumber': '10376', 'website': 'https://www.enterprise.ca/', 'phone': '+1-604-581-7474', 'brand:wikipedia': 'en:Enterprise Rent-A-Car', 'addr:street': 'King George Boulevard', 'brand': 'Enterprise'}",2019-08-24T15:23:01.000-07:00
+car_rental,49.219559600000004,-122.97175929999999,Mr. Rent a Car,{'name:en': 'Mr. Renta a Car'},2019-06-14T03:12:10.000-07:00
+car_rental,49.229482399999995,-123.00213659999999,Avis,"{'brand:wikidata': 'Q791136', 'name:en': 'Avis', 'brand': 'Avis', 'brand:wikipedia': 'en:Avis Car Rental'}",2019-05-27T03:58:20.000-07:00
+car_rental,49.1765729,-122.6688965,Driving Force (Truck Rental),{'name:en': 'Driving Force (Truck Rental)'},2016-10-02T20:56:18.000-07:00
+car_rental,49.1933933,-123.1794707,Avis,"{'brand:wikidata': 'Q791136', 'addr:housenumber': '3880', 'brand:wikipedia': 'en:Avis Car Rental', 'name:en': 'Avis', 'addr:street': 'Grant McConachie Way', 'brand': 'Avis'}",2019-09-14T05:00:22.000-07:00
+car_rental,49.1249486,-122.6262598,CAT Rental Store,{'brand': 'CAT'},2017-01-26T21:50:41.000-08:00
+car_rental,49.20220689999999,-123.1341593,Wicked Camper Van,"{'addr:housenumber': '1295', 'website': 'https://www.wickedcampers.ca/', 'addr:street': 'West 75th Avenue'}",2019-02-20T02:36:05.000-08:00
+car_rental,49.1939172,-123.1237223,Enterprise,"{'brand:wikidata': 'Q17085454', 'brand': 'Enterprise', 'brand:wikipedia': 'en:Enterprise Rent-A-Car'}",2019-05-29T17:34:17.000-07:00
+car_rental,49.287765500000006,-123.11343740000001,National,"{'brand:wikidata': 'Q1424142', 'official_name': 'National Car Rental', 'brand': 'National', 'brand:wikipedia': 'en:National Car Rental'}",2020-06-11T20:34:04.000-07:00
+car_rental,49.11367620000001,-122.6537961,Traveland RV,"{'name:en': 'Traveland RV', 'name:nl': 'Traveland RV'}",2019-12-22T11:12:17.000-08:00
+car_rental,49.2775903,-123.12528130000001,Access Rent-a-car,"{'addr:province': 'BC', 'opening_hours': 'Mo-Fr 08:00-17:30; Sa 08:00-17:00; Su 08:00-15:00', 'addr:housenumber': '1146', 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}",2020-03-14T21:12:37.000-07:00
+car_rental,49.02288970000001,-122.38060349999999,Avis,{'brand': 'Avis'},2019-12-15T05:09:16.000-08:00

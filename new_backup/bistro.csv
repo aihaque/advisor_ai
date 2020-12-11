@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+bistro,49.0488705,-122.28947140000001,The Polly Fox,"{'addr:housenumber': '33780', 'alt_name': 'The Polly Fox Bakery & Bistro', 'website': 'http://www.thepollyfox.com', 'shop': 'bakery', 'amenity:cafe': 'yes', 'addr:street': 'Essendene Avenue', 'entrance': 'yes', 'addr:postcode': 'V2S 2H2', 'addr:unit': '130'}",2018-10-29T13:29:16.000-07:00

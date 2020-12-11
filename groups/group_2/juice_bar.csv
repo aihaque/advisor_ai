@@ -1,0 +1,2 @@
+amenity,lat,lon,name,tags,timestamp
+juice_bar,49.3249053,-123.13689450000001,Orange Julius,"{'wheelchair': 'yes', 'shop': 'beverages', 'level': '0', 'indoor': 'yes', 'layer': '0', 'drink': 'juice'}",2019-04-29T03:53:05.000-07:00

@@ -1,0 +1,24 @@
+amenity,lat,lon,name,tags,timestamp
+police,49.25170870000001,-122.80245690000001,BC Sheriff Services,{},2019-11-17T08:48:32.000-08:00
+police,49.1065318,-122.7335252,Surrey RCMP (Cloverdale),"{'addr:housenumber': '5732', 'phone': '+1-604-502-6266', 'surrey:addrid': '57681', 'addr:street': '176A Street', 'source': 'City of Surrey 2010 GIS Data', 'surrey:date': '19860806', 'addr:city': 'Surrey'}",2018-06-20T15:09:43.000-07:00
+police,49.2057021,-122.9038122,,{},2019-05-20T19:28:38.000-07:00
+police,49.1564265,-122.90729840000002,North Delta Police Station,{},2019-06-27T04:10:17.000-07:00
+police,49.120503,-122.6588618,Langley RCMP (Willowbrook CPO),"{'note': 'Service in English and French', 'name:fr': 'GRC Langley (BPC Willowbrook)', 'note:fr': 'Service en Français et Anglais', 'phone': '+1-604-534-1040', 'addr:unit': '140'}",2018-06-20T15:09:44.000-07:00
+police,49.2498871,-122.8632,Coquitlam RCMP (Ridgeway CPO),"{'note': 'Service in English and French', 'addr:housenumber': '1059', 'phone': '+1-604-933-6888', 'name:fr': 'GRC Coquitlam (BPC Ridgeway)', 'addr:street': 'Ridgeway Avenue', 'note:fr': 'Service en Français et Anglais'}",2018-06-20T15:13:03.000-07:00
+police,49.0755948,-122.6705933,Langley RCMP (Brookswood),"{'phone': '+1-604-530-3104', 'addr:unit': '102'}",2018-06-20T15:13:03.000-07:00
+police,49.1632825,-122.6389758,Langley RCMP (Walnut Grove CPO),"{'phone': '+1-604-888-0563', 'addr:unit': '108'}",2018-06-20T15:13:03.000-07:00
+police,49.0379704,-122.2774074,Community Policing Office,"{'website': 'http://www.abbypd.ca/Locations-and-Hours', 'addr:unit': '105', 'operator': 'Abbotsford Police Department'}",2015-12-14T04:20:38.000-08:00
+police,49.2589743,-123.23839699999999,University RCMP,{'phone': '+1-604-224-1322'},2018-06-20T15:09:45.000-07:00
+police,49.2035049,-122.90783540000001,,{},2010-11-01T22:59:59.000-07:00
+police,49.251308200000004,-123.00263170000001,BCIT Security,{},2016-04-13T16:20:51.000-07:00
+police,49.125437100000006,-123.1761356,Steveston Community Police Station,{},2012-09-22T20:46:27.000-07:00
+police,49.224961799999996,-122.89196640000002,Metro Vancouver Transit Police,"{'addr:housenumber': '287', 'addr:street': ""Nelson's Court"", 'addr:postcode': 'V3L 0E7', 'addr:unit': '300', 'operator': 'Transit Police', 'addr:city': 'New Westminster'}",2019-09-13T13:56:58.000-07:00
+police,49.228851399999996,-123.00586470000002,RCMP Southwest Community Police Office,"{'addr:housenumber': '4501', 'phone': '+1-604-656-3232', 'addr:street': 'Kingsborough Street', 'addr:postcode': 'V5H 4V3', 'operator': 'Royal Canadian Mounted Police', 'addr:city': 'Burnaby'}",2019-09-13T13:56:58.000-07:00
+police,49.0836597,-123.06071370000001,Delta Police Station,{},2010-06-12T01:46:38.000-07:00
+police,49.0349083,-122.80142279999998,Surrey RCMP (South Surrey),"{'toilets:wheelchair': 'no', 'wheelchair': 'limited', 'addr:housenumber': '1815', 'phone': '+1-604-599-7810', 'opening_hours': 'Mo-Fr 09:00-17:00', 'addr:street': '152 Street', 'addr:unit': '100', 'operator': 'RCMP', 'addr:city': 'Surrey'}",2019-07-24T14:39:25.000-07:00
+police,49.261507200000004,-122.88823970000001,Burquilam Community Police Station,{'name:en': 'Burquilam Community Police Station'},2017-02-22T03:07:49.000-08:00
+police,49.2421347,-122.97115900000001,Burnaby RCMP,"{'opening_hours': 'Mo-Su 08:00-20:00', 'addr:housenumber': '6355', 'website': 'http://burnaby.rcmp-grc.gc.ca/', 'addr:street': 'Deer Lake Avenue', 'phone': '+1-604-646-9999'}",2020-01-09T02:05:39.000-08:00
+police,49.103294399999996,-122.65616729999999,Langley RCMP (City CPO),"{'phone': '+1-604-514-2870', 'addr:unit': '100'}",2019-12-22T06:06:19.000-08:00
+police,49.2765744,-123.1273162,Granville Community Policing Centre,"{'addr:housenumber': '1263', 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}",2019-09-18T23:00:49.000-07:00
+police,49.0399052,-122.27911270000001,,{'addr:unit': '9'},2018-07-29T01:46:23.000-07:00
+police,49.1973263,-122.84474579999998,Surrey RCMP (Whalley/City Centre),"{'opening_hours': 'Mo-Fr 09:00-17:00', 'addr:housenumber': '10720', 'addr:street': 'King George Boulevard', 'phone': '+1-604-502-6390'}",2020-01-09T00:36:15.000-08:00

@@ -1,0 +1,3 @@
+amenity,lat,lon,name,tags,timestamp
+healthcare,49.1913485,-122.8085713,,"{'addr:housenumber': '14912', 'level': '0', 'surrey:addrid': '23806', 'healthcare:speciality': 'chiropractic', 'addr:street': '104 Avenue', 'source': 'City of Surrey 2010 GIS Data', 'office': 'therapist', 'surrey:date': '19850801', 'healthcare': 'alternative', 'addr:city': 'Surrey'}",2018-03-26T13:54:36.000-07:00
+healthcare,49.1918,-122.8244278,Surrey kids physio,"{'indoor': 'yes', 'office': 'therapist', 'level': '2', 'addr:unit': '302', 'healthcare': 'physiotherapist'}",2017-11-21T16:13:23.000-08:00

@@ -1,0 +1,48 @@
+amenity,lat,lon,name,tags,timestamp
+childcare,49.0479074,-122.3365449,QT Daycare,"{'description': 'QT Daycare Clearbrook Group Child Care 2½-5 years', 'addr:housenumber': '2518C', 'website': 'http://www.qtdaycareabbotsford.com', 'addr:street': 'Clearbrook Road', 'addr:postcode': 'V2T 2Y2'}",2015-12-16T20:52:54.000-08:00
+childcare,49.064366899999996,-122.3383905,PRAISE DAYCARE,{'phone': '+1-778-856-1718'},2018-06-20T15:11:52.000-07:00
+childcare,49.0667578,-122.3371851,Maranatha KidsCare Daycare,"{'opening_hours': 'Mo-Fr 06:30-18:00; Sa-Su,PH off', 'website': 'http://maranathakidscare.com', 'phone': '+1-604-859-8405'}",2019-09-02T22:08:26.000-07:00
+childcare,49.2256813,-122.59177040000002,123ABC Montessori Childcare,"{'note': 'A safe, happy and learning environment for your child', 'addr:housenumber': '12287', 'phone': '+1-604-467-0888', 'addr:street': 'Fulton Street', 'addr:postcode': 'V2X 6L4', 'addr:city': 'Maple Ridge'}",2018-10-26T20:30:10.000-07:00
+childcare,49.0417567,-122.3062162,HandInHand,"{'website': 'http://www.handinhand.ca/#!schoolagecare/c24pf', 'entrance': 'yes', 'phone': '+1-604-850-5293'}",2016-01-23T23:15:47.000-08:00
+childcare,49.049026899999994,-122.3002702,Yorkdale Fine Arts Preschool,"{'alt_name': 'Yorkdale Preschool', 'website': 'http://yorkdalefineartspreschool.com', 'loc_name': 'Yorkdale Pre-School', 'phone': '+1-604-859-1090', 'addr:unit': '2'}",2018-06-20T15:10:48.000-07:00
+childcare,49.2826492,-123.1308332,Molehill Child Care,{},2019-09-30T19:50:34.000-07:00
+childcare,49.0886489,-123.08231979999998,,{},2019-06-13T02:22:21.000-07:00
+childcare,49.1150431,-122.67937340000002,Jellybean Park,"{'addr:housenumber': '19615', 'website': 'http://www.jellybeanpark.com/', 'phone': '+1-604-539-9898', 'preschool': 'yes', 'addr:street': 'Willowbrook Drive', 'fax': '+1-604-534-8853', 'addr:postcode': 'V2Y 1A5', 'email': 'info@jellybeanpark.com', 'addr:city': 'Langley'}",2019-10-28T00:12:57.000-07:00
+childcare,49.1715846,-122.56591709999998,Headstart Daycare,{},2018-07-27T02:23:49.000-07:00
+childcare,49.1609021,-122.66574209999999,Smilestones Junior Kindergarten,"{'addr:province': 'BC', 'addr:housenumber': '8661', 'website': 'http://www.smilestones.ca/', 'opening_hours': 'Mo-Fr 07:00-17:30', 'addr:street': '201 Street', 'addr:postcode': 'V2Y 0G9', 'addr:unit': '150', 'addr:city': 'Langley'}",2019-12-03T22:17:09.000-08:00
+childcare,49.164901,-122.7968301,Ooie World,{},2019-10-13T00:36:51.000-07:00
+childcare,49.0499641,-122.33069950000001,Wings of Life Fine Arts Childcare,{'website': 'https://www.wingsoflifepreschool.ca/'},2019-02-20T18:19:21.000-08:00
+childcare,49.0478222,-122.33623020000002,QT Daycare,"{'addr:housenumber': '32034', 'website': 'http://www.qtdaycareabbotsford.com', 'description': 'QT Daycare Hillcrest Multi-Age 1-6 years', 'addr:street': 'Hillcrest Avenue', 'addr:postcode': 'V2T 1S4', 'building': 'detached'}",2016-10-22T16:11:10.000-07:00
+childcare,49.2867854,-123.04203490000002,,{},2020-01-08T22:30:10.000-08:00
+childcare,49.047909999999995,-122.29405729999999,The Learning Circle,{'website': 'https://www.thelearningcirclechildcare.com/tlc-abbotsford-campus-tuition'},2019-08-07T01:30:54.000-07:00
+childcare,49.272121899999995,-122.95526740000001,Morning Star Family Child Care,"{'addr:province': 'British Columbia', 'addr:housenumber': '1345', 'website': 'https://morningstarfamilychildcare.team/photos.html', 'addr:street': 'Aldrin Place', 'addr:postcode': 'V5A2N9', 'addr:city': 'Burnaby'}",2020-06-23T02:02:51.000-07:00
+childcare,49.252994,-123.11583689999999,Acorn - Eight Oaks daycare,{},2018-11-14T10:17:11.000-08:00
+childcare,49.2537566,-123.1157576,Cambie Montessori Children Centre,{},2018-11-14T10:17:11.000-08:00
+childcare,49.26415479999999,-122.74682790000001,BrightStart Children's Academy,"{'addr:province': 'BC', 'addr:housenumber': '1141', 'addr:street': 'Riverwood Gate', 'addr:postcode': 'V3B8A2', 'addr:city': 'Port Coquitlam'}",2020-04-05T23:45:42.000-07:00
+childcare,49.1340723,-122.31108529999999,You Care We Care Daycare,{},2019-11-10T11:08:25.000-08:00
+childcare,49.134736600000004,-122.88520700000001,Little Footprints,{'website': 'http://littlefootprintsacademy.com'},2020-03-25T17:33:55.000-07:00
+childcare,49.049532299999996,-122.29053490000001,Contemporary Kids Learning Centre,"{'addr:housenumber': '2621', 'website': 'http://contemporarykids.ca', 'opening_hours': 'Mo-Fr 06:00-18:00', 'addr:street': 'Montrose Avenue', 'entrance': 'yes', 'addr:postcode': 'V2S 3T5'}",2019-08-07T01:30:54.000-07:00
+childcare,49.0399664,-123.08944009999999,CEFA,{},2020-04-18T23:45:02.000-07:00
+childcare,49.040426700000005,-122.2940498,Little Leaders Childcare Centre,"{'phone': '+1-604-776-1404', 'age_group': '30mo to 5y'}",2018-02-09T04:59:57.000-08:00
+childcare,49.03438189999999,-122.24992560000001,Kids Club Child Care Centre Ltd.,"{'opening_hours': 'Mo-Fr 06:00-18:00; Sa,Su,PH off', 'website': 'http://www.kidsclubabbotsford.com', 'phone': '+1-604-556-7355'}",2019-09-02T22:08:26.000-07:00
+childcare,49.256609999999995,-122.8011043,Kid's Cottage Daycare,"{'phone': '+1-604-521-8952', 'website': 'https://kidscottage.ca/'}",2019-11-10T20:20:09.000-08:00
+childcare,49.2636669,-123.1516697,,{},2016-11-16T06:01:26.000-08:00
+childcare,49.311811799999994,-123.0330405,Dinosaur Daycare,{'opening_hours': 'Mo-Fr 07:30-17:30'},2017-10-13T06:00:37.000-07:00
+childcare,49.2248856,-122.8913862,Kids & Company,{},2018-04-26T05:25:14.000-07:00
+childcare,49.0307742,-122.3593379,Eco Kids Care,"{'addr:housenumber': '31216', 'addr:street': 'King Road', 'old_name': 'Tippytoes Preschool'}",2020-01-04T15:26:25.000-08:00
+childcare,49.243775799999995,-122.9996473,Childcare,{},2016-12-02T19:08:45.000-08:00
+childcare,49.0828986,-122.21861240000001,Little Wonders Montessori Childcare & Preschool Ltd.,"{'level': '0', 'addr:unit': '115'}",2016-10-06T09:21:34.000-07:00
+childcare,49.06873220000001,-122.35891200000002,Global West Montessori,"{'description': 'Preschool & Pre-K', 'website': 'http://www.globalwestmontessori.ca', 'phone': '+1-604-746-9022', 'addr:unit': '100'}",2018-06-20T15:12:31.000-07:00
+childcare,49.28125,-123.08534499999999,Writer's Exchange,"{'addr:housenumber': '881', 'name:en': ""Writer's Exchange"", 'addr:street': 'East Hastings Street'}",2019-08-23T07:46:30.000-07:00
+childcare,49.05971629999999,-122.3169591,Gladwin Childcare Centre,"{'website': 'https://m.facebook.com/GladwinChildcare', 'phone': '+1-604-853-9084', 'after_school': 'yes', 'entrance': 'yes', 'url': 'http://apaonline.ca/gcc', 'denomination': 'pentecostal', 'religion': 'christian'}",2018-06-20T15:11:49.000-07:00
+childcare,49.28270870000001,-122.826426,Newport Child Care,{},2019-08-15T18:12:31.000-07:00
+childcare,49.034408299999996,-122.33837549999998,Academics preKindergarten,"{'opening_hours': 'Mo-Fr 07:00-17:30', 'website': 'https://www.academicsprek.com/abbotsford-bc', 'phone': '+1-604-853-2332', 'addr:unit': '107'}",2019-02-18T15:21:30.000-08:00
+childcare,49.0467973,-122.28790079999999,Country Bears Child Care Centre Inc,"{'entrance': 'yes', 'phone': '+1-604-864-6424', 'age_group': '2.5-5 y', 'addr:unit': '100'}",2018-02-09T04:59:55.000-08:00
+childcare,49.3454276,-123.1112005,Capilano rivet hatchery,{'name:fr': 'Capilano rivet hatchery'},2017-04-30T17:06:55.000-07:00
+childcare,49.0590438,-122.33749209999999,Upper Fraser Valley Developmental Preschool,"{'kindergarten': 'yes', 'website': 'http://upperfraservalleypreschool.homestead.com', 'phone': '+1-604-859-1436', 'age_group': '30 months-6 years', 'start_date': '1978'}",2018-02-09T04:59:53.000-08:00
+childcare,49.0492762,-122.2976459,newleaf learning & childcare,"{'opening_hours': 'Mo-Fr 07:30-17:00; Sa 08:00-15:00', 'website': 'http://www.newleafchildcare.ca', 'phone': '+1-604-613-1919', 'addr:unit': '120'}",2019-09-02T22:08:26.000-07:00
+childcare,49.0648965,-122.3154726,Wind and Tide Preschool,"{'website': 'http://windandtide.com/about.locationdetails.php?locationID=18', 'phone': '+1-604-859-8799', 'url': 'http://windandtide.com'}",2018-06-20T15:12:03.000-07:00
+childcare,49.259671999999995,-123.04350249999999,YMCA Child Care Renfrew Station,"{'addr:housenumber': '2925', 'addr:street': 'Hebb Avenue', 'addr:postcode': 'V5M 0C4', 'addr:city': 'Vancouver'}",2019-09-13T13:57:05.000-07:00
+childcare,49.326632200000006,-122.95131470000001,Mamalina's Montessori School,"{'addr:housenumber': '4317', 'addr:street': 'Gallant Avenue', 'level': '0'}",2019-12-21T16:15:38.000-08:00
+childcare,49.0562654,-122.4271843,Small Beginnings Preschool,"{'website': 'http://www.smallbeginningspreschool.ca', 'preschool': 'yes', 'phone': '+1-604-856-1017'}",2018-06-20T15:12:39.000-07:00
+childcare,49.0875759,-123.05157630000001,,{},2017-06-20T06:36:06.000-07:00

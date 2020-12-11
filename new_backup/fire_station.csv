@@ -1,0 +1,23 @@
+amenity,lat,lon,name,tags,timestamp
+fire_station,49.1498649,-122.7679425,Fire Hall no. 18,"{'addr:housenumber': '8091', 'surrey:addrid': '1912', 'addr:street': '164 Street', 'source': 'City of Surrey 2010 GIS Data', 'addr:postcode': 'V3S 3W3', 'surrey:date': '19851101', 'addr:city': 'Surrey'}",2019-09-13T13:56:49.000-07:00
+fire_station,49.2242922,-122.6878969,Pitt Meadows Volunteer,{},2010-08-28T18:18:19.000-07:00
+fire_station,49.1919994,-122.8602652,Surrey Fire Hall #2 (Whalley),{},2020-03-06T08:55:52.000-08:00
+fire_station,49.2203023,-122.37874769999999,Mission Fire Hall #2,"{'addr:housenumber': '30514', 'addr:street': 'Dewdney Trunk Road'}",2020-04-10T10:49:47.000-07:00
+fire_station,49.156325700000004,-122.90762179999999,Delta Fire Station #3,{},2019-06-27T04:10:17.000-07:00
+fire_station,49.262211799999996,-122.81717079999999,Coquitlam Fire Hall #2 (Mariner),"{'addr:housenumber': '775', 'addr:street': 'Mariner Way'}",2018-08-12T19:10:14.000-07:00
+fire_station,49.2587638,-123.23822279999999,Firehall No. 10,"{'addr:housenumber': '2992', 'fixme': 'Needs a survey to confirm exact location on the building.', 'phone': '+1-604-665-6010', 'addr:street': 'Wesbrook Mall', 'addr:postcode': 'V6T 2B7', 'operator': 'Vancouver Fire and Rescue Services'}",2018-10-26T20:31:02.000-07:00
+fire_station,49.061826200000006,-122.2554135,Firehall 7 - Abbotsford Fire Dept,{},2020-01-15T05:53:21.000-08:00
+fire_station,49.220300200000004,-122.90828859999999,,{},2010-12-22T23:44:02.000-08:00
+fire_station,49.3659213,-123.27698659999999,Gleneagles Fire Station,{},2011-08-26T23:32:07.000-07:00
+fire_station,49.3196761,-123.0699311,City of North Vancouver Fire,{},2012-09-17T17:39:15.000-07:00
+fire_station,49.162203600000005,-122.8574827,Surrey Fire Hall #1,"{'addr:housenumber': '8767', 'addr:street': '132 Street'}",2020-03-06T08:54:10.000-08:00
+fire_station,49.31432589999999,-122.85527009999998,Sasamat Volunteer Fire Department,{},2009-09-03T18:53:05.000-07:00
+fire_station,49.0723799,-122.5363747,Firestation,{},2013-02-03T23:38:24.000-08:00
+fire_station,49.1193229,-122.6988045,Surrey Fire Service Hall 15,"{'addr:housenumber': '18915', 'addr:street': '64 Avenue', 'addr:postcode': 'V3S 8E7', 'addr:city': 'Surrey'}",2019-09-13T13:57:02.000-07:00
+fire_station,49.0306328,-122.365321,B.C. Forest Service Air Tanker Base,"{'website': 'http://bcwildfire.ca', 'phone': '+1-604-852-1131', 'operator': 'BC Wildfire Service'}",2018-02-05T23:43:15.000-08:00
+fire_station,49.0872398,-123.06392209999998,Delta Fire Hall No. 1,{},2010-06-12T02:07:26.000-07:00
+fire_station,49.2628203,-123.1377544,Firehall No. 4,"{'addr:housenumber': '1475', 'phone': '+1-604-665-6004', 'addr:street': 'West 10th Avenue', 'addr:postcode': 'V6H 1J8', 'operator': 'Vancouver Fire and Rescue Services', 'addr:city': 'Vancouver'}",2018-10-26T20:29:55.000-07:00
+fire_station,49.144042600000006,-123.1134507,,{},2010-06-10T20:21:17.000-07:00
+fire_station,49.1842578,-123.11588290000002,Richmond Number 3 Station,"{'addr:housenumber': '9680', 'addr:street': 'Cambie Road', 'addr:postcode': 'V6X 1K4', 'addr:city': 'Richmond'}",2019-10-27T17:08:25.000-07:00
+fire_station,49.2748565,-122.8809695,No. 2 Firehall,{},2020-01-18T08:34:57.000-08:00
+fire_station,49.2101068,-122.93675149999999,,{},2012-05-16T23:56:25.000-07:00
