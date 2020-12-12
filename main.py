@@ -176,12 +176,14 @@ def executeAI(avg_latlon,amenities):
     suggested = all_possible_amenities[all_possible_amenities['distance']>10]
     suggested = all_possible_amenities[all_possible_amenities['distance']<2000]
 
-    print()
-    print("I suggest you could go ")
-    
-    suggested = suggested.reset_index()
-    p = suggested.drop(columns=['lat','lon'])
-    if(suggested.empty == 'false'):
+    if(suggested.empty):
+        print("Sorry nothing to suggest")
+    else:
+        print()
+        print("I suggest you could go ")
+        
+        suggested = suggested.reset_index()
+        p = suggested.drop(columns=['lat','lon'])
         print(p)
 
         plt.figure(figsize=(8,6))
@@ -197,8 +199,6 @@ def executeAI(avg_latlon,amenities):
 
         #plt.plot(x,y, 'r-', linewidth=3)
         mplleaflet.show(fig=fig)
-    else:
-        print("Sorry nothing to suggest")
 
 
 def execute_nightclub_AI(nightclub,amenities):
