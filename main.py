@@ -1,60 +1,12 @@
-from GPSPhoto import gpsphoto
 import pandas as pd
 import numpy as np
 import math
 import mplleaflet
-from geopy import Nominatim
 import matplotlib.pyplot as plt
 from statsmodels.nonparametric.smoothers_lowess import lowess
-from sklearn.pipeline import make_pipeline
-from sklearn.preprocessing import PolynomialFeatures
-from sklearn.linear_model import LinearRegression
 from scipy import stats
 import seaborn
 seaborn.set()
-
-
-def output_gpx(points, output_filename):
-    """
-    Output a GPX file with latitude and longitude from the points DataFrame.
-    """
-    from xml.dom.minidom import getDOMImplementation
-
-    def append_trkpt(pt, trkseg, doc):
-        trkpt = doc.createElement('trkpt')
-        trkpt.setAttribute('lat', '%.8f' % (pt['lat']))
-        trkpt.setAttribute('lon', '%.8f' % (pt['lon']))
-        trkseg.appendChild(trkpt)
-
-    doc = getDOMImplementation().createDocument(None, 'gpx', None)
-    trk = doc.createElement('trk')
-    doc.documentElement.appendChild(trk)
-    trkseg = doc.createElement('trkseg')
-    trk.appendChild(trkseg)
-
-    points.apply(append_trkpt, axis=1, trkseg=trkseg, doc=doc)
-
-    with open(output_filename, 'w') as fh:
-        doc.writexml(fh, indent=' ')
-
-def create_gpx(dataframe):
-    dataframe['lat1'] = dataframe['lat'].shift(periods=-1)
-    dataframe['lon1'] = dataframe['lon'].shift(periods=-1)
-    dataframe = dataframe.dropna()
-    output_gpx(dataframe , 'predicted.gpx')
-    dataframe = dataframe.drop(columns=['lat1','lon1'])
-
-def set_city(df):
-    geolocator = Nominatim(user_agent = 'test_1')
-    cor = (df['lat'],df['lon'])
-    location = geolocator.reverse(cor)
-    address = location.raw['address']
-    df['address'] = address
-    try:
-        df['city'] = address['city']
-    except KeyError:
-        df['city'] = "Null"
-    return df
 
 def distance(dataframe):   # https://www.movable-type.co.uk/scripts/latlong.html
     lat1 = dataframe['lat_caller']
@@ -120,6 +72,7 @@ def user_input(data):
         category = "transports"
     if(category!="N/A"):
         df_category = df[category].dropna()
+        print("Looking for following of categorical interests")
         print(df_category)
         data = data[data['amenity'].isin(df_category)]
     return data
@@ -161,125 +114,175 @@ def executeAI(avg_latlon,amenities):
     joined = avg_latlon.join(amenities.set_index('city'),lsuffix='_caller',on='city')
     joined['distance']  = joined.apply(distance,axis=1)
 
-    all_possible_amenities = pd.DataFrame() 
-
-    all_possible_amenities['lat'] = joined['lat']
-    all_possible_amenities['lon'] = joined['lon']
-    all_possible_amenities['distance'] = joined['distance']
-
-    all_possible_amenities['amenity'] = joined['amenity']
-    all_possible_amenities['city'] = joined['city']
-    all_possible_amenities['address'] = joined['address']
-
-    all_possible_amenities = all_possible_amenities.groupby(['lat','lon']).min()
-
-    suggested = all_possible_amenities[all_possible_amenities['distance']>10]
-    suggested = all_possible_amenities[all_possible_amenities['distance']<2000]
-
-    if(suggested.empty):
+    if(joined.empty):
         print("Sorry nothing to suggest")
     else:
-        print()
-        print("I suggest you could go ")
-        
-        suggested = suggested.reset_index()
-        p = suggested.drop(columns=['lat','lon'])
-        print(p)
+        all_possible_amenities = pd.DataFrame() 
 
-        plt.figure(figsize=(8,6))
-        fig = plt.figure()
-        #x = suggested[suggested['amenity'] == 'atm']
-        #x = x.reset_index()
-        #plt.scatter(x['lon'],x['lat'])
+        all_possible_amenities['lat'] = joined['lat']
+        all_possible_amenities['lon'] = joined['lon']
+        all_possible_amenities['distance'] = joined['distance']
 
-        plt.scatter(suggested['lon'],suggested['lat'])
+        all_possible_amenities['amenity'] = joined['amenity']
+        all_possible_amenities['city'] = joined['city']
+        all_possible_amenities['address'] = joined['address']
 
-        filtered = lowess(suggested['lat'],suggested['lon'], frac=0.2)
-        plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
+        all_possible_amenities = all_possible_amenities.groupby(['lat','lon']).min()
 
-        #plt.plot(x,y, 'r-', linewidth=3)
-        mplleaflet.show(fig=fig)
+        suggested = all_possible_amenities[all_possible_amenities['distance']>10]
+        suggested = all_possible_amenities[all_possible_amenities['distance']<2000]
+
+        if(suggested.empty):
+            print("Sorry nothing to suggest")
+        else:
+            print()
+            f = open("Your trip suggessstion.txt", "w")
+            f.write("I suggest you could go for the uploaded trip to the following amenities\n")
+            print("I suggest you could go for the uploaded trip to the following amenities ")
+            
+            suggested = suggested.reset_index()
+            p = suggested.drop(columns=['lat','lon'])
+            print(p)
+            try:
+                f.write(p.to_string())
+            except KeyError:
+                f.write("Null")
+            f.close()
+
+            plt.figure(figsize=(8,6))
+            fig = plt.figure()
+            #x = suggested[suggested['amenity'] == 'atm']
+            #x = x.reset_index()
+            #plt.scatter(x['lon'],x['lat'])
+
+            plt.scatter(suggested['lon'],suggested['lat'])
+
+            filtered = lowess(suggested['lat'],suggested['lon'], frac=0.2)
+            plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
+
+            #plt.plot(x,y, 'r-', linewidth=3)
+            print("Please see the map with blue dot is the suggessted amenities red line is your optimal waliking")
+            print() 
+            mplleaflet.show(fig=fig)
 
 
 def execute_nightclub_AI(nightclub,amenities):
 
     joined = nightclub.join(amenities.set_index('city'),lsuffix='_caller',on='city')
-    joined['distance']  = joined.apply(distance,axis=1)
-    joined = joined[joined['distance']<1000]
 
-    joined['count'] = joined.groupby(['lat_caller','lon_caller'])['tags'].transform('count')
-    joined = joined[joined['count']>10]
+    if(joined.empty):
+        print("Sorry no popular nightclub found in your city")
+    else:
+        joined['distance']  = joined.apply(distance,axis=1)
+        joined = joined[joined['distance']<1000]
 
-    suggested = pd.DataFrame()
-    suggested = joined
-    suggested = suggested.drop_duplicates(subset=['lat_caller','lon_caller'])
+        joined['count'] = joined.groupby(['lat_caller','lon_caller'])['tags'].transform('count')
+        joined = joined[joined['count']>10]
+        if(joined.empty):
+            print("Sorry no popular nightclub found in your city")
+        else:
+            suggested = pd.DataFrame()
+            suggested = joined
+            suggested = suggested.drop_duplicates(subset=['lat_caller','lon_caller'])
 
-    print('Suggested NightClubs info')
-    print(suggested['address_caller'])
+            f = open("Nightclub suggessstion.txt", "w")
+            f.write('Suggested Nightclub info you can find more than 10 Nightclub related amenities within 1Km\n')
+            print('Suggested Nightclub info you can find more than 10 Nightclub related amenities within 1Km')
+            print(suggested['address_caller'])
 
-    long_info = pd.DataFrame()
-    long_info['Suggested NightClubs info'] = joined['address_caller']
-    long_info['Aminities_Within_1Km'] = joined['amenity']
-    print(long_info)
+            try:
+                f.write(suggested['address_caller'].to_string())
+            except KeyError:
+                f.write("Null")
 
-    plt.figure(figsize=(8,6))
-    fig = plt.figure()
-    plt.scatter(joined['lon_caller'],joined['lat_caller'],30)
-    plt.scatter(joined['lon'],joined['lat'],10)
-    mplleaflet.show(fig=fig)
+            f.close()
 
+            long_info = pd.DataFrame()
+            long_info['Suggested NightClubs info'] = joined['address_caller']
+            long_info['Realated_Aminities_Within_1Km'] = joined['amenity']
 
+            print()
+            print("Related amenities info")
+            print(long_info)
+
+            plt.figure(figsize=(8,6))
+            fig = plt.figure()
+            plt.scatter(joined['lon_caller'],joined['lat_caller'],30)
+            plt.scatter(joined['lon'],joined['lat'],10)
+
+            filtered = lowess(joined['lat_caller'],joined['lon_caller'], frac=0.7)
+            plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
+            print("Please see the map with blue dot is the suggessted nightclub and orange dot is the nearby related amenities red line is your optimal waliking")
+            print() 
+            mplleaflet.show(fig=fig)
+
+def execute_restaurant_AI(restaurant,amenities):
+
+    joined = restaurant.join(amenities.set_index('city'),lsuffix='_caller',on='city')
+
+    if(joined.empty):
+        print("Sorry no popular restaurant found in your city")
+    else:
+        joined['distance']  = joined.apply(distance,axis=1)
+        joined = joined[joined['distance']<500]
+
+        joined['count'] = joined.groupby(['lat_caller','lon_caller'])['tags'].transform('count')
+        joined = joined[joined['count']>40]
+        if(joined.empty):
+            print("Sorry no popular restaurant found in your city")
+        else:
+            suggested = pd.DataFrame()
+            suggested = joined
+            suggested = suggested.drop_duplicates(subset=['lat_caller','lon_caller'])
+
+            f = open("restuarant suggessstion.txt", "w")
+            f.write('Suggested restaurant info you can find more than 40 restaurant related amenities within 500meter\n')
+            print(suggested['address_caller'])
+
+            try:
+                f.write(suggested['address_caller'].to_string())
+            except KeyError:
+                f.write("Null")
+
+            f.close()
+
+            long_info = pd.DataFrame()
+            long_info['Suggested restaurant info'] = joined['address_caller']
+            long_info['Chain_restaurants_Within_500meter'] = joined['amenity']
+            print()
+            print("related amenities info")
+            print(long_info)
+
+            plt.figure(figsize=(8,6))
+            fig = plt.figure()
+            plt.scatter(joined['lon_caller'],joined['lat_caller'],30)
+            plt.scatter(joined['lon'],joined['lat'],10)
+
+            filtered = lowess(joined['lat_caller'],joined['lon_caller'], frac=0.7)
+            plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
+            print("Please see the map with blue dot is the suggessted resturant and orange dot is the nearby related amenities red line is your optimal waliking")
+            print() 
+            mplleaflet.show(fig=fig)
 
 def main():
-    # Get the data from image file and return a dictionary
-    data = {}
-    num_photos = 36
-    for i in range(1,num_photos):
-        data[i] = gpsphoto.getGPSData('provided_image/'+str(i)+'.jpeg')
-        data[i]['id'] = i
-
-    df = pd.DataFrame(data)
-    df = df.T
-    #df.to_csv('latlng.csv', index=False)
-
-    df = df.drop(columns=['Date','Altitude'])
-
-    plt.scatter(df['Latitude'],df['Longitude'])
-    plt.savefig('2dwalk_scatter_final.png')
-
-    model = make_pipeline(
-        PolynomialFeatures(degree=3, include_bias=True),
-        LinearRegression(fit_intercept=False)
-    )
-
-    model.fit(np.stack([df['Latitude']], axis=1), df['Longitude'])
-    x = np.linspace(df['Latitude'].max(), df['Latitude'].min(),10, dtype=np.longfloat)
-    y = model.predict(np.stack([x], axis=1))
-
-    plt.scatter(x,y)
-    plt.savefig('2dwalk_predicted_scatter_final.png')
-
-    plt.scatter(df['Latitude'],df['Longitude'])
-    plt.plot(x , y ,'r-', linewidth=3)
-    plt.savefig('2dwalk_predicted_final.png')
-
-    avg_latlon = pd.DataFrame() 
-    avg_latlon['lat'] = x
-    avg_latlon['lon']  = y
-
-    create_gpx(avg_latlon)
-
-    amenities = pd.read_csv('cities/Burnaby.csv')
-    amenities = user_input(amenities)
-
-    #avg_latlon = avg_latlon.apply(set_city,axis=1)
     avg_latlon = pd.read_csv('avg_latlon.csv')
 
+    cities_visted = avg_latlon['city'].unique()
+    amenities = []
+    print("You have visted follwing cities")
+    for city in cities_visted:
+        print(city)
+        df = pd.read_csv('cities/'+ city + '.csv')
+        amenities.append(df)
+    amenities = pd.concat(amenities)  
+    amenities = user_input(amenities)
     if(amenities.empty or avg_latlon.empty):
         print("Sorry not any popular amenities nearby")
     else:
+        print("Trying to suggest some amenities of your interest you would have visited")
         executeAI(avg_latlon,amenities)
 
+    print() 
     print("I might help you with one more adviced if you will be planning to go a nightclub")
     print("0 Not interested")
     print("1 Interested")
@@ -296,7 +299,24 @@ def main():
             print("Sorry no popular nightclub found in your city")
         else:
             execute_nightclub_AI(nightclub,amenities)
-        
+    print()   
+    print("I might help you with one more adviced if you will be planning to go a restaurant")
+    print("0 Not interested")
+    print("1 Interested")
+    value = input("")
+    value = int(value)
+    if(value==1):
+        city = city_input()
+        amenities = pd.read_csv('cities/'+ city + '.csv')
 
+        restaurant = amenities[amenities['amenity'] == 'restaurant']
+
+        df = pd.read_csv('categories.csv')
+        category = df['food'].dropna()
+        amenities = amenities[amenities['amenity'].isin(category)]
+        if(amenities.empty or restaurant.empty):
+            print("Sorry no popular resturant place found in your city")
+        else:
+            execute_restaurant_AI(restaurant,amenities)
 if __name__ == '__main__':
     main()
