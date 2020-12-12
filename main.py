@@ -227,7 +227,7 @@ def execute_restaurant_AI(restaurant,amenities):
         joined = joined[joined['distance']<500]
 
         joined['count'] = joined.groupby(['lat_caller','lon_caller'])['tags'].transform('count')
-        joined = joined[joined['count']>40]
+        joined = joined[joined['count']>20]
         if(joined.empty):
             print("Sorry no popular restaurant found in your city")
         else:
@@ -236,7 +236,7 @@ def execute_restaurant_AI(restaurant,amenities):
             suggested = suggested.drop_duplicates(subset=['lat_caller','lon_caller'])
 
             f = open("restuarant suggessstion.txt", "w")
-            f.write('Suggested restaurant info you can find more than 40 restaurant related amenities within 500meter\n')
+            f.write('Suggested restaurant info you can find more than 20 restaurant related amenities within 500meter\n')
             print(suggested['address_caller'])
 
             try:
@@ -261,6 +261,150 @@ def execute_restaurant_AI(restaurant,amenities):
             filtered = lowess(joined['lat_caller'],joined['lon_caller'], frac=0.7)
             plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
             print("Please see the map with blue dot is the suggessted resturant and orange dot is the nearby related amenities red line is your optimal waliking")
+            print() 
+            mplleaflet.show(fig=fig)
+
+def execute_medical_AI(medical):
+
+    joined = medical.join(medical.set_index('city'),lsuffix='_caller',on='city')
+
+    if(joined.empty):
+        print("Sorry no popular medical facilties found in your city")
+    else:
+        joined['distance']  = joined.apply(distance,axis=1)
+        joined = joined[joined['distance']<1000]
+
+        joined['count'] = joined.groupby(['lat_caller','lon_caller'])['tags'].transform('count')
+        joined = joined[joined['count']>10]
+        if(joined.empty):
+            print("Sorry no popular medical facilties found in your city")
+        else:
+            suggested = pd.DataFrame()
+            suggested = joined
+            suggested = suggested.drop_duplicates(subset=['lat_caller','lon_caller'])
+
+            f = open("medical facilties suggessstion.txt", "w")
+            f.write('Suggested medical facilties info you can find more than 10 medical facilties related amenities within 1Km\n')
+            print(suggested['address_caller'])
+
+            try:
+                f.write(suggested['address_caller'].to_string())
+            except KeyError:
+                f.write("Null")
+
+            f.close()
+
+            long_info = pd.DataFrame()
+            long_info['Suggested medical facilties info'] = joined['address_caller']
+            long_info['Chain_medical_facilties_Within_1KM'] = joined['amenity']
+            print()
+            print("Other chain medical facilties info")
+            print(long_info)
+
+            plt.figure(figsize=(8,6))
+            fig = plt.figure()
+            plt.scatter(joined['lon_caller'],joined['lat_caller'],30)
+            plt.scatter(joined['lon'],joined['lat'],10)
+
+            filtered = lowess(joined['lat_caller'],joined['lon_caller'], frac=0.7)
+            plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
+            print("Please see the map with blue dot is the suggessted medical facilties and orange dot is the nearby related amenities red line is your optimal waliking")
+            print() 
+            mplleaflet.show(fig=fig)
+
+def execute_work_AI(medical):
+
+    joined = medical.join(medical.set_index('city'),lsuffix='_caller',on='city')
+
+    if(joined.empty):
+        print("Sorry no popular work/school facilties found in your city")
+    else:
+        joined['distance']  = joined.apply(distance,axis=1)
+        joined = joined[joined['distance']<2000]
+
+        joined['count'] = joined.groupby(['lat_caller','lon_caller'])['tags'].transform('count')
+        joined = joined[joined['count']>5]
+        if(joined.empty):
+            print("Sorry no popular work/school found in your city")
+        else:
+            suggested = pd.DataFrame()
+            suggested = joined
+            suggested = suggested.drop_duplicates(subset=['lat_caller','lon_caller'])
+
+            f = open("work suggessstion.txt", "w")
+            f.write('Suggested work/school info you can find more than 5 work/school related amenities within 2Km\n')
+            print(suggested['address_caller'])
+
+            try:
+                f.write(suggested['address_caller'].to_string())
+            except KeyError:
+                f.write("Null")
+
+            f.close()
+
+            long_info = pd.DataFrame()
+            long_info['Suggested work/school info'] = joined['address_caller']
+            long_info['Chain_work_or_school_Within_1KM'] = joined['amenity']
+            print()
+            print("Other chain work/school facilties info")
+            print(long_info)
+
+            plt.figure(figsize=(8,6))
+            fig = plt.figure()
+            plt.scatter(joined['lon_caller'],joined['lat_caller'],30)
+            plt.scatter(joined['lon'],joined['lat'],10)
+
+            filtered = lowess(joined['lat_caller'],joined['lon_caller'], frac=0.7)
+            plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
+            print("Please see the map with blue dot is the suggessted medical facilties and orange dot is the nearby related amenities red line is your optimal waliking")
+            print() 
+            mplleaflet.show(fig=fig)
+
+def execute_vehicles_AI(vehicles):
+
+    joined = vehicles.join(vehicles.set_index('city'),lsuffix='_caller',on='city')
+
+    if(joined.empty):
+        print("Sorry no popular vehicles facilties found in your city")
+    else:
+        joined['distance']  = joined.apply(distance,axis=1)
+        joined = joined[joined['distance']<3000]
+
+        joined['count'] = joined.groupby(['lat_caller','lon_caller'])['tags'].transform('count')
+        joined = joined[joined['count']>5]
+        if(joined.empty):
+            print("Sorry no popular vehicles found in your city")
+        else:
+            suggested = pd.DataFrame()
+            suggested = joined
+            suggested = suggested.drop_duplicates(subset=['lat_caller','lon_caller'])
+
+            f = open("vehicles suggessstion.txt", "w")
+            f.write('Suggested vehicles info you can find more than 5 vehiclesrelated amenities within 3Km\n')
+            print(suggested['address_caller'])
+
+            try:
+                f.write(suggested['address_caller'].to_string())
+            except KeyError:
+                f.write("Null")
+
+            f.close()
+
+            long_info = pd.DataFrame()
+            long_info['Suggested vehicles info'] = joined['address_caller']
+            long_info['Chain_vehicles_Within_3KM'] = joined['amenity']
+            print()
+            print("Other chain vehicles facilties info")
+            print(long_info)
+
+            plt.figure(figsize=(8,6))
+            fig = plt.figure()
+            plt.scatter(joined['lon_caller'],joined['lat_caller'],30)
+            plt.scatter(joined['lon'],joined['lat'],10)
+
+            filtered = lowess(joined['lat_caller'],joined['lon_caller'], frac=0.7)
+            plt.plot(filtered[:, 0], filtered[:, 1],'r-', linewidth=5)
+            print("Please see the map with blue dot is the suggessted medical facilties and orange dot is the nearby related amenities red line is your optimal waliking")
             print() 
             mplleaflet.show(fig=fig)
 
@@ -318,5 +462,62 @@ def main():
             print("Sorry no popular resturant place found in your city")
         else:
             execute_restaurant_AI(restaurant,amenities)
+
+    print()   
+    print("I might help you with one more adviced if you will be planning to go a medical related service")
+    print("0 Not interested")
+    print("1 Interested")
+    value = input("")
+    value = int(value)
+    if(value==1):
+        city = city_input()
+        amenities = pd.read_csv('cities/'+ city + '.csv')
+
+        df = pd.read_csv('categories.csv')
+        category = df['health'].dropna()
+        medical = amenities[amenities['amenity'].isin(category)]
+
+        if(medical.empty):
+            print("Sorry no popular resturant place found in your city")
+        else:
+            execute_medical_AI(medical)
+
+    print()   
+    print("I might help you with one more adviced if you will be planning to go a work related service")
+    print("0 Not interested")
+    print("1 Interested")
+    value = input("")
+    value = int(value)
+    if(value==1):
+        city = city_input()
+        amenities = pd.read_csv('cities/'+ city + '.csv')
+
+        df = pd.read_csv('categories.csv')
+        category = df['work'].dropna()
+        work = amenities[amenities['amenity'].isin(category)]
+
+        if(work.empty):
+            print("Sorry no popular resturant place found in your city")
+        else:
+            execute_work_AI(work)
+
+    print()   
+    print("I might help you with one more adviced if you will be planning to go a vehicle related service")
+    print("0 Not interested")
+    print("1 Interested")
+    value = input("")
+    value = int(value)
+    if(value==1):
+        city = city_input()
+        amenities = pd.read_csv('cities/'+ city + '.csv')
+
+        df = pd.read_csv('categories.csv')
+        category = df['vehicles'].dropna()
+        vehicles = amenities[amenities['amenity'].isin(category)]
+
+        if(vehicles.empty):
+            print("Sorry no popular resturant place found in your city")
+        else:
+            execute_vehicles_AI(vehicles)
 if __name__ == '__main__':
     main()
